@@ -1,0 +1,994 @@
+﻿{
+  "magazyn": [
+    {
+      "Indeks": "GHD-100-6",
+      "Nazwa artykulu": "Gniazdo przeciwkurzowe Okragle, mosiadz",
+      "Stan": "81"
+    },
+    {
+      "Indeks": "GHD-100-4",
+      "Nazwa artykulu": "Gniazdo z oslonka przeciwpylowa dl. 70,  szer. 25,mosiadz",
+      "Stan": "319"
+    },
+    {
+      "Indeks": "NTH02-B",
+      "Nazwa artykulu": "Klamka - aluminium / Czarna anoda",
+      "Stan": "27"
+    },
+    {
+      "Indeks": "NTH01-NA",
+      "Nazwa artykulu": "Klamka - anoda,stal nierdzewna",
+      "Stan": "151"
+    },
+    {
+      "Indeks": "NTH02-NA",
+      "Nazwa artykulu": "Klamka - anoda,stal nierdzewna",
+      "Stan": "8"
+    },
+    {
+      "Indeks": "NTH01-SS",
+      "Nazwa artykulu": "Klamka - satyna, stal nierdzewna",
+      "Stan": "34"
+    },
+    {
+      "Indeks": "NTH01-B",
+      "Nazwa artykulu": "Klamka / aluminium / Czarna Anoda",
+      "Stan": "1"
+    },
+    {
+      "Indeks": "NTH01-B",
+      "Nazwa artykulu": "Klamka / aluminium / Czarna Anoda",
+      "Stan": "53"
+    },
+    {
+      "Indeks": "NTH06-PSS",
+      "Nazwa artykulu": "Klamka- polysk,stal nierdzewna",
+      "Stan": "91"
+    },
+    {
+      "Indeks": "NTH02-SS",
+      "Nazwa artykulu": "Klamka- satyna,stal nierdzewna",
+      "Stan": "46"
+    },
+    {
+      "Indeks": "NTH04-SS",
+      "Nazwa artykulu": "Klamka- satyna,stal nierdzewna",
+      "Stan": "256"
+    },
+    {
+      "Indeks": "NTH06-SS",
+      "Nazwa artykulu": "Klamka- satyna,stal nierdzewna",
+      "Stan": "12"
+    },
+    {
+      "Indeks": "NTH05-SS",
+      "Nazwa artykulu": "Klamka- satyna,stal nierdzewna",
+      "Stan": "166"
+    },
+    {
+      "Indeks": "GHD-122A-PSS",
+      "Nazwa artykulu": "lacznik czterech paneli, wym. 106x106x32mm, szklo 8-12mm, Polysk, mosiadz",
+      "Stan": "18"
+    },
+    {
+      "Indeks": "GHD-122A-SSS",
+      "Nazwa artykulu": "lacznik czterech paneli, wym. 106x106x32mm, szklo 8-12mm, Satyna,mosiadz",
+      "Stan": "41"
+    },
+    {
+      "Indeks": "GHD-120-T",
+      "Nazwa artykulu": "lozysko do okucia gornego GHD-120D, mosiadz",
+      "Stan": "2"
+    },
+    {
+      "Indeks": "NLO-ZD-1302-1",
+      "Nazwa artykulu": "lozysko dolne do okucia dolnego/ satyna,lozysko dolne mosiadz",
+      "Stan": "2"
+    },
+    {
+      "Indeks": "NLO-ZD-1302",
+      "Nazwa artykulu": "lozysko dolne mosiadz",
+      "Stan": "8"
+    },
+    {
+      "Indeks": "GHD-110-12D",
+      "Nazwa artykulu": "lozysko podlogowe do okucia dolnego / polysk",
+      "Stan": "6"
+    },
+    {
+      "Indeks": "GHD-110-12D-1",
+      "Nazwa artykulu": "lozysko podlogowe do okucia dolnego / satyna,mosiadz",
+      "Stan": "48"
+    },
+    {
+      "Indeks": "GHD-110D-PSS",
+      "Nazwa artykulu": "Okucie dolne/161x51/gr.10-12/polysk,mosiadz",
+      "Stan": "47"
+    },
+    {
+      "Indeks": "GHD-110D-SSS",
+      "Nazwa artykulu": "Okucie dolne/161x51/gr.10-12mm/satyna,mosiadz",
+      "Stan": "16"
+    },
+    {
+      "Indeks": "N0302209",
+      "Nazwa artykulu": "Okucie gorne do samozamykacza w okuciu / satyna/stal nierdzewna",
+      "Stan": "637"
+    },
+    {
+      "Indeks": "N0302209-125",
+      "Nazwa artykulu": "Okucie gorne do samozamykacza w okuciu typ 125 / satyna/stal nierdzewna",
+      "Stan": "23"
+    },
+    {
+      "Indeks": "GHD-120D-SSS",
+      "Nazwa artykulu": "Okucie gorne/ 161x51/ gr.10-12mm/ satyna,mosiadz",
+      "Stan": "28"
+    },
+    {
+      "Indeks": "GHD-130P-PSS",
+      "Nazwa artykulu": "Okucie gorne/ plytka montazowa/ 161x51/ gr. 10-12/ polysk,mosiadz",
+      "Stan": "191"
+    },
+    {
+      "Indeks": "GHD-130P-SSS",
+      "Nazwa artykulu": "Okucie gorne/ plytka montazowa/ 161x51/ gr. 10-12/ satyna,mosiadz",
+      "Stan": "86"
+    },
+    {
+      "Indeks": "GHD-120D-PSS",
+      "Nazwa artykulu": "Okucie gorne/161x51/gr.10-12mm/polysk,mosiadz",
+      "Stan": "11"
+    },
+    {
+      "Indeks": "GHD-130S-PSS",
+      "Nazwa artykulu": "Okucie gorne/trzpień mocujacy/ 161x51/ gr. 10-12/ polysk,mosiadz",
+      "Stan": "53"
+    },
+    {
+      "Indeks": "GHD-130S-SSS",
+      "Nazwa artykulu": "Okucie gorne/trzpień mocujacy/ 161x51/ gr. 10-12/ satyna,mosiadz",
+      "Stan": "65"
+    },
+    {
+      "Indeks": "GHD-191S-SSS",
+      "Nazwa artykulu": "Okucie Kostka/ 70x52/ gr. 10-12mm/ satyna,mosiadz",
+      "Stan": "112"
+    },
+    {
+      "Indeks": "GHD-160A-SSS",
+      "Nazwa artykulu": "Okucie L/ 106x106/ gr. 10-12mm/ satyna,mosiadz",
+      "Stan": "28"
+    },
+    {
+      "Indeks": "GHD-160A-B",
+      "Nazwa artykulu": "Okucie L/ 106x106/ gr. 10-12mm/ stal nierdzewna / czarny",
+      "Stan": "18"
+    },
+    {
+      "Indeks": "GHD-140B-PSS",
+      "Nazwa artykulu": "Okucie L/ 161x51/ gr. 10-12mm/ polysk /stoper,mosiadz",
+      "Stan": "91"
+    },
+    {
+      "Indeks": "GHD-140B-SSS",
+      "Nazwa artykulu": "Okucie L/ 161x51/ gr. 10-12mm/ satyna /stoper,mosiadz",
+      "Stan": "43"
+    },
+    {
+      "Indeks": "GHD-140-SSS",
+      "Nazwa artykulu": "Okucie L/ 161x51/ gr. 10-12mm/ satyna,mosiadz",
+      "Stan": "14"
+    },
+    {
+      "Indeks": "GHD-140-B",
+      "Nazwa artykulu": "Okucie L/ 161x51/ gr. 10-12mm/ stal nierdzewna / czarny",
+      "Stan": "18"
+    },
+    {
+      "Indeks": "GHD-181A-PSS",
+      "Nazwa artykulu": "Okucie szklo-szklo/ 10-12mm/ polysk,mosiadz",
+      "Stan": "9"
+    },
+    {
+      "Indeks": "GHD-150RD-PSS",
+      "Nazwa artykulu": "Okucie z zamkiem/ 161x51/ gr. 10-12mm/ polysk,mosiadz",
+      "Stan": "16"
+    },
+    {
+      "Indeks": "GHD-150RD-SSS",
+      "Nazwa artykulu": "Okucie z zamkiem/ 161x51/ gr. 10-12mm/ satyna,mosiadz",
+      "Stan": "5"
+    },
+    {
+      "Indeks": "GHD-150B-SSS",
+      "Nazwa artykulu": "Okucie z zamkiem/ 161x51/ gr. 10-12mm/ satyna,mosiadz",
+      "Stan": "34"
+    },
+    {
+      "Indeks": "GHD-120A-PSS",
+      "Nazwa artykulu": "Okucie,  polysk,  dl. 140,  szer. 32,  wys. 45,mosiadz",
+      "Stan": "1"
+    },
+    {
+      "Indeks": "GHD-140A-PSS",
+      "Nazwa artykulu": "Okucie,  polysk,  dl. 188,  szer. 32,  wys. 45,  ksztalt L,mosiadz",
+      "Stan": "5"
+    },
+    {
+      "Indeks": "GHD-191P-PSS",
+      "Nazwa artykulu": "Okucie,  polysk,  dl. 70,  szer. 32,  wys. 52,  prostokat,mosiadz",
+      "Stan": "37"
+    },
+    {
+      "Indeks": "GHD-110A-SSS",
+      "Nazwa artykulu": "Okucie,  satyna,  dl. 140,  szer. 32,  wys. 45, mosiadz",
+      "Stan": "7"
+    },
+    {
+      "Indeks": "GHD-140A-SSS",
+      "Nazwa artykulu": "Okucie,  satyna,  dl. 188,  szer. 32,  wys. 45,  ksztalt L,mosiadz",
+      "Stan": "4"
+    },
+    {
+      "Indeks": "GHD-191P-SSS",
+      "Nazwa artykulu": "Okucie,  satyna,  dl. 70,  szer. 32,  wys. 52,  prostokat,mosiadz",
+      "Stan": "100"
+    },
+    {
+      "Indeks": "NTP03-SS",
+      "Nazwa artykulu": "Plytka do zamka, stal nierdzewna ",
+      "Stan": "3"
+    },
+    {
+      "Indeks": "NTP00M-NA",
+      "Nazwa artykulu": "Plytka magnetyczna do zamkow 501M/503M/801M / anoda,stal nierdzewna",
+      "Stan": "352"
+    },
+    {
+      "Indeks": "NTP00M-SS",
+      "Nazwa artykulu": "Plytka magnetyczna do zamkow 501M/503M/801M / satyna,stal nierdzewna",
+      "Stan": "405"
+    },
+    {
+      "Indeks": "NTP00M-PSS",
+      "Nazwa artykulu": "Plytka magnetyczna do zamkow 501M/503M/801M / stal nierdzewna / polysk",
+      "Stan": "79"
+    },
+    {
+      "Indeks": "NLO-ZD-2857-B",
+      "Nazwa artykulu": "Pochwyt C / 13x25x203mm/ CZARNY,stal nierdzewna",
+      "Stan": "4"
+    },
+    {
+      "Indeks": "NLO-ZD-2857",
+      "Nazwa artykulu": "Pochwyt C / 13x25x203mm/ polysk,stal nierdzewna",
+      "Stan": "364"
+    },
+    {
+      "Indeks": "NLO-ZD-2856-B",
+      "Nazwa artykulu": "Pochwyt C / 19x19x203mm/ CZARNY,stal nierdzewna",
+      "Stan": "90"
+    },
+    {
+      "Indeks": "NLO-ZD-2856",
+      "Nazwa artykulu": "Pochwyt C / 19x19x203mm/ polysk,stal nierdzewna",
+      "Stan": "249"
+    },
+    {
+      "Indeks": "NLO-ZD-2856-1",
+      "Nazwa artykulu": "Pochwyt C / 19x19x203mm/ satyna,stal nierdzewna",
+      "Stan": "100"
+    },
+    {
+      "Indeks": "NLO-ZD-2816-B",
+      "Nazwa artykulu": "Pochwyt C / fi 19x176mm/ czarny, stal nierdzewna",
+      "Stan": "18"
+    },
+    {
+      "Indeks": "NLO-ZD-2816",
+      "Nazwa artykulu": "Pochwyt C / fi 19x176mm/ polysk,stal nierdzewna",
+      "Stan": "47"
+    },
+    {
+      "Indeks": "NLO-ZD-2816-1",
+      "Nazwa artykulu": "Pochwyt C / fi 19x176mm/ satyna, stal nierdzewna",
+      "Stan": "22"
+    },
+    {
+      "Indeks": "NLO-ZD-2815-400",
+      "Nazwa artykulu": "Pochwyt C z galka / fi 19x400mm/ polysk,stal nierdzewna",
+      "Stan": "169"
+    },
+    {
+      "Indeks": "NLO-ZD-2855",
+      "Nazwa artykulu": "Pochwyt C z galka 19x19x305mm/ polysk,stal nierdzewna",
+      "Stan": "132"
+    },
+    {
+      "Indeks": "NLO-ZD-2855-1",
+      "Nazwa artykulu": "Pochwyt C z galka 19x19x305mm/ satyna,stal nierdzewna",
+      "Stan": "11"
+    },
+    {
+      "Indeks": "NLO-ZD-2857-1",
+      "Nazwa artykulu": "Pochwyt C/ 13x25x203mm/ satyna,stal nierdzewna",
+      "Stan": "6"
+    },
+    {
+      "Indeks": "NLO-ZD-2857-457-1",
+      "Nazwa artykulu": "Pochwyt C/ 13x25x457mm/ satyna,stal nierdzewna",
+      "Stan": "53"
+    },
+    {
+      "Indeks": "NLO-ZD-2857-610-1",
+      "Nazwa artykulu": "Pochwyt C/ 13x25x610mm/ satyna,stal nierdzewna",
+      "Stan": "75"
+    },
+    {
+      "Indeks": "NLO-ZD-2856-610",
+      "Nazwa artykulu": "Pochwyt C/ 19x19x610mm/ polysk,stal nierdzewna",
+      "Stan": "77"
+    },
+    {
+      "Indeks": "NLO-ZD-2856-610-1",
+      "Nazwa artykulu": "Pochwyt C/ 19x19x610mm/ satyna,stal nierdzewna",
+      "Stan": "72"
+    },
+    {
+      "Indeks": "NTDL70-1",
+      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych 120x70mm/ prosty/ satyna,stal nierdzewna",
+      "Stan": "20"
+    },
+    {
+      "Indeks": "NTDL55R-2",
+      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/ prosty/ anoda,stal nierdzewna",
+      "Stan": "1"
+    },
+    {
+      "Indeks": "NTDL55R-1",
+      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/ prosty/ satyna,stal nierdzewna",
+      "Stan": "36"
+    },
+    {
+      "Indeks": "NTDL55-B",
+      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/faza/czarny,stal nierdzewna",
+      "Stan": "19"
+    },
+    {
+      "Indeks": "NTDL55",
+      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/faza/polysk,stal nierdzewna",
+      "Stan": "7"
+    },
+    {
+      "Indeks": "NTDL55-1",
+      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/faza/satyna,stal nierdzewna",
+      "Stan": "28"
+    },
+    {
+      "Indeks": "NTDL55R",
+      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/prosty/polysk,stal nierdzewna",
+      "Stan": "58"
+    },
+    {
+      "Indeks": "NPR-PSDK-104",
+      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 65mm,stal nierdzewna",
+      "Stan": "22"
+    },
+    {
+      "Indeks": "NJY-DP-P",
+      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych,stal nierdzewna",
+      "Stan": "38"
+    },
+    {
+      "Indeks": "NLO-ZD-2850",
+      "Nazwa artykulu": "Pochwyt do kabiny pryszn./ 19x19/ L200/400mm/ polysk,stal nierdzewna",
+      "Stan": "92"
+    },
+    {
+      "Indeks": "NLO-ZD-2850-1",
+      "Nazwa artykulu": "Pochwyt do kabiny pryszn./ 19x19/ L200/400mm/ satyna,stal nierdzewna",
+      "Stan": "32"
+    },
+    {
+      "Indeks": "GMTG926-US32D-2 L800",
+      "Nazwa artykulu": "Pochwyt kwadratowy dl. 800mm/satyna",
+      "Stan": "75"
+    },
+    {
+      "Indeks": "NLO-ZD-2858",
+      "Nazwa artykulu": "Pochwyt typ \"H\" 13x25x203/polysk,stal nierdzewna",
+      "Stan": "141"
+    },
+    {
+      "Indeks": "NLO-ZD-2858-1",
+      "Nazwa artykulu": "Pochwyt typ \"H\" 13x25x203/satyna/stal nierdzewna",
+      "Stan": "26"
+    },
+    {
+      "Indeks": "NLO-ZD-2858-610/P",
+      "Nazwa artykulu": "Pochwyt typ \"H\" 13x25x610/polysk, stal nierdzewna",
+      "Stan": "19"
+    },
+    {
+      "Indeks": "NLO-ZD-2858-610",
+      "Nazwa artykulu": "Pochwyt typ \"H\" 13x25x610/satyna, stal nierdzewna",
+      "Stan": "17"
+    },
+    {
+      "Indeks": "NLO-ZD-98A-116",
+      "Nazwa artykulu": "Pochwyt typ \"H\"25x38x1500/z zamkiem/satyna,stal nierdzewna",
+      "Stan": "106"
+    },
+    {
+      "Indeks": "GMT-G850-US32D-L600",
+      "Nazwa artykulu": "Pochwyt typ C,  dl. 600mm,  SS304,stal nierdzewna",
+      "Stan": "2"
+    },
+    {
+      "Indeks": "GMT-G850-US32D-L600",
+      "Nazwa artykulu": "Pochwyt typ C,  dl. 600mm,  SS304,stal nierdzewna",
+      "Stan": "42"
+    },
+    {
+      "Indeks": "GMT-G800-US32D L1000",
+      "Nazwa artykulu": "Pochwyt typ H dl. 1000,  SS304, stal nierdzewna",
+      "Stan": "116"
+    },
+    {
+      "Indeks": "GMT-G800-US32D L1200",
+      "Nazwa artykulu": "Pochwyt typ H dl. 1200,  SS304,stal nierdzewna",
+      "Stan": "30"
+    },
+    {
+      "Indeks": "GMT-G800-US32D L1800",
+      "Nazwa artykulu": "Pochwyt typ H dl. 1800,  SS304,stal nierdzewna",
+      "Stan": "21"
+    },
+    {
+      "Indeks": "GMT-G800-US32D L800",
+      "Nazwa artykulu": "Pochwyt typ H dl. 800,  SS304,stal nierdzewna",
+      "Stan": "88"
+    },
+    {
+      "Indeks": "GMT-G800-US32-L450 PSS",
+      "Nazwa artykulu": "Pochwyt typ H,  dl. 450mm,  SS304 / POlYSK,stal nierdzewna",
+      "Stan": "21"
+    },
+    {
+      "Indeks": "GMT-G800-US32D-L450",
+      "Nazwa artykulu": "Pochwyt typ H,  dl. 450mm,  SS304,stal nierdzewna",
+      "Stan": "85"
+    },
+    {
+      "Indeks": "GMT-G800-US32D-L450-B",
+      "Nazwa artykulu": "Pochwyt typ H,  dl. 450mm,  SS304,stal nierdzewna/czarny",
+      "Stan": "140"
+    },
+    {
+      "Indeks": "NLO-ZD-98A-113",
+      "Nazwa artykulu": "Pochwyt typ H/fi35x1500/z zamkiem/satyna,stal nierdzewna",
+      "Stan": "61"
+    },
+    {
+      "Indeks": "GMTG926-US32D-2 L600",
+      "Nazwa artykulu": "pochwyt/304/satyna L600",
+      "Stan": "15"
+    },
+    {
+      "Indeks": "NTP01-B",
+      "Nazwa artykulu": "Przeciwkaseta do zamka 501/ aluminium / Czarna anoda",
+      "Stan": "72"
+    },
+    {
+      "Indeks": "NTP01-SS",
+      "Nazwa artykulu": "Przeciwkaseta do zamka 501/801,stal nierdzewna",
+      "Stan": "72"
+    },
+    {
+      "Indeks": "NTP01-NA",
+      "Nazwa artykulu": "Przeciwkaseta do zamka 501/801,stal nierdzewna",
+      "Stan": "233"
+    },
+    {
+      "Indeks": "NTP04-SS",
+      "Nazwa artykulu": "Przeciwkaseta do zamka 503,stal nierdzewna",
+      "Stan": "62"
+    },
+    {
+      "Indeks": "NTP01M-B",
+      "Nazwa artykulu": "Przeciwkaseta do zamka magnetycznego 501M / aluminium / Czarna anoda",
+      "Stan": "71"
+    },
+    {
+      "Indeks": "NTP01M-NA",
+      "Nazwa artykulu": "Przeciwkaseta do zamka magnetycznego 501M/801M / anoda,stal nierdzewna",
+      "Stan": "157"
+    },
+    {
+      "Indeks": "NTP01M-SS",
+      "Nazwa artykulu": "Przeciwkaseta do zamka magnetycznego 501M/801M / satyna,stal nierdzewna",
+      "Stan": "40"
+    },
+    {
+      "Indeks": "NTP04M-SS",
+      "Nazwa artykulu": "Przeciwkaseta do zamka magnetycznego 503M,stal nierdzewna",
+      "Stan": "87"
+    },
+    {
+      "Indeks": "NLO-ZD-3231K-1",
+      "Nazwa artykulu": "Przeciwkaseta do zamka NLO-ZD-3231-1 / satyna",
+      "Stan": "17"
+    },
+    {
+      "Indeks": "NTP02-NA",
+      "Nazwa artykulu": "Przeciwkaseta do zamka, okragla, anoda,",
+      "Stan": "100"
+    },
+    {
+      "Indeks": "NTP02-SS",
+      "Nazwa artykulu": "Przeciwkaseta do zamka, okragla, stal nierdzewna",
+      "Stan": "165"
+    },
+    {
+      "Indeks": "ST-110E",
+      "Nazwa artykulu": "Samozamykacz podlogowy Typ splaszczony/ 110kg, stal nierdzewna",
+      "Stan": "48"
+    },
+    {
+      "Indeks": "ST-120",
+      "Nazwa artykulu": "Samozamykacz podlogowy Typ waski/ 120kg,stal nierdzewna",
+      "Stan": "5"
+    },
+    {
+      "Indeks": "GMTH555D",
+      "Nazwa artykulu": "Samozamykacz podlogowy- z pelna regulacja polezenia osi,stal nierdzewna",
+      "Stan": "4"
+    },
+    {
+      "Indeks": "N0302110",
+      "Nazwa artykulu": "Samozamykacz w okuciu /polysk/stal nierdzewna",
+      "Stan": "160"
+    },
+    {
+      "Indeks": "N0302109",
+      "Nazwa artykulu": "Samozamykacz w okuciu /satyna,stal nierdzewna",
+      "Stan": "24"
+    },
+    {
+      "Indeks": "N0302108",
+      "Nazwa artykulu": "Samozamykacz w okuciu /satyna/stal nierdzewna",
+      "Stan": "73"
+    },
+    {
+      "Indeks": "N0302121",
+      "Nazwa artykulu": "Samozamykacz w okuciu do drzwi drewnianych,stal nierdzewna",
+      "Stan": "3"
+    },
+    {
+      "Indeks": "N0302109-125",
+      "Nazwa artykulu": "Samozamykacz w okuciu do szerokoch drzwi 1250mm  /satyna,stal nierdzewna",
+      "Stan": "12"
+    },
+    {
+      "Indeks": "N0302222",
+      "Nazwa artykulu": "Samozamykacz w okuciu gornym do drzwi szklanych,stal nierdzewna",
+      "Stan": "5"
+    },
+    {
+      "Indeks": "NLO-ZD-1301",
+      "Nazwa artykulu": "Trzpień do okucia gornego,mosiadz",
+      "Stan": "613"
+    },
+    {
+      "Indeks": "GHD-133-1",
+      "Nazwa artykulu": "Trzpień do okucia gornego/ satyna,mosiadz",
+      "Stan": "218"
+    },
+    {
+      "Indeks": "NTZ380-T",
+      "Nazwa artykulu": "Trzpień do zawiasu NTZ-380 do ościeznicy drewnianej ,mosiadz",
+      "Stan": "2"
+    },
+    {
+      "Indeks": "NTZ380-T",
+      "Nazwa artykulu": "Trzpień do zawiasu NTZ-380 do ościeznicy drewnianej ,mosiadz",
+      "Stan": "17"
+    },
+    {
+      "Indeks": "NTZ-380-TP",
+      "Nazwa artykulu": "Trzpień z plytka do zawiasu NTZ-380 do ościeznicy,mosiadz",
+      "Stan": "1"
+    },
+    {
+      "Indeks": "NLO-ZD-98A-W",
+      "Nazwa artykulu": "Wkladka do pochwytow 98A-113/116,stal nierdzewna",
+      "Stan": "42"
+    },
+    {
+      "Indeks": "NTW03KK-SS",
+      "Nazwa artykulu": "Wkladka do zamka ; Typ 12/28,mosiadz, satyna",
+      "Stan": "1"
+    },
+    {
+      "Indeks": "NTW03KK-SS",
+      "Nazwa artykulu": "Wkladka do zamka ; Typ 12/28,mosiadz, satyna",
+      "Stan": "1"
+    },
+    {
+      "Indeks": "NTW03KK-SS",
+      "Nazwa artykulu": "Wkladka do zamka ; Typ 12/28,mosiadz, satyna",
+      "Stan": "157"
+    },
+    {
+      "Indeks": "NTW03KK-B",
+      "Nazwa artykulu": "Wkladka do zamka ; Typ 12/28,mosiadz, czarny chrom",
+      "Stan": "8"
+    },
+    {
+      "Indeks": "NTW03KK-28-SS",
+      "Nazwa artykulu": "Wkladka do zamka ; Typ 28/28,stal nierdzewna",
+      "Stan": "2"
+    },
+    {
+      "Indeks": "NTW01WC-NA",
+      "Nazwa artykulu": "Wkladka do zamka/18/Galka/anoda,stal nierdzewna",
+      "Stan": "292"
+    },
+    {
+      "Indeks": "NTW01WC-SS",
+      "Nazwa artykulu": "Wkladka do zamka/18/Galka/satyna,stal nierdzewna",
+      "Stan": "434"
+    },
+    {
+      "Indeks": "NTW01KG-NA",
+      "Nazwa artykulu": "Wkladka do zamka/18/Galka-klucz/anoda,stal nierdzewna",
+      "Stan": "207"
+    },
+    {
+      "Indeks": "NTW01KG-SS",
+      "Nazwa artykulu": "Wkladka do zamka/18/Galka-klucz/satyna,stal nierdzewna",
+      "Stan": "3"
+    },
+    {
+      "Indeks": "NTW01KG-SS",
+      "Nazwa artykulu": "Wkladka do zamka/18/Galka-klucz/satyna,stal nierdzewna",
+      "Stan": "189"
+    },
+    {
+      "Indeks": "NTW02WC-SS",
+      "Nazwa artykulu": "Wkladka do zamka/25/Galka/satyna,stal nierdzewna",
+      "Stan": "482"
+    },
+    {
+      "Indeks": "NTW02WC-NA",
+      "Nazwa artykulu": "Wkladka do zamka/25/Galka/satyna,stal nierdzewna",
+      "Stan": "279"
+    },
+    {
+      "Indeks": "NTW02KG-NA",
+      "Nazwa artykulu": "Wkladka do zamka/25/Galka-klucz/anoda,stal nierdzewna",
+      "Stan": "256"
+    },
+    {
+      "Indeks": "NTW02KG-SS",
+      "Nazwa artykulu": "Wkladka do zamka/25/Galka-klucz/satyna,stal nierdzewna",
+      "Stan": "245"
+    },
+    {
+      "Indeks": "GHD-017R",
+      "Nazwa artykulu": "Zamek cyfrowy z przeciwkaseta/ prawy/mosiadz",
+      "Stan": "2"
+    },
+    {
+      "Indeks": "NLO-ZD-3221-1",
+      "Nazwa artykulu": "Zamek drzwiowy z galka / satyna",
+      "Stan": "3"
+    },
+    {
+      "Indeks": "GMTPCS-446A-US15",
+      "Nazwa artykulu": "Zamek drzwiowy z galka szklo-podloga/satyna,stal nierdzewna",
+      "Stan": "26"
+    },
+    {
+      "Indeks": "GMTPCS-446B-US26",
+      "Nazwa artykulu": "Zamek drzwiowy z galka szklo-szklo + przeciwkaseta/ POlYSK,stal nierdzewna",
+      "Stan": "32"
+    },
+    {
+      "Indeks": "GMTPCS-446B-US15",
+      "Nazwa artykulu": "Zamek drzwiowy z galka szklo-szklo + przeciwkaseta/ satyna,stal nierdzewna",
+      "Stan": "58"
+    },
+    {
+      "Indeks": "NLO-ZD-3231-1",
+      "Nazwa artykulu": "Zamek drzwiowy z wkadka na klucz / satyna",
+      "Stan": "12"
+    },
+    {
+      "Indeks": "NT801WC-NA",
+      "Nazwa artykulu": "Zamek lazienkowy/ 110/ anoda,stal nierdzewna",
+      "Stan": "85"
+    },
+    {
+      "Indeks": "NT801WC-B",
+      "Nazwa artykulu": "Zamek lazienkowy/ 110/ czarny,stal nierdzewna",
+      "Stan": "59"
+    },
+    {
+      "Indeks": "NT801WC-SS",
+      "Nazwa artykulu": "Zamek lazienkowy/ 110/ satyna, stal nierdzewna",
+      "Stan": "252"
+    },
+    {
+      "Indeks": "NT501-WC-SS",
+      "Nazwa artykulu": "Zamek lazienkowy/ 160/ stal nierdzewna / satyna",
+      "Stan": "2"
+    },
+    {
+      "Indeks": "NT501-WC-NA",
+      "Nazwa artykulu": "Zamek lazienkowy/ 160/ stal nierdzewna / srebrna anoda",
+      "Stan": "156"
+    },
+    {
+      "Indeks": "NT801M-WC-PSS",
+      "Nazwa artykulu": "Zamek magnetyczny lazienkowy/ 110/ stal nierdzewna / polysk",
+      "Stan": "27"
+    },
+    {
+      "Indeks": "NT801M-WC-SS",
+      "Nazwa artykulu": "Zamek magnetyczny lazienkowy/ 110/ stal nierdzewna / satyna",
+      "Stan": "41"
+    },
+    {
+      "Indeks": "NT801M-WC-NA",
+      "Nazwa artykulu": "Zamek magnetyczny lazienkowy/ 110/ stal nierdzewna / srebrna anoda",
+      "Stan": "103"
+    },
+    {
+      "Indeks": "NT501M-WC-SS",
+      "Nazwa artykulu": "Zamek magnetyczny lazienkowy/ 160/ stal nierdzewna / satyna",
+      "Stan": "59"
+    },
+    {
+      "Indeks": "NT501M-WC-NA",
+      "Nazwa artykulu": "Zamek magnetyczny lazienkowy/ 160/ stal nierdzewna / srebrna anoda",
+      "Stan": "97"
+    },
+    {
+      "Indeks": "NT501M-WL-NA",
+      "Nazwa artykulu": "Zamek magnetyczny oszczednościowy/160/aluminium,srebrna anoda",
+      "Stan": "39"
+    },
+    {
+      "Indeks": "NT501M-WL-SS",
+      "Nazwa artykulu": "Zamek magnetyczny oszczednościowy/160/stal nierdzewna",
+      "Stan": "3"
+    },
+    {
+      "Indeks": "NT501M-B",
+      "Nazwa artykulu": "Zamek magnetyczny pod wkladke/160/ aluminium / Czarna anoda",
+      "Stan": "58"
+    },
+    {
+      "Indeks": "NT501M-NA",
+      "Nazwa artykulu": "Zamek magnetyczny pod wkladke/160/ anoda,stal nierdzewna",
+      "Stan": "87"
+    },
+    {
+      "Indeks": "NT503M-NA",
+      "Nazwa artykulu": "Zamek magnetyczny pod wkladke/160/ anoda,stal nierdzewna",
+      "Stan": "186"
+    },
+    {
+      "Indeks": "NT501M-PSS",
+      "Nazwa artykulu": "Zamek magnetyczny pod wkladke/160/ polysk,stal nierdzewna",
+      "Stan": "43"
+    },
+    {
+      "Indeks": "NT503M-SS",
+      "Nazwa artykulu": "Zamek magnetyczny pod wkladke/160/ satyna,stal nierdzewna",
+      "Stan": "248"
+    },
+    {
+      "Indeks": "NT501M-SS",
+      "Nazwa artykulu": "Zamek magnetyczny pod wkladke/160/ satyna,stal nierdzewna",
+      "Stan": "199"
+    },
+    {
+      "Indeks": "NT801M-NA",
+      "Nazwa artykulu": "Zamek magnetyczny/ 110/ anoda,stal nierdzewna",
+      "Stan": "68"
+    },
+    {
+      "Indeks": "NT801M-SS",
+      "Nazwa artykulu": "Zamek magnetyczny/ 110/ satyna,stal nierdzewna",
+      "Stan": "56"
+    },
+    {
+      "Indeks": "NT501WL-B",
+      "Nazwa artykulu": "Zamek oszczednościowy/160/aluminium / Czarna anoda",
+      "Stan": "84"
+    },
+    {
+      "Indeks": "NT501WL-NA",
+      "Nazwa artykulu": "Zamek oszczednościowy/160/aluminium,srebrna anoda",
+      "Stan": "114"
+    },
+    {
+      "Indeks": "NT502WL-NA",
+      "Nazwa artykulu": "Zamek oszczednościowy/160/anoda,stal nierdzewna",
+      "Stan": "241"
+    },
+    {
+      "Indeks": "NT502WL-SS",
+      "Nazwa artykulu": "Zamek oszczednościowy/160/satyna,stal nierdzewna",
+      "Stan": "155"
+    },
+    {
+      "Indeks": "NT501WL-SS",
+      "Nazwa artykulu": "Zamek oszczednościowy/160/stal nierdzewna",
+      "Stan": "63"
+    },
+    {
+      "Indeks": "NT501-NA",
+      "Nazwa artykulu": "Zamek pod wkladke /160/ anoda,stal nierdzewna",
+      "Stan": "99"
+    },
+    {
+      "Indeks": "NT501-B",
+      "Nazwa artykulu": "Zamek pod wkladke /160/ stal nierdzewna / Czarna Anoda",
+      "Stan": "1"
+    },
+    {
+      "Indeks": "NT501-B",
+      "Nazwa artykulu": "Zamek pod wkladke /160/ stal nierdzewna / Czarna Anoda",
+      "Stan": "207"
+    },
+    {
+      "Indeks": "NT502-NA",
+      "Nazwa artykulu": "Zamek pod wkladke/ 160/ anoda,stal nierdzewna",
+      "Stan": "260"
+    },
+    {
+      "Indeks": "NT502-SS",
+      "Nazwa artykulu": "Zamek pod wkladke/ 160/ satyna,stal nierdzewna",
+      "Stan": "60"
+    },
+    {
+      "Indeks": "NT501-SS",
+      "Nazwa artykulu": "Zamek pod wkladke/160/satyna,stal nierdzewna",
+      "Stan": "85"
+    },
+    {
+      "Indeks": "NT503-SS",
+      "Nazwa artykulu": "Zamek pod wkladke/160/satyna,stal nierdzewna",
+      "Stan": "108"
+    },
+    {
+      "Indeks": "GHD-013",
+      "Nazwa artykulu": "Zamek z przeciwkaseta, mosiadz",
+      "Stan": "25"
+    },
+    {
+      "Indeks": "NT801-NA",
+      "Nazwa artykulu": "Zamek/ 110/ anoda, stal nierdzewna",
+      "Stan": "244"
+    },
+    {
+      "Indeks": "NT801-B",
+      "Nazwa artykulu": "Zamek/ 110/ czarny, stal nierdzewna",
+      "Stan": "155"
+    },
+    {
+      "Indeks": "NT802-SS",
+      "Nazwa artykulu": "Zamek/ 110/ satyna, stal nierdzewna",
+      "Stan": "91"
+    },
+    {
+      "Indeks": "NT801-SS",
+      "Nazwa artykulu": "Zamek/ 110/ satyna, stal nierdzewna",
+      "Stan": "247"
+    },
+    {
+      "Indeks": "NT503WL-SS",
+      "Nazwa artykulu": "Zamek/160/satyna,stal nierdzewna",
+      "Stan": "191"
+    },
+    {
+      "Indeks": "NTZ470-NA",
+      "Nazwa artykulu": "Zawias do drzwi szklanych - anoda,mosiadz",
+      "Stan": "63"
+    },
+    {
+      "Indeks": "NTZ470-SS",
+      "Nazwa artykulu": "Zawias do drzwi szklanych - satyna,mosiadz",
+      "Stan": "10"
+    },
+    {
+      "Indeks": "NTZ380-NA",
+      "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / anoda, aluminium",
+      "Stan": "345"
+    },
+    {
+      "Indeks": "NTZ390-NA",
+      "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / anoda,mosiadz",
+      "Stan": "348"
+    },
+    {
+      "Indeks": "NTZ380-B",
+      "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / czarny, aluminium",
+      "Stan": "422"
+    },
+    {
+      "Indeks": "NTZ380-PSS",
+      "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / Polysk,aluminium",
+      "Stan": "75"
+    },
+    {
+      "Indeks": "NTZ380-SS",
+      "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / satyna,mosiadz",
+      "Stan": "274"
+    },
+    {
+      "Indeks": "NTZ390-SS",
+      "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / satyna,mosiadz",
+      "Stan": "414"
+    },
+    {
+      "Indeks": "NTZ-500-B",
+      "Nazwa artykulu": "Zawias do ościeznicy aluminiowej OFC / aluminium / anoda Czarna",
+      "Stan": "325"
+    },
+    {
+      "Indeks": "NTZ-500-SS",
+      "Nazwa artykulu": "Zawias do ościeznicy aluminiowej OFC / aluminium / anoda INOX",
+      "Stan": "437"
+    },
+    {
+      "Indeks": "NTZ-500-NA",
+      "Nazwa artykulu": "Zawias do ościeznicy aluminiowej OFC / aluminium / anoda Srebrna",
+      "Stan": "564"
+    },
+    {
+      "Indeks": "NTZ-500-H-B",
+      "Nazwa artykulu": "Zawias hydrauliczny do ościeznicy aluminiowej OFC / aluminium / anoda Czarna",
+      "Stan": "2"
+    },
+    {
+      "Indeks": "NTZ-200-B",
+      "Nazwa artykulu": "Zawias szklo-szklo do drzwi szklanych - CZARNY, mosiadz",
+      "Stan": "170"
+    },
+    {
+      "Indeks": "NTZ-200-SS",
+      "Nazwa artykulu": "Zawias szklo-szklo do drzwi szklanych - SATYNA, mosiadz",
+      "Stan": "80"
+    },
+    {
+      "Indeks": "NTZ-1000-SET-SS",
+      "Nazwa artykulu": "Zawiasy hydrauliczne OFFICE / KOMPLET 2szt / anoda INOX",
+      "Stan": "46"
+    },
+    {
+      "Indeks": "NTZ-1000-SET-B",
+      "Nazwa artykulu": "Zawiasy hydrauliczne OFFICE / KOMPLET 2szt / czarna anoda",
+      "Stan": "90"
+    },
+    {
+      "Indeks": "NTZ-1000-SET-NA",
+      "Nazwa artykulu": "Zawiasy hydrauliczne OFFICE / KOMPLET 2szt / srebrna anoda",
+      "Stan": "48"
+    },
+    {
+      "Indeks": "N0302109-SET",
+      "Nazwa artykulu": "ZESTAW Samozamykacz+okucie gorne duze+oś /N0302109+N0302209+NLO-ZD-1301 /satyna,stal nierdzewna",
+      "Stan": "256"
+    },
+    {
+      "Indeks": "N0302109-GHD-120-SET-B",
+      "Nazwa artykulu": "ZESTAW Samozamykacz+okucie gorne+oś /N0302109+GHD-120+NLO-ZD-1301 /czarmy,stal nierdzewna",
+      "Stan": "25"
+    }
+  ]
+}
