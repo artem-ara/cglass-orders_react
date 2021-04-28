@@ -1,24 +1,23 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
-import {Basket} from './Basket';
+import {Basket} from "./Basket";
 
-export const Nav = (props) => {
+export const Nav = () => {
    return (
       <>
          <nav className='navbar navbar-dark bg-primary navbar-expand-lg'>
+            <Basket />
             <div className="navbar-brand" href="#"><strong>CGlass</strong></div>
             <ul className='navbar-nav'>
                <li className="nav-item">
-                  <NavLink className="nav-link" exact to="/">Główna</NavLink>
+                  <a className="nav-link" href="/">Główna</a>
                </li>
                <li className="nav-item">
-                  <NavLink className="nav-link" to="/products">Towary</NavLink>
+                  <a className="nav-link" href="/products">Towary</a>
                </li>
                <li className="nav-item">
-                  <NavLink className="nav-link" to="/about">O nas</NavLink>
+                  <a className="nav-link" href="/about">O nas</a>
                </li>
             </ul>
-            <Basket className='basket' count={props.count} />
          </nav>         
       </>
    )
