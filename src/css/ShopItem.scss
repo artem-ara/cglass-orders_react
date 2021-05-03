@@ -1,0 +1,8 @@
+.shop-item {
+    display: flex;
+    justify-content: space-between;
+
+    &-quantity {
+        font-weight: bold;
+    }
+}
