@@ -40,12 +40,23 @@ export const StoreProvider = ({ children }) => {
             setShopCLass('shop')
     }
 
+    const deleteItem = (item, index) => {
+        orderList.splice(index, 1)
+        const newState = [...orderList]
+        setOrderList(newState)
+        
+        const quantity = item.quantity
+        setCount(item => item - quantity)
+
+    }
+
     return (
         <StoreContext.Provider value={{
             count: count,
             addCount,
             list: orderList, addItem,
-            shopClass, shopClassToggle
+            shopClass, shopClassToggle,
+            deleteItem
         }}>
             {children}
         </StoreContext.Provider>

@@ -1,13 +1,37 @@
 .shop {
     display: none;
-    background: white;
     position: fixed;
     top: 3.5rem;
     right: 0rem;
     z-index: 1;
-    width: 30rem;
+    width: 15rem;
     height: 40rem;
+    border-radius: 5%;
+
+    @media (max-width: 991px) {
+        top: 6rem;
+    }
+
     &-active {
         display: block;
     }
+
+    ul {
+        padding: 0;
+    }
 }
+
+.card-header {
+    i {
+        margin-left: 10px;
+        color: rgba(107, 94, 94, 0.692);
+ 
+        &:hover {
+            color:rgb(185, 0, 0)
+        }
+    }
+}
+
+.unavailable {
+    cursor: not-allowed !important;
+} 

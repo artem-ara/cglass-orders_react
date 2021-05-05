@@ -6,8 +6,11 @@
    top: auto;
 
    @media (max-width: 991px) {
-      top: 6rem;
-      left: 1rem;
+        top: 2rem;
+        right: 7rem;
+        i {
+            font-size: x-large
+        }
    }
 
    &-button {
