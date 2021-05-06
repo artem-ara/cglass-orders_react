@@ -1,6 +1,6 @@
 import React from 'react';
 import {Basket} from "./Basket";
-import '../css/Nav.scss'
+/* import '../css/Nav.scss' */
 // import {BrowserRouter as Router, Route, Link} from 'react-router-dom'
 // import {About} from '../pages/About'
 
