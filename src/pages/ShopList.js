@@ -4,8 +4,6 @@ import React, {useState} from "react";
 import {ShopItem} from "../components/ShopItem";
 import {useStore} from '../StoreContext';
 
-
-
 export const ShopList = () => {
     const store = useStore();
     const shop = store.shopClass;
@@ -30,7 +28,6 @@ export const ShopList = () => {
     const handleNipOnChange = (e) => {
         nipVerify(e.target.value);
         setNip(e.target.value);
-
     }
 
     const sendOrder = async () => {
@@ -40,7 +37,6 @@ export const ShopList = () => {
             orderItems
         }
 
-
         const response = await fetch(url, {
             method: "POST",
             headers: {
@@ -48,12 +44,8 @@ export const ShopList = () => {
             },
             body: JSON.stringify(requestBody)
         });
-
-        /* const data = await response.json(); */
         const data = await response.blob()
-        download(data, 'order.dbf')
-
-        
+        download(data, 'order.dbf')        
     }
 
     return(
