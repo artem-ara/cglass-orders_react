@@ -4,7 +4,8 @@ import { Nav } from './components/Nav';
 import { Products } from './pages/Products';
 import {StoreProvider} from "./StoreContext";
 import {ShopList} from "./pages/ShopList";
-import {BrowserRouter as Router} from 'react-router-dom'
+import {BrowserRouter as Router, Route} from 'react-router-dom'
+import {About} from './pages/About'
 
 const App = () => {
     return (
@@ -12,7 +13,8 @@ const App = () => {
             <StoreProvider>
                 <Nav />
                 <ShopList />
-                <Products />
+                <Route path='/' exact component={Products} />
+                <Route path='/about' exact component={About} />
             </StoreProvider>
         </Router>
         

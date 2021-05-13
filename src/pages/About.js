@@ -1,10 +1,11 @@
 import React from 'react';
-// import '../css/About.scss'
+import '../css/About.scss'
 
 export const About = () => {
    return (
-      <div>
-         <h1>About</h1>
-      </div>
+    <div className='about'>
+        <h2>CGlass fast orders v0.5</h2>
+        <h3>Created by Artem Arakeliants and Maxim Lyovin</h3>
+    </div>
    )
 }

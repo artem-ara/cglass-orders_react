@@ -12,7 +12,7 @@ export const Products = (props) => {
             if (data.magazyn[i].Indeks.indexOf(value.toUpperCase()) > -1) {
                 select.push(i)
             } else if (
-                data.magazyn[i]['Nazwa artykulu'].indexOf(value) > -1) {
+                data.magazyn[i]['Nazwa artykulu'].toUpperCase().indexOf(value.toUpperCase()) > -1) {
                 select.push(i)
             }
         }

@@ -1,8 +1,7 @@
 import React from 'react';
 import {Basket} from "./Basket";
-/* import '../css/Nav.scss' */
-// import {BrowserRouter as Router, Route, Link} from 'react-router-dom'
-// import {About} from '../pages/About'
+import '../css/Nav.scss'
+import {NavLink} from 'react-router-dom'
 
 export const Nav = () => {
    return (
@@ -12,10 +11,10 @@ export const Nav = () => {
             <div className="navbar-brand" href="#"><strong>CGlass</strong></div>
             <ul className='navbar-nav'>
                 <li className="nav-item">
-                    <a className="nav-link" href="/">Główna</a>
+                    <NavLink className="nav-link" to="/">Główna</NavLink>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="/about">O nas</a>
+                    <NavLink className="nav-link" to="about">O nas</NavLink>
                 </li>
             </ul>
         </nav>

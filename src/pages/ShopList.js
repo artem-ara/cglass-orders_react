@@ -58,6 +58,10 @@ export const ShopList = () => {
                         <ShopItem />
                     </ul>
 
+                    <div class="mb-3">
+                        <input type="text" className="form-control" placeholder="Uwagi do handlowca" />
+                    </div>
+
                     <div className="input-group mb-3">
                         <input 
                             type="text" className={valid} placeholder="Wpisz NIP"
