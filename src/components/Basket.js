@@ -7,10 +7,10 @@ export const Basket = () => {
     const toggleBasket = store.shopClassToggle
 
     return (
-        <div className='basket'>
+        <div className='basket '>
             <button className='basket-button' onClick={toggleBasket}>
                 <i className="fas fa-dolly"></i>
-                <strong className={'count'}>{store.count}</strong>
+                <strong className='count'>{store.count}</strong>
             </button>
         </div>
    )
