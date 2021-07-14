@@ -1,994 +1,4416 @@
 ﻿{
   "magazyn": [
     {
-      "Indeks": "GHD-100-6",
-      "Nazwa artykulu": "Gniazdo przeciwkurzowe Okragle, mosiadz",
-      "Stan": "81"
+        "Indeks": "GMTBJ-200-US32",
+        "Nazwa artykulu": "Zawias obrotowy BJ-200, ściana-szkło, faza, mosiądz, połysk"
     },
     {
-      "Indeks": "GHD-100-4",
-      "Nazwa artykulu": "Gniazdo z oslonka przeciwpylowa dl. 70,  szer. 25,mosiadz",
-      "Stan": "319"
+        "Indeks": "GHD-690-SC",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - satyna, mosiądz"
     },
     {
-      "Indeks": "NTH02-B",
-      "Nazwa artykulu": "Klamka - aluminium / Czarna anoda",
-      "Stan": "27"
+        "Indeks": "GHD-691-CP",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - połysk, mosiądz"
     },
     {
-      "Indeks": "NTH01-NA",
-      "Nazwa artykulu": "Klamka - anoda,stal nierdzewna",
-      "Stan": "151"
+        "Indeks": "GHD-691-SC",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - satyna, mosiądz"
     },
     {
-      "Indeks": "NTH02-NA",
-      "Nazwa artykulu": "Klamka - anoda,stal nierdzewna",
-      "Stan": "8"
+        "Indeks": "GHD-692-CP",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - połysk, mosiądz"
     },
     {
-      "Indeks": "NTH01-SS",
-      "Nazwa artykulu": "Klamka - satyna, stal nierdzewna",
-      "Stan": "34"
+        "Indeks": "GHD-693-CP",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - połysk, mosiądz"
     },
     {
-      "Indeks": "NTH01-B",
-      "Nazwa artykulu": "Klamka / aluminium / Czarna Anoda",
-      "Stan": "1"
+        "Indeks": "GHD-693-SC",
+        "Nazwa artykulu": "Galka do drzwi prysznicowych - satyna, mosiądz"
     },
     {
-      "Indeks": "NTH01-B",
-      "Nazwa artykulu": "Klamka / aluminium / Czarna Anoda",
-      "Stan": "53"
+        "Indeks": "GHD-694-CP",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - połysk, mosiądz"
     },
     {
-      "Indeks": "NTH06-PSS",
-      "Nazwa artykulu": "Klamka- polysk,stal nierdzewna",
-      "Stan": "91"
+        "Indeks": "GHD-694-SC",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - satyna, mosiądz"
     },
     {
-      "Indeks": "NTH02-SS",
-      "Nazwa artykulu": "Klamka- satyna,stal nierdzewna",
-      "Stan": "46"
+        "Indeks": "GHD-695-CP",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - połysk, mosiądz"
     },
     {
-      "Indeks": "NTH04-SS",
-      "Nazwa artykulu": "Klamka- satyna,stal nierdzewna",
-      "Stan": "256"
+        "Indeks": "GHD-695-SC",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - satyna, mosiądz"
     },
     {
-      "Indeks": "NTH06-SS",
-      "Nazwa artykulu": "Klamka- satyna,stal nierdzewna",
-      "Stan": "12"
+        "Indeks": "GHD-696-CP",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - połysk, mosiądz"
     },
     {
-      "Indeks": "NTH05-SS",
-      "Nazwa artykulu": "Klamka- satyna,stal nierdzewna",
-      "Stan": "166"
+        "Indeks": "GHD-697-SC",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - satyna, mosiądz"
     },
     {
-      "Indeks": "GHD-122A-PSS",
-      "Nazwa artykulu": "lacznik czterech paneli, wym. 106x106x32mm, szklo 8-12mm, Polysk, mosiadz",
-      "Stan": "18"
+        "Indeks": "GHD-698-SC",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - satyna, mosiądz"
     },
     {
-      "Indeks": "GHD-122A-SSS",
-      "Nazwa artykulu": "lacznik czterech paneli, wym. 106x106x32mm, szklo 8-12mm, Satyna,mosiadz",
-      "Stan": "41"
+        "Indeks": "GHD-699-CP",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - połysk, mosiądz"
     },
     {
-      "Indeks": "GHD-120-T",
-      "Nazwa artykulu": "lozysko do okucia gornego GHD-120D, mosiadz",
-      "Stan": "2"
+        "Indeks": "GHD-699-SC",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - satyna, mosiądz"
     },
     {
-      "Indeks": "NLO-ZD-1302-1",
-      "Nazwa artykulu": "lozysko dolne do okucia dolnego/ satyna,lozysko dolne mosiadz",
-      "Stan": "2"
+        "Indeks": "GMTBJ-204-US32 (PSS)",
+        "Nazwa artykulu": "Zawias BJ-204, 90 st. faza, mosiądz, szkło- szkło, połysk"
     },
     {
-      "Indeks": "NLO-ZD-1302",
-      "Nazwa artykulu": "lozysko dolne mosiadz",
-      "Stan": "8"
+        "Indeks": "GMTBJ-204-US32D (SSS)",
+        "Nazwa artykulu": "Zawias BJ-204, 90 st. faza, mosiądz, szkło-szkło, satyna"
     },
     {
-      "Indeks": "GHD-110-12D",
-      "Nazwa artykulu": "lozysko podlogowe do okucia dolnego / polysk",
-      "Stan": "6"
+        "Indeks": "GMTBJ-604-US32 (PSS)",
+        "Nazwa artykulu": "Zawias BJ-604, 90 st. prosty, mosiądz, szkło-szkło, połysk"
     },
     {
-      "Indeks": "GHD-110-12D-1",
-      "Nazwa artykulu": "lozysko podlogowe do okucia dolnego / satyna,mosiadz",
-      "Stan": "48"
+        "Indeks": "GMTBJ-604-US32D (SSS)",
+        "Nazwa artykulu": "Zawias BJ-604, 90 st. prosty, mosiądz, szkło-szkło, satyna"
     },
     {
-      "Indeks": "GHD-110D-PSS",
-      "Nazwa artykulu": "Okucie dolne/161x51/gr.10-12/polysk,mosiadz",
-      "Stan": "47"
+        "Indeks": "GMTBJ-100-US32D",
+        "Nazwa artykulu": "Zawias obrotowy BJ-100, prosty, satyna, mosiądz, ściana-szkło"
     },
     {
-      "Indeks": "GHD-110D-SSS",
-      "Nazwa artykulu": "Okucie dolne/161x51/gr.10-12mm/satyna,mosiadz",
-      "Stan": "16"
+        "Indeks": "GMTBJ-100-US32",
+        "Nazwa artykulu": "Zawias obrotowy BJ-100, prosty, połysk, mosiądz, ściana-szkło"
     },
     {
-      "Indeks": "N0302209",
-      "Nazwa artykulu": "Okucie gorne do samozamykacza w okuciu / satyna/stal nierdzewna",
-      "Stan": "637"
+        "Indeks": "GMTBJ-201-US32(PSS)",
+        "Nazwa artykulu": "Zawias BJ-201, 90st, faza, mosiądz, ściana- szkło, połysk"
     },
     {
-      "Indeks": "N0302209-125",
-      "Nazwa artykulu": "Okucie gorne do samozamykacza w okuciu typ 125 / satyna/stal nierdzewna",
-      "Stan": "23"
+        "Indeks": "GMTBJ-201-US32D(SSS)",
+        "Nazwa artykulu": "zawias BJ-201/mosiądz/90st/ściana-szkło/faza/satyna"
     },
     {
-      "Indeks": "GHD-120D-SSS",
-      "Nazwa artykulu": "Okucie gorne/ 161x51/ gr.10-12mm/ satyna,mosiadz",
-      "Stan": "28"
+        "Indeks": "GMTBJ-202-US32(PSS)",
+        "Nazwa artykulu": "Zawias BJ-202, 135st, faza, mosiądz, szkło- szkło, połysk"
     },
     {
-      "Indeks": "GHD-130P-PSS",
-      "Nazwa artykulu": "Okucie gorne/ plytka montazowa/ 161x51/ gr. 10-12/ polysk,mosiadz",
-      "Stan": "191"
+        "Indeks": "GMTBJ-202-US32D(SSS)",
+        "Nazwa artykulu": "Zawias BJ-202, 135st,faza, mosiądz, szkło- szkło, satyna"
     },
     {
-      "Indeks": "GHD-130P-SSS",
-      "Nazwa artykulu": "Okucie gorne/ plytka montazowa/ 161x51/ gr. 10-12/ satyna,mosiadz",
-      "Stan": "86"
+        "Indeks": "GMTBJ-203-US32(PSS)",
+        "Nazwa artykulu": "zawias BJ-203/mosiądz/180st/szkło-szkło/faza/połysk"
     },
     {
-      "Indeks": "GHD-120D-PSS",
-      "Nazwa artykulu": "Okucie gorne/161x51/gr.10-12mm/polysk,mosiadz",
-      "Stan": "11"
+        "Indeks": "GMTBJ-203-US32D(SSS)",
+        "Nazwa artykulu": "zawias BJ-203/mosiądz/180st/szkło-szkło/faza/satyna"
     },
     {
-      "Indeks": "GHD-130S-PSS",
-      "Nazwa artykulu": "Okucie gorne/trzpień mocujacy/ 161x51/ gr. 10-12/ polysk,mosiadz",
-      "Stan": "53"
+        "Indeks": "GMTBJ-211-US32(PSS)",
+        "Nazwa artykulu": "zawias BJ-211/mosiądz/90st/ściana-szkło/faza/połysk"
     },
     {
-      "Indeks": "GHD-130S-SSS",
-      "Nazwa artykulu": "Okucie gorne/trzpień mocujacy/ 161x51/ gr. 10-12/ satyna,mosiadz",
-      "Stan": "65"
+        "Indeks": "GMTBJ-211-US32D(SSS)",
+        "Nazwa artykulu": "zawias BJ-211/mosiądz/90st/ściana-szkło/faza/satyna"
     },
     {
-      "Indeks": "GHD-191S-SSS",
-      "Nazwa artykulu": "Okucie Kostka/ 70x52/ gr. 10-12mm/ satyna,mosiadz",
-      "Stan": "112"
+        "Indeks": "GMTBJ-601-US32(PSS)",
+        "Nazwa artykulu": "Zawias BJ-601 90st. prosty, mosiądz, ściana- szkło, połysk"
     },
     {
-      "Indeks": "GHD-160A-SSS",
-      "Nazwa artykulu": "Okucie L/ 106x106/ gr. 10-12mm/ satyna,mosiadz",
-      "Stan": "28"
+        "Indeks": "GMTBJ-601-US32D(SSS)",
+        "Nazwa artykulu": "zawias BJ-601/mosiądz/90st/ściana-szkło/prosty/satyna"
     },
     {
-      "Indeks": "GHD-160A-B",
-      "Nazwa artykulu": "Okucie L/ 106x106/ gr. 10-12mm/ stal nierdzewna / czarny",
-      "Stan": "18"
+        "Indeks": "GMTBJ-602-US32(PSS)",
+        "Nazwa artykulu": "Zawias BJ-602, 135st. prosty, mosiądz, szkło- szkło, połysk"
     },
     {
-      "Indeks": "GHD-140B-PSS",
-      "Nazwa artykulu": "Okucie L/ 161x51/ gr. 10-12mm/ polysk /stoper,mosiadz",
-      "Stan": "91"
+        "Indeks": "GMTBJ-602-US32D(SSS)",
+        "Nazwa artykulu": "Zawias BJ-602, 135st. prosty, mosiądz, szkło- szkło, satyna"
     },
     {
-      "Indeks": "GHD-140B-SSS",
-      "Nazwa artykulu": "Okucie L/ 161x51/ gr. 10-12mm/ satyna /stoper,mosiadz",
-      "Stan": "43"
+        "Indeks": "GMTBJ-603-US32(PSS)",
+        "Nazwa artykulu": "Zawias BJ-603, 180st prosty, mosiądz, szkło- szkło, połysk"
     },
     {
-      "Indeks": "GHD-140-SSS",
-      "Nazwa artykulu": "Okucie L/ 161x51/ gr. 10-12mm/ satyna,mosiadz",
-      "Stan": "14"
+        "Indeks": "GMTBJ-603-US32D(SSS)",
+        "Nazwa artykulu": "Zawias BJ-603, 180st. prosty, mosiądz, szkło- szkło, satyna"
     },
     {
-      "Indeks": "GHD-140-B",
-      "Nazwa artykulu": "Okucie L/ 161x51/ gr. 10-12mm/ stal nierdzewna / czarny",
-      "Stan": "18"
+        "Indeks": "GMTBJ-611-US32(PSS)",
+        "Nazwa artykulu": "zawias BJ-611/mosiądz/90st/ściana-szkło/prosty/połysk"
     },
     {
-      "Indeks": "GHD-181A-PSS",
-      "Nazwa artykulu": "Okucie szklo-szklo/ 10-12mm/ polysk,mosiadz",
-      "Stan": "9"
+        "Indeks": "GMTBJ-611-US32D(SSS)",
+        "Nazwa artykulu": "zawias BJ-611/mosiądz/90st/ściana-szkło/prosty/satyna"
     },
     {
-      "Indeks": "GHD-150RD-PSS",
-      "Nazwa artykulu": "Okucie z zamkiem/ 161x51/ gr. 10-12mm/ polysk,mosiadz",
-      "Stan": "16"
+        "Indeks": "GMTBT-704-US32(PSS)",
+        "Nazwa artykulu": "Łącznik do kabiny prysznicowej, połysk, mosiądz"
     },
     {
-      "Indeks": "GHD-150RD-SSS",
-      "Nazwa artykulu": "Okucie z zamkiem/ 161x51/ gr. 10-12mm/ satyna,mosiadz",
-      "Stan": "5"
+        "Indeks": "GMTBT-709-US32(PSS)",
+        "Nazwa artykulu": "Łącznik do kabiny prysznicowej, połysk, mosiądz"
     },
     {
-      "Indeks": "GHD-150B-SSS",
-      "Nazwa artykulu": "Okucie z zamkiem/ 161x51/ gr. 10-12mm/ satyna,mosiadz",
-      "Stan": "34"
+        "Indeks": "GMTBT960-US32(PSS)",
+        "Nazwa artykulu": "łącznik do kabiny prysznicowej, dł. 800- 1200mm, połysk, mosiądz, szkło- szkło"
     },
     {
-      "Indeks": "GHD-120A-PSS",
-      "Nazwa artykulu": "Okucie,  polysk,  dl. 140,  szer. 32,  wys. 45,mosiadz",
-      "Stan": "1"
+        "Indeks": "GMTBT962-700-US32(PSS)",
+        "Nazwa artykulu": "Stabilizator kwadratowy 15x15 / ściana-szkło regulowany / L=700 / komplet / połysk, mosiądz"
     },
     {
-      "Indeks": "GHD-140A-PSS",
-      "Nazwa artykulu": "Okucie,  polysk,  dl. 188,  szer. 32,  wys. 45,  ksztalt L,mosiadz",
-      "Stan": "5"
+        "Indeks": "NG-NFK",
+        "Nazwa artykulu": "Listwa przyścienna pod uszczelkę magn. L=220cm/ połysk/aluminium"
     },
     {
-      "Indeks": "GHD-191P-PSS",
-      "Nazwa artykulu": "Okucie,  polysk,  dl. 70,  szer. 32,  wys. 52,  prostokat,mosiadz",
-      "Stan": "37"
+        "Indeks": "NLO-KP-2743A-1",
+        "Nazwa artykulu": "Mocowanie rura-szkło/ 19, 5x19, 5mm/ nieprzelotowe/ satyna"
     },
     {
-      "Indeks": "GHD-110A-SSS",
-      "Nazwa artykulu": "Okucie,  satyna,  dl. 140,  szer. 32,  wys. 45, mosiadz",
-      "Stan": "7"
+        "Indeks": "NLO-KP-2745A",
+        "Nazwa artykulu": "Mocowanie regulowane ściana-reling / 19x19mm / połysk, mosiądz"
     },
     {
-      "Indeks": "GHD-140A-SSS",
-      "Nazwa artykulu": "Okucie,  satyna,  dl. 188,  szer. 32,  wys. 45,  ksztalt L,mosiadz",
-      "Stan": "4"
+        "Indeks": "NLO-KP-2745A-1",
+        "Nazwa artykulu": "Mocowanie regulowane ściana-reling / 19x19mm / satyna, mosiądz"
     },
     {
-      "Indeks": "GHD-191P-SSS",
-      "Nazwa artykulu": "Okucie,  satyna,  dl. 70,  szer. 32,  wys. 52,  prostokat,mosiadz",
-      "Stan": "100"
+        "Indeks": "NLO-DP01-S001",
+        "Nazwa artykulu": "Wyposażenie do systemu przesuwnego S001, stainless steel"
     },
     {
-      "Indeks": "NTP03-SS",
-      "Nazwa artykulu": "Plytka do zamka, stal nierdzewna ",
-      "Stan": "3"
+        "Indeks": "NLO-DP01-S001-2",
+        "Nazwa artykulu": "System przesuwny S001/ PROFIL 2M / połysk, aluminium"
     },
     {
-      "Indeks": "NTP00M-NA",
-      "Nazwa artykulu": "Plytka magnetyczna do zamkow 501M/503M/801M / anoda,stal nierdzewna",
-      "Stan": "352"
+        "Indeks": "NLO-DP01-S001-3",
+        "Nazwa artykulu": "Łącznik 90st./ profil-profil/ do syst. S001"
     },
     {
-      "Indeks": "NTP00M-SS",
-      "Nazwa artykulu": "Plytka magnetyczna do zamkow 501M/503M/801M / satyna,stal nierdzewna",
-      "Stan": "405"
+        "Indeks": "NLO-DP03-S003-8-2",
+        "Nazwa artykulu": "System przesuwny S003/ profil 10x30/200/ połysk, stainless steel"
     },
     {
-      "Indeks": "NTP00M-PSS",
-      "Nazwa artykulu": "Plytka magnetyczna do zamkow 501M/503M/801M / stal nierdzewna / polysk",
-      "Stan": "79"
+        "Indeks": "NLO-DP03-S003",
+        "Nazwa artykulu": "Wyposażenie do systemu przesuwnego S003 POŁYSK, stainless steel"
     },
     {
-      "Indeks": "NLO-ZD-2857-B",
-      "Nazwa artykulu": "Pochwyt C / 13x25x203mm/ CZARNY,stal nierdzewna",
-      "Stan": "4"
+        "Indeks": "NLO-DP03-S003-3",
+        "Nazwa artykulu": "Łącznik 90st./ rura-rura/ do systemu S003, stal nierdzewna, POŁYSK"
     },
     {
-      "Indeks": "NLO-ZD-2857",
-      "Nazwa artykulu": "Pochwyt C / 13x25x203mm/ polysk,stal nierdzewna",
-      "Stan": "364"
+        "Indeks": "NLO-DP08-232-25-2",
+        "Nazwa artykulu": "System przesuwny S008/ profil 2m/ fi 25mm/ połysk, stainless steel"
     },
     {
-      "Indeks": "NLO-ZD-2856-B",
-      "Nazwa artykulu": "Pochwyt C / 19x19x203mm/ CZARNY,stal nierdzewna",
-      "Stan": "90"
+        "Indeks": "NLO-DP08-S008",
+        "Nazwa artykulu": "Wyposażenie do systemu przesuwnego S008(12el.) POŁYSK, stainless steel"
     },
     {
-      "Indeks": "NLO-ZD-2856",
-      "Nazwa artykulu": "Pochwyt C / 19x19x203mm/ polysk,stal nierdzewna",
-      "Stan": "249"
+        "Indeks": "NLO-DP10-S010",
+        "Nazwa artykulu": "Wyposażenie do systemu przesuwnego S010(12el.) POŁYSK, stainless steel"
     },
     {
-      "Indeks": "NLO-ZD-2856-1",
-      "Nazwa artykulu": "Pochwyt C / 19x19x203mm/ satyna,stal nierdzewna",
-      "Stan": "100"
+        "Indeks": "NLO-DP10-S010-8-2",
+        "Nazwa artykulu": "System przesuwny S010/ profil 2m/ połysk, stainless steel"
     },
     {
-      "Indeks": "NLO-ZD-2816-B",
-      "Nazwa artykulu": "Pochwyt C / fi 19x176mm/ czarny, stal nierdzewna",
-      "Stan": "18"
+        "Indeks": "NLO-DP10-S010-9",
+        "Nazwa artykulu": "Łącznik 90st. do systemu przesuwnego S010, mosiądz"
     },
     {
-      "Indeks": "NLO-ZD-2816",
-      "Nazwa artykulu": "Pochwyt C / fi 19x176mm/ polysk,stal nierdzewna",
-      "Stan": "47"
+        "Indeks": "NLO-DP2-209",
+        "Nazwa artykulu": "Łącznik rury jezdnej-szkło/połysk, stainless steel"
     },
     {
-      "Indeks": "NLO-ZD-2816-1",
-      "Nazwa artykulu": "Pochwyt C / fi 19x176mm/ satyna, stal nierdzewna",
-      "Stan": "22"
+        "Indeks": "NLO-DP2-209-1",
+        "Nazwa artykulu": "Łącznik rury jezdnej -szkło/satyna, stainless steel"
     },
     {
-      "Indeks": "NLO-ZD-2815-400",
-      "Nazwa artykulu": "Pochwyt C z galka / fi 19x400mm/ polysk,stal nierdzewna",
-      "Stan": "169"
+        "Indeks": "NLO-GŁ-2801-1",
+        "Nazwa artykulu": "Gałka 01/ mosiądz/ satyna"
     },
     {
-      "Indeks": "NLO-ZD-2855",
-      "Nazwa artykulu": "Pochwyt C z galka 19x19x305mm/ polysk,stal nierdzewna",
-      "Stan": "132"
+        "Indeks": "NLO-GL-2804",
+        "Nazwa artykulu": "Gałka 04/ mosiądz/ połysk"
     },
     {
-      "Indeks": "NLO-ZD-2855-1",
-      "Nazwa artykulu": "Pochwyt C z galka 19x19x305mm/ satyna,stal nierdzewna",
-      "Stan": "11"
+        "Indeks": "NLO-GŁ-09",
+        "Nazwa artykulu": "Gałka 09/mosiądz/połysk"
     },
     {
-      "Indeks": "NLO-ZD-2857-1",
-      "Nazwa artykulu": "Pochwyt C/ 13x25x203mm/ satyna,stal nierdzewna",
-      "Stan": "6"
+        "Indeks": "NLO-GŁ-09-1",
+        "Nazwa artykulu": "Gałka 09/ mosiądz/ satyna"
     },
     {
-      "Indeks": "NLO-ZD-2857-457-1",
-      "Nazwa artykulu": "Pochwyt C/ 13x25x457mm/ satyna,stal nierdzewna",
-      "Stan": "53"
+        "Indeks": "NLO-GŁ-2801",
+        "Nazwa artykulu": "Gałka 01/ mosiądz/ połysk"
     },
     {
-      "Indeks": "NLO-ZD-2857-610-1",
-      "Nazwa artykulu": "Pochwyt C/ 13x25x610mm/ satyna,stal nierdzewna",
-      "Stan": "75"
+        "Indeks": "NLO-GŁ-2802",
+        "Nazwa artykulu": "Gałka 02/mosiądz/połysk"
     },
     {
-      "Indeks": "NLO-ZD-2856-610",
-      "Nazwa artykulu": "Pochwyt C/ 19x19x610mm/ polysk,stal nierdzewna",
-      "Stan": "77"
+        "Indeks": "NLO-GŁ-2802-1",
+        "Nazwa artykulu": "Gałka 02/ mosiądz/ satyna"
     },
     {
-      "Indeks": "NLO-ZD-2856-610-1",
-      "Nazwa artykulu": "Pochwyt C/ 19x19x610mm/ satyna,stal nierdzewna",
-      "Stan": "72"
+        "Indeks": "NLO-GŁ-2803",
+        "Nazwa artykulu": "Gałka 03/ mosiądz/ połysk"
     },
     {
-      "Indeks": "NTDL70-1",
-      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych 120x70mm/ prosty/ satyna,stal nierdzewna",
-      "Stan": "20"
+        "Indeks": "NLO-GŁ-2803-1",
+        "Nazwa artykulu": "Gałka 03/ mosiądz/ satyna"
     },
     {
-      "Indeks": "NTDL55R-2",
-      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/ prosty/ anoda,stal nierdzewna",
-      "Stan": "1"
+        "Indeks": "NLO-GŁ-2804-1",
+        "Nazwa artykulu": "Gałka 04/mosiądz/satyna"
     },
     {
-      "Indeks": "NTDL55R-1",
-      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/ prosty/ satyna,stal nierdzewna",
-      "Stan": "36"
+        "Indeks": "NLO-GŁ-2807",
+        "Nazwa artykulu": "Gałka 07/mosiądz/połysk"
     },
     {
-      "Indeks": "NTDL55-B",
-      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/faza/czarny,stal nierdzewna",
-      "Stan": "19"
+        "Indeks": "NLO-GŁ-2809",
+        "Nazwa artykulu": "Gałka 09/ mosiądz/ połysk"
     },
     {
-      "Indeks": "NTDL55",
-      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/faza/polysk,stal nierdzewna",
-      "Stan": "7"
+        "Indeks": "NLO-GŁ-51",
+        "Nazwa artykulu": "Gałka 51 Mosiądz/połysk"
     },
     {
-      "Indeks": "NTDL55-1",
-      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/faza/satyna,stal nierdzewna",
-      "Stan": "28"
+        "Indeks": "NLO-GŁ-51-1",
+        "Nazwa artykulu": "Gałka 51-1/mosiądz/satyna"
     },
     {
-      "Indeks": "NTDL55R",
-      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/prosty/polysk,stal nierdzewna",
-      "Stan": "58"
+        "Indeks": "NLO-GŁ-52",
+        "Nazwa artykulu": "Gałka 52/mosiądz/połysk"
     },
     {
-      "Indeks": "NPR-PSDK-104",
-      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 65mm,stal nierdzewna",
-      "Stan": "22"
+        "Indeks": "NLO-GŁ-52-1",
+        "Nazwa artykulu": "Gałka 52/mosiądz/satyna"
     },
     {
-      "Indeks": "NJY-DP-P",
-      "Nazwa artykulu": "Pochwyt do drzwi przesuwnych,stal nierdzewna",
-      "Stan": "38"
+        "Indeks": "NLO-KP-2718",
+        "Nazwa artykulu": "Uchwyt / mosiądz/ połysk"
     },
     {
-      "Indeks": "NLO-ZD-2850",
-      "Nazwa artykulu": "Pochwyt do kabiny pryszn./ 19x19/ L200/400mm/ polysk,stal nierdzewna",
-      "Stan": "92"
+        "Indeks": "NLO-KP-2721",
+        "Nazwa artykulu": "Mocowanie ściana-reling 90o/mosiądz/połysk"
     },
     {
-      "Indeks": "NLO-ZD-2850-1",
-      "Nazwa artykulu": "Pochwyt do kabiny pryszn./ 19x19/ L200/400mm/ satyna,stal nierdzewna",
-      "Stan": "32"
+        "Indeks": "NLO-KP-2721-1",
+        "Nazwa artykulu": "Mocowanie ściana-reling 90o/mosiądz/satyna"
     },
     {
-      "Indeks": "GMTG926-US32D-2 L800",
-      "Nazwa artykulu": "Pochwyt kwadratowy dl. 800mm/satyna",
-      "Stan": "75"
+        "Indeks": "NLO-KP-2722",
+        "Nazwa artykulu": "Mocowanie rura-ściana 45st./ fi 19mm/ połysk"
     },
     {
-      "Indeks": "NLO-ZD-2858",
-      "Nazwa artykulu": "Pochwyt typ \"H\" 13x25x203/polysk,stal nierdzewna",
-      "Stan": "141"
+        "Indeks": "NLO-KP-2722-1",
+        "Nazwa artykulu": "Mocowanie rura-ściana 45st/ fi 19mm"
     },
     {
-      "Indeks": "NLO-ZD-2858-1",
-      "Nazwa artykulu": "Pochwyt typ \"H\" 13x25x203/satyna/stal nierdzewna",
-      "Stan": "26"
+        "Indeks": "NLO-KP-2723",
+        "Nazwa artykulu": "Mocowanie regulowane reling-szklo przelotowe/mosiądz/połysk"
     },
     {
-      "Indeks": "NLO-ZD-2858-610/P",
-      "Nazwa artykulu": "Pochwyt typ \"H\" 13x25x610/polysk, stal nierdzewna",
-      "Stan": "19"
+        "Indeks": "NLO-KP-2723-1",
+        "Nazwa artykulu": "Mocowanie regulowane reling-szklo przelotowe/mosiądz/satyna"
     },
     {
-      "Indeks": "NLO-ZD-2858-610",
-      "Nazwa artykulu": "Pochwyt typ \"H\" 13x25x610/satyna, stal nierdzewna",
-      "Stan": "17"
+        "Indeks": "NLO-KP-2723-12",
+        "Nazwa artykulu": "Mocowanie regulowane reling-szklo przelotowe/mosiądz/satyna"
     },
     {
-      "Indeks": "NLO-ZD-98A-116",
-      "Nazwa artykulu": "Pochwyt typ \"H\"25x38x1500/z zamkiem/satyna,stal nierdzewna",
-      "Stan": "106"
+        "Indeks": "NLO-KP-2724",
+        "Nazwa artykulu": "Mocowanie rura-szkło/fi 19mm/nieprzelotowe/połysk"
     },
     {
-      "Indeks": "GMT-G850-US32D-L600",
-      "Nazwa artykulu": "Pochwyt typ C,  dl. 600mm,  SS304,stal nierdzewna",
-      "Stan": "2"
+        "Indeks": "NLO-KP-2724-1",
+        "Nazwa artykulu": "Mocowanie rura-szkło/ fi 19mm/ nieprzelotowe/ satyna"
     },
     {
-      "Indeks": "GMT-G850-US32D-L600",
-      "Nazwa artykulu": "Pochwyt typ C,  dl. 600mm,  SS304,stal nierdzewna",
-      "Stan": "42"
+        "Indeks": "NLO-KP-2725",
+        "Nazwa artykulu": "Łącznik fi19/mosiadz/połysk"
     },
     {
-      "Indeks": "GMT-G800-US32D L1000",
-      "Nazwa artykulu": "Pochwyt typ H dl. 1000,  SS304, stal nierdzewna",
-      "Stan": "116"
+        "Indeks": "NLO-KP-2725-1",
+        "Nazwa artykulu": "Łącznik fi19/mosiądz/połysk"
     },
     {
-      "Indeks": "GMT-G800-US32D L1200",
-      "Nazwa artykulu": "Pochwyt typ H dl. 1200,  SS304,stal nierdzewna",
-      "Stan": "30"
+        "Indeks": "NLO-KP-2726",
+        "Nazwa artykulu": "Łącznik potrójny/mosiądz/połysk"
     },
     {
-      "Indeks": "GMT-G800-US32D L1800",
-      "Nazwa artykulu": "Pochwyt typ H dl. 1800,  SS304,stal nierdzewna",
-      "Stan": "21"
+        "Indeks": "NLO-KP-2726-1",
+        "Nazwa artykulu": "Łącznik potrójny/mosiądz/satyna"
     },
     {
-      "Indeks": "GMT-G800-US32D L800",
-      "Nazwa artykulu": "Pochwyt typ H dl. 800,  SS304,stal nierdzewna",
-      "Stan": "88"
+        "Indeks": "NLO-KP-2728-1,3",
+        "Nazwa artykulu": "Rura fi 19x1300/stainless steel /połysk"
     },
     {
-      "Indeks": "GMT-G800-US32-L450 PSS",
-      "Nazwa artykulu": "Pochwyt typ H,  dl. 450mm,  SS304 / POlYSK,stal nierdzewna",
-      "Stan": "21"
+        "Indeks": "NLO-KP-2728-1,3-1",
+        "Nazwa artykulu": "Rura fi 19x1300/ stainless steel / satyna"
     },
     {
-      "Indeks": "GMT-G800-US32D-L450",
-      "Nazwa artykulu": "Pochwyt typ H,  dl. 450mm,  SS304,stal nierdzewna",
-      "Stan": "85"
+        "Indeks": "NLO-KP-2728-2",
+        "Nazwa artykulu": "Rura fi 19/2000 mm/połysk, stainless steel"
     },
     {
-      "Indeks": "GMT-G800-US32D-L450-B",
-      "Nazwa artykulu": "Pochwyt typ H,  dl. 450mm,  SS304,stal nierdzewna/czarny",
-      "Stan": "140"
+        "Indeks": "NLO-KP-2731",
+        "Nazwa artykulu": "Mufa fi19/mosiądz/połysk"
     },
     {
-      "Indeks": "NLO-ZD-98A-113",
-      "Nazwa artykulu": "Pochwyt typ H/fi35x1500/z zamkiem/satyna,stal nierdzewna",
-      "Stan": "61"
+        "Indeks": "NLO-KP-2741",
+        "Nazwa artykulu": "Mocowanie do ściany 19, 5x19, 5mm/ połysk"
     },
     {
-      "Indeks": "GMTG926-US32D-2 L600",
-      "Nazwa artykulu": "pochwyt/304/satyna L600",
-      "Stan": "15"
+        "Indeks": "NLO-KP-2741-1",
+        "Nazwa artykulu": "Mocowanie do ściany19, 5x19, 5mm/satyna"
     },
     {
-      "Indeks": "NTP01-B",
-      "Nazwa artykulu": "Przeciwkaseta do zamka 501/ aluminium / Czarna anoda",
-      "Stan": "72"
+        "Indeks": "NLO-KP-2742-45",
+        "Nazwa artykulu": "Mocowanie rura-ściana 45st/ 19, 5x19, 5mm/ połysk"
     },
     {
-      "Indeks": "NTP01-SS",
-      "Nazwa artykulu": "Przeciwkaseta do zamka 501/801,stal nierdzewna",
-      "Stan": "72"
+        "Indeks": "NLO-KP-2742-45-1",
+        "Nazwa artykulu": "Mocowanie rura-ściana 45st/ 19, 5x19, 5mm/ satyna"
     },
     {
-      "Indeks": "NTP01-NA",
-      "Nazwa artykulu": "Przeciwkaseta do zamka 501/801,stal nierdzewna",
-      "Stan": "233"
+        "Indeks": "NLO-KP-2743",
+        "Nazwa artykulu": "Mocowanie rura-szkło/ 19x19 mm/ przelotowe/ połysk"
     },
     {
-      "Indeks": "NTP04-SS",
-      "Nazwa artykulu": "Przeciwkaseta do zamka 503,stal nierdzewna",
-      "Stan": "62"
+        "Indeks": "NLO-KP-2743-1",
+        "Nazwa artykulu": "Mocowanie rura-szkło/ 19x19mm/ przelotowe/ satyna"
     },
     {
-      "Indeks": "NTP01M-B",
-      "Nazwa artykulu": "Przeciwkaseta do zamka magnetycznego 501M / aluminium / Czarna anoda",
-      "Stan": "71"
+        "Indeks": "NLO-KP-2743A",
+        "Nazwa artykulu": "Mocowanie rura-szkło/ 19, 5x19, 5mm/ nieprzelotowe/ połysk"
     },
     {
-      "Indeks": "NTP01M-NA",
-      "Nazwa artykulu": "Przeciwkaseta do zamka magnetycznego 501M/801M / anoda,stal nierdzewna",
-      "Stan": "157"
+        "Indeks": "NLO-KP-2743B",
+        "Nazwa artykulu": "Mocowanie rura-szkło-sufit/ połysk"
     },
     {
-      "Indeks": "NTP01M-SS",
-      "Nazwa artykulu": "Przeciwkaseta do zamka magnetycznego 501M/801M / satyna,stal nierdzewna",
-      "Stan": "40"
+        "Indeks": "NLO-KP-2743B-1",
+        "Nazwa artykulu": "Mocowanie rura-szkło-sufit"
     },
     {
-      "Indeks": "NTP04M-SS",
-      "Nazwa artykulu": "Przeciwkaseta do zamka magnetycznego 503M,stal nierdzewna",
-      "Stan": "87"
+        "Indeks": "NLO-KP-2745",
+        "Nazwa artykulu": "Mocowanie regulowane reling-reling / 19x19 mm/ połysk, mosiądz"
     },
     {
-      "Indeks": "NLO-ZD-3231K-1",
-      "Nazwa artykulu": "Przeciwkaseta do zamka NLO-ZD-3231-1 / satyna",
-      "Stan": "17"
+        "Indeks": "NLO-KP-2745-1",
+        "Nazwa artykulu": "Mocowanie regulowane reling-reling / 19x19mm / satyna, mosiądz"
     },
     {
-      "Indeks": "NTP02-NA",
-      "Nazwa artykulu": "Przeciwkaseta do zamka, okragla, anoda,",
-      "Stan": "100"
+        "Indeks": "NLO-KP-2746",
+        "Nazwa artykulu": "Trójnik/ 19x19mm/ połysk, mosiądz"
     },
     {
-      "Indeks": "NTP02-SS",
-      "Nazwa artykulu": "Przeciwkaseta do zamka, okragla, stal nierdzewna",
-      "Stan": "165"
+        "Indeks": "NLO-KP-2746-1",
+        "Nazwa artykulu": "Trójnik/ 19x19mm/ satyna,mosiądz"
     },
     {
-      "Indeks": "ST-110E",
-      "Nazwa artykulu": "Samozamykacz podlogowy Typ splaszczony/ 110kg, stal nierdzewna",
-      "Stan": "48"
+        "Indeks": "NLO-KP-2748-2",
+        "Nazwa artykulu": "Rura 19x19mm/ 2000/ połysk,stal nierdzewna"
     },
     {
-      "Indeks": "ST-120",
-      "Nazwa artykulu": "Samozamykacz podlogowy Typ waski/ 120kg,stal nierdzewna",
-      "Stan": "5"
+        "Indeks": "NLO-KP-2748-2-1",
+        "Nazwa artykulu": "Rura 19x19mm/ 2000/ satyna,stal nierdzewna"
     },
     {
-      "Indeks": "GMTH555D",
-      "Nazwa artykulu": "Samozamykacz podlogowy- z pelna regulacja polezenia osi,stal nierdzewna",
-      "Stan": "4"
+        "Indeks": "NLO-KP-2748-2-CH",
+        "Nazwa artykulu": "Rura 19x19mm chrom,stal nierdzewna"
     },
     {
-      "Indeks": "N0302110",
-      "Nazwa artykulu": "Samozamykacz w okuciu /polysk/stal nierdzewna",
-      "Stan": "160"
+        "Indeks": "NLO-KP-2900-6-2,5",
+        "Nazwa artykulu": "Uszczelka piórko sztywne 180st / H=10mm / 6x2500mm PCV"
     },
     {
-      "Indeks": "N0302109",
-      "Nazwa artykulu": "Samozamykacz w okuciu /satyna,stal nierdzewna",
-      "Stan": "24"
+        "Indeks": "NLO-KP-2900-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko sztywne 180st / H=10mm / 8x2500mm PCV"
     },
     {
-      "Indeks": "N0302108",
-      "Nazwa artykulu": "Samozamykacz w okuciu /satyna/stal nierdzewna",
-      "Stan": "73"
+        "Indeks": "NLO-KP-2903-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 135st / H=15mm / 8x2500mm PCV"
     },
     {
-      "Indeks": "N0302121",
-      "Nazwa artykulu": "Samozamykacz w okuciu do drzwi drewnianych,stal nierdzewna",
-      "Stan": "3"
+        "Indeks": "NLO-KP-2904-6-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 180st / H=13mm / 6x2500mm PCV"
     },
     {
-      "Indeks": "N0302109-125",
-      "Nazwa artykulu": "Samozamykacz w okuciu do szerokoch drzwi 1250mm  /satyna,stal nierdzewna",
-      "Stan": "12"
+        "Indeks": "NLO-KP-2904-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 180st / H=13mm / 8x2500mm PCV"
     },
     {
-      "Indeks": "N0302222",
-      "Nazwa artykulu": "Samozamykacz w okuciu gornym do drzwi szklanych,stal nierdzewna",
-      "Stan": "5"
+        "Indeks": "NLO-KP-2905-6-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 180st / H=18mm / 6x2500mm PCV"
     },
     {
-      "Indeks": "NLO-ZD-1301",
-      "Nazwa artykulu": "Trzpień do okucia gornego,mosiadz",
-      "Stan": "613"
+        "Indeks": "NLO-KP-2905-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 180st / H=16mm / 8x2500mm PCV"
     },
     {
-      "Indeks": "GHD-133-1",
-      "Nazwa artykulu": "Trzpień do okucia gornego/ satyna,mosiadz",
-      "Stan": "218"
+        "Indeks": "NLO-KP-2905S-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 180st / H=8mm / 8x2500mm PCV"
     },
     {
-      "Indeks": "NTZ380-T",
-      "Nazwa artykulu": "Trzpień do zawiasu NTZ-380 do ościeznicy drewnianej ,mosiadz",
-      "Stan": "2"
+        "Indeks": "NLO-KP-2906-6-2,5",
+        "Nazwa artykulu": "Uszczelka szkło-podłoga / H=7mm / 6x2500mm PCV"
     },
     {
-      "Indeks": "NTZ380-T",
-      "Nazwa artykulu": "Trzpień do zawiasu NTZ-380 do ościeznicy drewnianej ,mosiadz",
-      "Stan": "17"
+        "Indeks": "NLO-KP-2906-8-2,5",
+        "Nazwa artykulu": "Uszczelka szkło-podłoga / H=7mm / 8x2500mm PCV"
     },
     {
-      "Indeks": "NTZ-380-TP",
-      "Nazwa artykulu": "Trzpień z plytka do zawiasu NTZ-380 do ościeznicy,mosiadz",
-      "Stan": "1"
+        "Indeks": "NLO-KP-2908-6-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna 135st / 6x2500mm PCV"
     },
     {
-      "Indeks": "NLO-ZD-98A-W",
-      "Nazwa artykulu": "Wkladka do pochwytow 98A-113/116,stal nierdzewna",
-      "Stan": "42"
+        "Indeks": "NLO-KP-2909-6-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna 90st / 6x2500mm PCV"
     },
     {
-      "Indeks": "NTW03KK-SS",
-      "Nazwa artykulu": "Wkladka do zamka ; Typ 12/28,mosiadz, satyna",
-      "Stan": "1"
+        "Indeks": "NLO-KP-2909-8-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna 90st / 8x2500mm PCV"
     },
     {
-      "Indeks": "NTW03KK-SS",
-      "Nazwa artykulu": "Wkladka do zamka ; Typ 12/28,mosiadz, satyna",
-      "Stan": "1"
+        "Indeks": "NLO-KP-2910-6-2,5",
+        "Nazwa artykulu": "Uszczelka bąbel / H=8mm / 6x2500mm PCV"
     },
     {
-      "Indeks": "NTW03KK-SS",
-      "Nazwa artykulu": "Wkladka do zamka ; Typ 12/28,mosiadz, satyna",
-      "Stan": "157"
+        "Indeks": "NLO-KP-2910-8-2,5",
+        "Nazwa artykulu": "Uszczelka bąbel / H=8mm / 8x2500mm PCV"
     },
     {
-      "Indeks": "NTW03KK-B",
-      "Nazwa artykulu": "Wkladka do zamka ; Typ 12/28,mosiadz, czarny chrom",
-      "Stan": "8"
+        "Indeks": "NLO-KP-2911",
+        "Nazwa artykulu": "Uszczelka bąbel / H=6mm / 8x2500mm / samoprzylepna PCV"
     },
     {
-      "Indeks": "NTW03KK-28-SS",
-      "Nazwa artykulu": "Wkladka do zamka ; Typ 28/28,stal nierdzewna",
-      "Stan": "2"
+        "Indeks": "NLO-KP-2912",
+        "Nazwa artykulu": "Uszczelka piórko 180st / H=11mm / 8x2500mm / samoprzylepna PCV"
     },
     {
-      "Indeks": "NTW01WC-NA",
-      "Nazwa artykulu": "Wkladka do zamka/18/Galka/anoda,stal nierdzewna",
-      "Stan": "292"
+        "Indeks": "NLO-KP-2913-8-2,5",
+        "Nazwa artykulu": "Uszczelka szkło-podłoga / H=12mm / 8x2500 mm PCV"
     },
     {
-      "Indeks": "NTW01WC-SS",
-      "Nazwa artykulu": "Wkladka do zamka/18/Galka/satyna,stal nierdzewna",
-      "Stan": "434"
+        "Indeks": "NLO-KP-2914-8-2,5",
+        "Nazwa artykulu": "Uszczelka dolna / H=4mm / 8x2500mm PCV"
     },
     {
-      "Indeks": "NTW01KG-NA",
-      "Nazwa artykulu": "Wkladka do zamka/18/Galka-klucz/anoda,stal nierdzewna",
-      "Stan": "207"
+        "Indeks": "NLO-KP-2915-8-2,5",
+        "Nazwa artykulu": "Uszczelka bąbel / H=5mm / 8x2500mm / samoprzylepna PCV"
     },
     {
-      "Indeks": "NTW01KG-SS",
-      "Nazwa artykulu": "Wkladka do zamka/18/Galka-klucz/satyna,stal nierdzewna",
-      "Stan": "3"
+        "Indeks": "NLO-KP-2916-8-2,5",
+        "Nazwa artykulu": "Uszczelka bąbel mały / H=5mm / 8x2500mm PCV"
     },
     {
-      "Indeks": "NTW01KG-SS",
-      "Nazwa artykulu": "Wkladka do zamka/18/Galka-klucz/satyna,stal nierdzewna",
-      "Stan": "189"
+        "Indeks": "NLO-KP-2919-8-2,5",
+        "Nazwa artykulu": "Uszczelka W do systemu S001 PCV"
     },
     {
-      "Indeks": "NTW02WC-SS",
-      "Nazwa artykulu": "Wkladka do zamka/25/Galka/satyna,stal nierdzewna",
-      "Stan": "482"
+        "Indeks": "NLO-KP-2961",
+        "Nazwa artykulu": "Profil aluminiowy U/8x2500mm/ połysk"
     },
     {
-      "Indeks": "NTW02WC-NA",
-      "Nazwa artykulu": "Wkladka do zamka/25/Galka/satyna,stal nierdzewna",
-      "Stan": "279"
+        "Indeks": "NLO-KP-2961-1",
+        "Nazwa artykulu": "Profil aluminiowy U/8x2500mm/ satyna"
     },
     {
-      "Indeks": "NTW02KG-NA",
-      "Nazwa artykulu": "Wkladka do zamka/25/Galka-klucz/anoda,stal nierdzewna",
-      "Stan": "256"
+        "Indeks": "NLO-KP-2961-10",
+        "Nazwa artykulu": "Profil aluminiowy U/ 10x2500/ połysk"
     },
     {
-      "Indeks": "NTW02KG-SS",
-      "Nazwa artykulu": "Wkladka do zamka/25/Galka-klucz/satyna,stal nierdzewna",
-      "Stan": "245"
+        "Indeks": "NLO-KP-2961-10-1",
+        "Nazwa artykulu": "Profil aluminiowy U/ 10x2500/ satyna"
     },
     {
-      "Indeks": "GHD-017R",
-      "Nazwa artykulu": "Zamek cyfrowy z przeciwkaseta/ prawy/mosiadz",
-      "Stan": "2"
+        "Indeks": "NLO-KP-2966",
+        "Nazwa artykulu": "Listwa podłogowa/2400/aluminum/połysk"
     },
     {
-      "Indeks": "NLO-ZD-3221-1",
-      "Nazwa artykulu": "Zamek drzwiowy z galka / satyna",
-      "Stan": "3"
+        "Indeks": "NLO-KP-2967",
+        "Nazwa artykulu": "Listwa podłogowa/2400/aluminum/połysk"
     },
     {
-      "Indeks": "GMTPCS-446A-US15",
-      "Nazwa artykulu": "Zamek drzwiowy z galka szklo-podloga/satyna,stal nierdzewna",
-      "Stan": "26"
+        "Indeks": "NLO-KP-2968-6",
+        "Nazwa artykulu": "Listwa podłogowa bezbarwna, wys. 6mm, L=2m, szkło akrylowe"
     },
     {
-      "Indeks": "GMTPCS-446B-US26",
-      "Nazwa artykulu": "Zamek drzwiowy z galka szklo-szklo + przeciwkaseta/ POlYSK,stal nierdzewna",
-      "Stan": "32"
+        "Indeks": "NLO-KP-2968-8",
+        "Nazwa artykulu": "Listwa podłogowa bezbarwna, wys. 8mm, L=2m, szkło akrylowe"
     },
     {
-      "Indeks": "GMTPCS-446B-US15",
-      "Nazwa artykulu": "Zamek drzwiowy z galka szklo-szklo + przeciwkaseta/ satyna,stal nierdzewna",
-      "Stan": "58"
+        "Indeks": "NLO-KP-S012-1,9-6",
+        "Nazwa artykulu": "Zawias parawanowy listwowy, unoszony, szkło 6mm, L=1,9m,połysk, aluminum"
     },
     {
-      "Indeks": "NLO-ZD-3231-1",
-      "Nazwa artykulu": "Zamek drzwiowy z wkadka na klucz / satyna",
-      "Stan": "12"
+        "Indeks": "NLO-KP-S012-1,9-6-H",
+        "Nazwa artykulu": "Profil H/ szkło-szkło/ gr.6mm/ do systemu S012 / L=1,9m,aluminum"
     },
     {
-      "Indeks": "NT801WC-NA",
-      "Nazwa artykulu": "Zamek lazienkowy/ 110/ anoda,stal nierdzewna",
-      "Stan": "85"
+        "Indeks": "NLO-KP-2906L-8-2,5",
+        "Nazwa artykulu": "Uszczelka dolna / H=8mm / 8x2500mm PCV"
     },
     {
-      "Indeks": "NT801WC-B",
-      "Nazwa artykulu": "Zamek lazienkowy/ 110/ czarny,stal nierdzewna",
-      "Stan": "59"
+        "Indeks": "NLO-PS-2713",
+        "Nazwa artykulu": "Uchwyt/mosiądz/połysk"
     },
     {
-      "Indeks": "NT801WC-SS",
-      "Nazwa artykulu": "Zamek lazienkowy/ 110/ satyna, stal nierdzewna",
-      "Stan": "252"
+        "Indeks": "NLO-PS-2713C",
+        "Nazwa artykulu": "Uchwyt / mosiądz/ połysk"
     },
     {
-      "Indeks": "NT501-WC-SS",
-      "Nazwa artykulu": "Zamek lazienkowy/ 160/ stal nierdzewna / satyna",
-      "Stan": "2"
+        "Indeks": "NLO-PS-2713C-1",
+        "Nazwa artykulu": "Uchwyt / mosiądz/ satyna"
     },
     {
-      "Indeks": "NT501-WC-NA",
-      "Nazwa artykulu": "Zamek lazienkowy/ 160/ stal nierdzewna / srebrna anoda",
-      "Stan": "156"
+        "Indeks": "NLO-PS-2714",
+        "Nazwa artykulu": "Uchwyt/mosiądz/połysk"
     },
     {
-      "Indeks": "NT801M-WC-PSS",
-      "Nazwa artykulu": "Zamek magnetyczny lazienkowy/ 110/ stal nierdzewna / polysk",
-      "Stan": "27"
+        "Indeks": "NLO-PS-2714A",
+        "Nazwa artykulu": "Uchwyt / mosiądz/ połysk"
     },
     {
-      "Indeks": "NT801M-WC-SS",
-      "Nazwa artykulu": "Zamek magnetyczny lazienkowy/ 110/ stal nierdzewna / satyna",
-      "Stan": "41"
+        "Indeks": "NLO-PS-2714A-1",
+        "Nazwa artykulu": "Uchwyt / mosiądz/ satyna"
     },
     {
-      "Indeks": "NT801M-WC-NA",
-      "Nazwa artykulu": "Zamek magnetyczny lazienkowy/ 110/ stal nierdzewna / srebrna anoda",
-      "Stan": "103"
+        "Indeks": "NLO-KP-2908-8-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna 135st / 8x2500mm PCV"
     },
     {
-      "Indeks": "NT501M-WC-SS",
-      "Nazwa artykulu": "Zamek magnetyczny lazienkowy/ 160/ stal nierdzewna / satyna",
-      "Stan": "59"
+        "Indeks": "NPC1213",
+        "Nazwa artykulu": "Rotula do sys. S003 do ścianki prostopadłej / połysk, mosiądz"
     },
     {
-      "Indeks": "NT501M-WC-NA",
-      "Nazwa artykulu": "Zamek magnetyczny lazienkowy/ 160/ stal nierdzewna / srebrna anoda",
-      "Stan": "97"
+        "Indeks": "NPR-PSC-002-1",
+        "Nazwa artykulu": "Mocowanie rura-rura/ 135st./ fi19mm/ satyna,mosiądz"
     },
     {
-      "Indeks": "NT501M-WL-NA",
-      "Nazwa artykulu": "Zamek magnetyczny oszczednościowy/160/aluminium,srebrna anoda",
-      "Stan": "39"
+        "Indeks": "NPR-PSDK-02",
+        "Nazwa artykulu": "Gałka szkło-mosiądz/ 36x36mm/ połysk"
     },
     {
-      "Indeks": "NT501M-WL-SS",
-      "Nazwa artykulu": "Zamek magnetyczny oszczednościowy/160/stal nierdzewna",
-      "Stan": "3"
+        "Indeks": "NPR-PSDK-05",
+        "Nazwa artykulu": "Gałka do drzwi zsklo 6-12 mm, 58/50 mm, mosiądz"
     },
     {
-      "Indeks": "NT501M-B",
-      "Nazwa artykulu": "Zamek magnetyczny pod wkladke/160/ aluminium / Czarna anoda",
-      "Stan": "58"
+        "Indeks": "NTFA135L",
+        "Nazwa artykulu": "Łącznik progowy 135st./ Lewy/ ABS połysk"
     },
     {
-      "Indeks": "NT501M-NA",
-      "Nazwa artykulu": "Zamek magnetyczny pod wkladke/160/ anoda,stal nierdzewna",
-      "Stan": "87"
+        "Indeks": "NTFA135R",
+        "Nazwa artykulu": "Łącznik progowy 135st./ Prawy/ ABS połysk"
     },
     {
-      "Indeks": "NT503M-NA",
-      "Nazwa artykulu": "Zamek magnetyczny pod wkladke/160/ anoda,stal nierdzewna",
-      "Stan": "186"
+        "Indeks": "NTFA180L",
+        "Nazwa artykulu": "Łącznik progowy 180st./ Lewy/ ABS połysk"
     },
     {
-      "Indeks": "NT501M-PSS",
-      "Nazwa artykulu": "Zamek magnetyczny pod wkladke/160/ polysk,stal nierdzewna",
-      "Stan": "43"
+        "Indeks": "NTFA180R",
+        "Nazwa artykulu": "Łącznik progowy 180st./ Prawy/ ABS połysk"
     },
     {
-      "Indeks": "NT503M-SS",
-      "Nazwa artykulu": "Zamek magnetyczny pod wkladke/160/ satyna,stal nierdzewna",
-      "Stan": "248"
+        "Indeks": "NTFA90L",
+        "Nazwa artykulu": "Łącznik progowy 90st./ Lewy/ 8mm/ ABS połysk"
     },
     {
-      "Indeks": "NT501M-SS",
-      "Nazwa artykulu": "Zamek magnetyczny pod wkladke/160/ satyna,stal nierdzewna",
-      "Stan": "199"
+        "Indeks": "NTFA90R",
+        "Nazwa artykulu": "Łącznik progowy 90st./ Prawy/ 8mm/ ABS połysk"
     },
     {
-      "Indeks": "NT801M-NA",
-      "Nazwa artykulu": "Zamek magnetyczny/ 110/ anoda,stal nierdzewna",
-      "Stan": "68"
+        "Indeks": "NTFALL11",
+        "Nazwa artykulu": "Listwa podłogowa/ 2000/aluminium połysk"
     },
     {
-      "Indeks": "NT801M-SS",
-      "Nazwa artykulu": "Zamek magnetyczny/ 110/ satyna,stal nierdzewna",
-      "Stan": "56"
+        "Indeks": "NTK-TW011",
+        "Nazwa artykulu": "Mocowanie regulowane ściana-rura/ fi 19 mm/ połysk,mosiądz"
     },
     {
-      "Indeks": "NT501WL-B",
-      "Nazwa artykulu": "Zamek oszczednościowy/160/aluminium / Czarna anoda",
-      "Stan": "84"
+        "Indeks": "NTK-TW011-1",
+        "Nazwa artykulu": "Mocowanie regulowane ściana-rura/ fi 19 mm/ satyna,mosiądz"
     },
     {
-      "Indeks": "NT501WL-NA",
-      "Nazwa artykulu": "Zamek oszczednościowy/160/aluminium,srebrna anoda",
-      "Stan": "114"
+        "Indeks": "NTK-TW012",
+        "Nazwa artykulu": "Mocowanie regulowane rura-szkło/ fi 19 mm/ połysk,mosiądz"
     },
     {
-      "Indeks": "NT502WL-NA",
-      "Nazwa artykulu": "Zamek oszczednościowy/160/anoda,stal nierdzewna",
-      "Stan": "241"
+        "Indeks": "NTK-TW012-1",
+        "Nazwa artykulu": "Mocowanie regulowane rura-szkło/ fi 19 mm/ satyna,mosiądz"
     },
     {
-      "Indeks": "NT502WL-SS",
-      "Nazwa artykulu": "Zamek oszczednościowy/160/satyna,stal nierdzewna",
-      "Stan": "155"
+        "Indeks": "NTK03-25",
+        "Nazwa artykulu": "Mocowanie 90st./ rura-rura/ fi 25mm/ do S008,mosiądz/ połysk"
     },
     {
-      "Indeks": "NT501WL-SS",
-      "Nazwa artykulu": "Zamek oszczednościowy/160/stal nierdzewna",
-      "Stan": "63"
+        "Indeks": "NTK1020-1300-CH",
+        "Nazwa artykulu": "Rura 10x20mm / 1300mm/ CHROM,stal nierdzewna"
     },
     {
-      "Indeks": "NT501-NA",
-      "Nazwa artykulu": "Zamek pod wkladke /160/ anoda,stal nierdzewna",
-      "Stan": "99"
+        "Indeks": "NTK-TW012-19",
+        "Nazwa artykulu": "Trójnik fi19mm,mosiądz"
     },
     {
-      "Indeks": "NT501-B",
-      "Nazwa artykulu": "Zamek pod wkladke /160/ stal nierdzewna / Czarna Anoda",
-      "Stan": "1"
+        "Indeks": "NTKSQ803",
+        "Nazwa artykulu": "Trójnik/ 10x20mm/ połysk,mosiądz"
     },
     {
-      "Indeks": "NT501-B",
-      "Nazwa artykulu": "Zamek pod wkladke /160/ stal nierdzewna / Czarna Anoda",
-      "Stan": "207"
+        "Indeks": "NTKSQ803-1",
+        "Nazwa artykulu": "Trójnik/ 10x20mm/ satyna,mosiądz"
     },
     {
-      "Indeks": "NT502-NA",
-      "Nazwa artykulu": "Zamek pod wkladke/ 160/ anoda,stal nierdzewna",
-      "Stan": "260"
+        "Indeks": "NTKSQ807",
+        "Nazwa artykulu": "Mocowanie nie regulowane ściana-rura/ 10x20 mm/ połysk,mosiądz"
     },
     {
-      "Indeks": "NT502-SS",
-      "Nazwa artykulu": "Zamek pod wkladke/ 160/ satyna,stal nierdzewna",
-      "Stan": "60"
+        "Indeks": "NTKSQ807-1",
+        "Nazwa artykulu": "Mocowanie ściana-rura/10x20mm/satyna,mosiądz"
     },
     {
-      "Indeks": "NT501-SS",
-      "Nazwa artykulu": "Zamek pod wkladke/160/satyna,stal nierdzewna",
-      "Stan": "85"
+        "Indeks": "NTKSQ816",
+        "Nazwa artykulu": "Mocowanie rura-szkło 90 st/ 10x20 mm/ przelotowe/ połysk,mosiądz"
     },
     {
-      "Indeks": "NT503-SS",
-      "Nazwa artykulu": "Zamek pod wkladke/160/satyna,stal nierdzewna",
-      "Stan": "108"
+        "Indeks": "NTKSQ816-1",
+        "Nazwa artykulu": "Mocowanie rura-szkło 90 st/ 10x20 mm/ przelotowe/ satyna,mosiądz"
     },
     {
-      "Indeks": "GHD-013",
-      "Nazwa artykulu": "Zamek z przeciwkaseta, mosiadz",
-      "Stan": "25"
+        "Indeks": "NTKSQ817",
+        "Nazwa artykulu": "Mocowanie rura-szkło 90 st/ 10x20 mm/ nieprzelotowe/ połysk,mosiądz"
     },
     {
-      "Indeks": "NT801-NA",
-      "Nazwa artykulu": "Zamek/ 110/ anoda, stal nierdzewna",
-      "Stan": "244"
+        "Indeks": "NTKSQ817-1",
+        "Nazwa artykulu": "Mocowanie rura-szkło 90 st/ 10x20 mm/ nieprzelotowe/ satyna,mosiądz"
     },
     {
-      "Indeks": "NT801-B",
-      "Nazwa artykulu": "Zamek/ 110/ czarny, stal nierdzewna",
-      "Stan": "155"
+        "Indeks": "NTKSQ818",
+        "Nazwa artykulu": "Mocowanie rura-szkło 180 st/ 10x20 mm/ przelotowe/ połysk,mosiądz"
     },
     {
-      "Indeks": "NT802-SS",
-      "Nazwa artykulu": "Zamek/ 110/ satyna, stal nierdzewna",
-      "Stan": "91"
+        "Indeks": "NTKSQ818-1",
+        "Nazwa artykulu": "Mocowanie rura-szkło 180 st/ 10x20 mm/ przelotowe/ satyna,mosiądz"
     },
     {
-      "Indeks": "NT801-SS",
-      "Nazwa artykulu": "Zamek/ 110/ satyna, stal nierdzewna",
-      "Stan": "247"
+        "Indeks": "NTKSQ819",
+        "Nazwa artykulu": "Mocowanie regulowane ściana-rura/ 10x20 mm/ połysk,mosiądz"
     },
     {
-      "Indeks": "NT503WL-SS",
-      "Nazwa artykulu": "Zamek/160/satyna,stal nierdzewna",
-      "Stan": "191"
+        "Indeks": "NTKSQ819-1",
+        "Nazwa artykulu": "Mocowanie regulowane ściana-rura/ 10x20 mm/ satyna,mosiądz"
     },
     {
-      "Indeks": "NTZ470-NA",
-      "Nazwa artykulu": "Zawias do drzwi szklanych - anoda,mosiadz",
-      "Stan": "63"
+        "Indeks": "NTKSQ820",
+        "Nazwa artykulu": "Mocowanie regulowane szkło-rura/10x20mm/połysk,mosiądz"
     },
     {
-      "Indeks": "NTZ470-SS",
-      "Nazwa artykulu": "Zawias do drzwi szklanych - satyna,mosiadz",
-      "Stan": "10"
+        "Indeks": "NTKSQ820-1",
+        "Nazwa artykulu": "Mocowanie regulowane szkło-rura/10x20mm/satyna,mosiądz"
     },
     {
-      "Indeks": "NTZ380-NA",
-      "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / anoda, aluminium",
-      "Stan": "345"
+        "Indeks": "NTKSQ821",
+        "Nazwa artykulu": "Mocowanie regulowane rura-szkło/ 10x20 mm/ połysk,mosiądz"
     },
     {
-      "Indeks": "NTZ390-NA",
-      "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / anoda,mosiadz",
-      "Stan": "348"
+        "Indeks": "NTKSQ821-1",
+        "Nazwa artykulu": "Mocowanie regulowane rura-szkło/ 10x20 mm/ satyna,mosiądz"
     },
     {
-      "Indeks": "NTZ380-B",
-      "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / czarny, aluminium",
-      "Stan": "422"
+        "Indeks": "NTKSQ823",
+        "Nazwa artykulu": "Mocowanie regulowane rura-rura/10x20mm/połysk,mosiądz"
     },
     {
-      "Indeks": "NTZ380-PSS",
-      "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / Polysk,aluminium",
-      "Stan": "75"
+        "Indeks": "NTKSQ823-1",
+        "Nazwa artykulu": "Mocowanie regulowane rura-rura/10x20mm/satyna,mosiądz"
     },
     {
-      "Indeks": "NTZ380-SS",
-      "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / satyna,mosiadz",
-      "Stan": "274"
+        "Indeks": "NTL4000D1",
+        "Nazwa artykulu": "Łącznik ściana-szkło/ 1 otwór/ 45x45mm/ zaokrąglony/ połysk,mosiądz"
     },
     {
-      "Indeks": "NTZ390-SS",
-      "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / satyna,mosiadz",
-      "Stan": "414"
+        "Indeks": "NTL4000D1-1",
+        "Nazwa artykulu": "Łącznik ściana-szkło/ 1 otwór/ 45x45mm/ zaokrąglony/ satyna,mosiądz"
     },
     {
-      "Indeks": "NTZ-500-B",
-      "Nazwa artykulu": "Zawias do ościeznicy aluminiowej OFC / aluminium / anoda Czarna",
-      "Stan": "325"
+        "Indeks": "NTL4090-1",
+        "Nazwa artykulu": "Łącznik 90st./ szkło-szkło/ 45x45mm/ zaokrąglony/ satyna,mosiądz"
     },
     {
-      "Indeks": "NTZ-500-SS",
-      "Nazwa artykulu": "Zawias do ościeznicy aluminiowej OFC / aluminium / anoda INOX",
-      "Stan": "437"
+        "Indeks": "NTL4090D",
+        "Nazwa artykulu": "Łącznik 90st./ ściana-szkło/ 45x45mm/ zaokrąglony/ połysk/mosiądz"
     },
     {
-      "Indeks": "NTZ-500-NA",
-      "Nazwa artykulu": "Zawias do ościeznicy aluminiowej OFC / aluminium / anoda Srebrna",
-      "Stan": "564"
+        "Indeks": "NTL4090D-1",
+        "Nazwa artykulu": "Łącznik 90st./ ściana-szkło/ 45x45mm/ zaokrąglony/ satyna,mosiądz"
     },
     {
-      "Indeks": "NTZ-500-H-B",
-      "Nazwa artykulu": "Zawias hydrauliczny do ościeznicy aluminiowej OFC / aluminium / anoda Czarna",
-      "Stan": "2"
+        "Indeks": "NTL4135",
+        "Nazwa artykulu": "Łącznik 135st./ szkło-szkło/ 45x45mm/ zaokrąglony/połysk,mosiądz"
     },
     {
-      "Indeks": "NTZ-200-B",
-      "Nazwa artykulu": "Zawias szklo-szklo do drzwi szklanych - CZARNY, mosiadz",
-      "Stan": "170"
+        "Indeks": "NTL4135-1",
+        "Nazwa artykulu": "Łącznik 135st./ szkło-szkło/ 45x45mm/ zaokrąglony/satyna,mosiądz"
     },
     {
-      "Indeks": "NTZ-200-SS",
-      "Nazwa artykulu": "Zawias szklo-szklo do drzwi szklanych - SATYNA, mosiadz",
-      "Stan": "80"
+        "Indeks": "NTL4180",
+        "Nazwa artykulu": "Łącznik 180st./ szkło-szkło/ 45x45mm/ zaokrąglony/połysk.mosiądz"
     },
     {
-      "Indeks": "NTZ-1000-SET-SS",
-      "Nazwa artykulu": "Zawiasy hydrauliczne OFFICE / KOMPLET 2szt / anoda INOX",
-      "Stan": "46"
+        "Indeks": "NTL4180-1",
+        "Nazwa artykulu": "Łącznik 180st./ szkło-szkło/ 45x45mm/ zaokrąglony/satyna.mosiądz"
     },
     {
-      "Indeks": "NTZ-1000-SET-B",
-      "Nazwa artykulu": "Zawiasy hydrauliczne OFFICE / KOMPLET 2szt / czarna anoda",
-      "Stan": "90"
+        "Indeks": "NTL5000D1",
+        "Nazwa artykulu": "Łącznik ściana-szkło/ 1 otwór/ 45x45mm/ faza/ połysk,mosiądz"
     },
     {
-      "Indeks": "NTZ-1000-SET-NA",
-      "Nazwa artykulu": "Zawiasy hydrauliczne OFFICE / KOMPLET 2szt / srebrna anoda",
-      "Stan": "48"
+        "Indeks": "NTL5090",
+        "Nazwa artykulu": "Łącznik 90st/ szkło- szkło/ 45x45mm/ faza/ połysk,mosiądz"
     },
     {
-      "Indeks": "N0302109-SET",
-      "Nazwa artykulu": "ZESTAW Samozamykacz+okucie gorne duze+oś /N0302109+N0302209+NLO-ZD-1301 /satyna,stal nierdzewna",
-      "Stan": "256"
+        "Indeks": "NTL5090D",
+        "Nazwa artykulu": "Łącznik 90st/ ściana- szkło/ 45x45mm/ faza/ połysk,mosiądz"
     },
     {
-      "Indeks": "N0302109-GHD-120-SET-B",
-      "Nazwa artykulu": "ZESTAW Samozamykacz+okucie gorne+oś /N0302109+GHD-120+NLO-ZD-1301 /czarmy,stal nierdzewna",
-      "Stan": "25"
+        "Indeks": "NTL5135",
+        "Nazwa artykulu": "Łącznik 135st/ szkło- szkło/ 45x45mm/ faza/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NTL5180",
+        "Nazwa artykulu": "Łącznik 180st/ szkło- szkło/ 45x45mm/ faza/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NTL7000D1",
+        "Nazwa artykulu": "Łącznik ściana-szkło/ 1 otwór/ prosty/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NTL7000D1-1",
+        "Nazwa artykulu": "Łącznik ściana-szkło/ 1 otwór/ prosty/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NTL7090",
+        "Nazwa artykulu": "Łącznik 90st./ szkło-szkło/ 45x45mm/ prosty/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NTL7090-1",
+        "Nazwa artykulu": "Łącznik 90st./ szkło-szkło/ 45x45mm/ prosty/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NTL7090D",
+        "Nazwa artykulu": "Łącznik 90st./ ściana-szkło/ 45x45mm/ prosty/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NTL7090D-1",
+        "Nazwa artykulu": "Łącznik 90st./ ściana-szkło/ 45x45mm/ prosty/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NTL7135",
+        "Nazwa artykulu": "Łącznik 135st./ szkło-szkło/ 45x45mm/ prosty/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NTL7135-1",
+        "Nazwa artykulu": "Łącznik 135st./ szkło-szkło/ 45x45mm/ prosty/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NTL7180",
+        "Nazwa artykulu": "Łącznik 180st./ szkło-szkło/ 45x45mm/ prosty/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NTL7180-1",
+        "Nazwa artykulu": "Łącznik 180st./ szkło-szkło/ 45x45mm/ prosty/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NTL8090D",
+        "Nazwa artykulu": "Łącznik ściana-szkło 90 st/ 80x50 mm/ prosty/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NTL8090D-1",
+        "Nazwa artykulu": "Łącznik ściana-szkło 90 st/ 80x50 mm/ prosty/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NTL8090",
+        "Nazwa artykulu": "Łącznik szkło-szkło 90st./ 80x50mm/ prosty/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NTL8090-1",
+        "Nazwa artykulu": "Łącznik szkło-szkło 90st./ 80x50mm/ prosty/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "GHD-690-SSS",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - satyna, mosiądz"
+    },
+    {
+        "Indeks": "GHD-697-CP",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych / połysk, mosiądz"
+    },
+    {
+        "Indeks": "GMTBT704-1",
+        "Nazwa artykulu": "Łącznik do kabiny prysznicowej, satyna, mosiądz"
+    },
+    {
+        "Indeks": "NLO-SC-180-10-3",
+        "Nazwa artykulu": "Uszczelka międzyszybowa szkło-szkło 180st, przylepna, bezbarwna akrylowa, L=3mb"
+    },
+    {
+        "Indeks": "NLO-SC-90-10-3",
+        "Nazwa artykulu": "Uszczelka międzyszybowa szkło-szkło 90st, przylepna, bezbarwna akrylowa, L=3mb"
+    },
+    {
+        "Indeks": "NLO-KP-2901-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko sztywne 135st / H=10mm/ 8x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2904S-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 180st / H=6mm / 8x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2902-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 90st / L=24mm / 8x2500mm PCV"
+    },
+    {
+        "Indeks": "NTL4090",
+        "Nazwa artykulu": "Łącznik 90st. szkło-szkło/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NTL5000D1-1",
+        "Nazwa artykulu": "Łącznik ściana-szkło/ fazowany/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NTL5090D-1",
+        "Nazwa artykulu": "Łącznik 90st. ściana-szkło/ fazowany/ satyna/mosiądz"
+    },
+    {
+        "Indeks": "NTL5090-1",
+        "Nazwa artykulu": "Łącznik 90st. szkło-szkło/ fazowany/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NTL5180-1",
+        "Nazwa artykulu": "Łacznik 180st. szkło-szkło/ fazowany/ satyna.mosiądz"
+    },
+    {
+        "Indeks": "NTKSQ822",
+        "Nazwa artykulu": "Mocowanie regulowane reling-szkło/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NLO-DP-S003/S010",
+        "Nazwa artykulu": "Rotula do szyby stałej do sys. S003/S010 / połysk, stainless steel"
+    },
+    {
+        "Indeks": "NLO-KP-S012-1,45",
+        "Nazwa artykulu": "Zawias parawanowy listwowy, unoszony, szkło6mm, L=1,45m, połysk,aluminum"
+    },
+    {
+        "Indeks": "NPR-PSC-006",
+        "Nazwa artykulu": "Mocowanie szkło-rura/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-S012-2,1-6",
+        "Nazwa artykulu": "Zawias parawanowy listwowy, unoszony, szkło 6mm, L=2,1m, połysk, aluminum"
+    },
+    {
+        "Indeks": "NPR-PSC-006-1",
+        "Nazwa artykulu": "Mocowanie szkło-rura/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-S012-1,9-8",
+        "Nazwa artykulu": "Zawias parawanowy listwowy, unoszony, szkło8mm, L=1,9m, połysk"
+    },
+    {
+        "Indeks": "NG-NFK-SS",
+        "Nazwa artykulu": "Listwa przyścienna pod uszczelkę magn. L=220cm/ satyna/aluminium"
+    },
+    {
+        "Indeks": "NLO-KP-2913P-8-2,5",
+        "Nazwa artykulu": "Uszczelka szkło-podłoga / H=16mm / 8x2500 mm PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2910M-8-2,5",
+        "Nazwa artykulu": "Uszczelka bąbel / H=8mm / 8x2500mm / płytka PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2909M-8-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna 90st / 8x2500mm / płytka PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2909M-6-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna 90st / 6x2500mm / płytka PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2908M-8-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna 135st / 8x2500mm / płytka PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2907-8-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna 180st / 8x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-DP10-S010-1",
+        "Nazwa artykulu": "Wyposażenie do systemu przesuwnego S010(12el.) - SATYNA, stainless steel"
+    },
+    {
+        "Indeks": "NLO-DP10-S010-8-2-1",
+        "Nazwa artykulu": "System przesuwny S010/ profil 2m/ SATYNA, stainless steel"
+    },
+    {
+        "Indeks": "NLO-KP-2902-6-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 90st / L=25mm / 6x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2904S-6-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 180st / H=6mm / 6x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2913-6-2,5",
+        "Nazwa artykulu": "Uszczelka szkło-podłoga / H=12mm / 6x2500 mm PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2907-6-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna 180st / 6x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-GŁ-2804",
+        "Nazwa artykulu": "Gałka 04/mosiądz/połysk"
+    },
+    {
+        "Indeks": "NLO-GŁ-2807-1",
+        "Nazwa artykulu": "Gałka 07/mosiądz/satyna"
+    },
+    {
+        "Indeks": "NLO-KP-2718-1",
+        "Nazwa artykulu": "Uchwyt / mosiądz/ satyna"
+    },
+    {
+        "Indeks": "NTFA90",
+        "Nazwa artykulu": "Łącznik progowy 90st./ PRÓG-PRÓG / ABS połysk"
+    },
+    {
+        "Indeks": "NLO-KP-2919-8-2",
+        "Nazwa artykulu": "Uszczelka W do systemu S001 / 8mm PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2961-Z-1",
+        "Nazwa artykulu": "Zaślepka do profila aluminiowego NLO-KP-2961-1 / satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-KP-2902S-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 90st / L=16mm / 8x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2744",
+        "Nazwa artykulu": "Mocowanie rura-szkło/ 19, 5x19, 5mm/ nieprzelotowe-stałe/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-S012-2,1-6-H",
+        "Nazwa artykulu": "Profil H/ szkło-szkło/ gr.6mm/ do systemu S012 / L=2,1m aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-2917-8-2,5",
+        "Nazwa artykulu": "Uszczelka szkło-drzwi domykowa 90st / L=6,5mm / 8x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-DP03-S003-1",
+        "Nazwa artykulu": "Wyposażenie do systemu przesuwnego S003 SATYNA, stainless steel"
+    },
+    {
+        "Indeks": "NLO-DP03-S003-8-2-1",
+        "Nazwa artykulu": "System przesuwny S003/ profil 10x30/200/ satyna, stainless steel"
+    },
+    {
+        "Indeks": "NLO-DP08-S008-1",
+        "Nazwa artykulu": "Wyposażenie do systemu przesuwnego S008(12el.) SATYNA, stainless steel"
+    },
+    {
+        "Indeks": "NLO-DP08-232-25-2-1",
+        "Nazwa artykulu": "System przesuwny S008/ profil 2m/ fi 25mm/ satyna, stainless steel"
+    },
+    {
+        "Indeks": "NPR-PSC-007",
+        "Nazwa artykulu": "Mocowanie boczne przelotowe reling-szkło / połysk,mosiądz"
+    },
+    {
+        "Indeks": "NPR-PSC-007-1",
+        "Nazwa artykulu": "Mocowanie boczne przelotowe reling-szkło / satyna,mosiądz"
+    },
+    {
+        "Indeks": "NPC1213-1",
+        "Nazwa artykulu": "Rotula do sys. S003 do ścianki prostopadłej / satyna, mosiądz"
+    },
+    {
+        "Indeks": "NLO-DP-S003/S010-1",
+        "Nazwa artykulu": "Rotula do szyby stałej do sys. S003/S010 / satyna, stainless steel"
+    },
+    {
+        "Indeks": "NLO-KP-2961-Z",
+        "Nazwa artykulu": "Zaślepka do profilu aluminiowego NLO-KP-2961 / połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-KP-2961-10-Z-1",
+        "Nazwa artykulu": "Zaślepka do profila aluminiowego NLO-KP-2961-10-1 / satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-KP-2961-10-Z",
+        "Nazwa artykulu": "Zaślepka do profilu aluminiowego NLO-KP-2961-10 / połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-KP-2731-1",
+        "Nazwa artykulu": "Mufa fi19/mosiądz/satyna"
+    },
+    {
+        "Indeks": "NLO-KP-2960",
+        "Nazwa artykulu": "Łącznik nakładany szkło-szkło 90st / szkło 8-12mm / połysk,mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-2960-1",
+        "Nazwa artykulu": "Łącznik nakładany szkło-szkło 90st / szkło 8-12mm / satyna, mosiądz"
+    },
+    {
+        "Indeks": "NLO-PS-2713-1",
+        "Nazwa artykulu": "Uchwyt/mosiądz/satyna"
+    },
+    {
+        "Indeks": "NLO-KP-3000",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=2,5m / POŁYSK, aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-3000-1",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=2,5m / SATYNA, aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-3000-8",
+        "Nazwa artykulu": "Uszczelka do profila 3000 / szkło 8mm / BEZBARWNA"
+    },
+    {
+        "Indeks": "NLO-KP-3000-Z-1",
+        "Nazwa artykulu": "Zaślepka do profila 3000 / SATYNA,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-KP-3000-Z",
+        "Nazwa artykulu": "Zaślepka do profila 3000 / POŁYSK,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-KP-2906L-6-2,5",
+        "Nazwa artykulu": "Uszczelka dolna / H=8mm / 6x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2920-8-2,5",
+        "Nazwa artykulu": "Uszczelka typ H / 8x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-GŁ-2803A",
+        "Nazwa artykulu": "Gałka 03/ mosiądz/ połysk"
+    },
+    {
+        "Indeks": "NTKSQ807-B",
+        "Nazwa artykulu": "Mocowanie ściana-rura/10x20mm/ BLACK Series,mosiądz"
+    },
+    {
+        "Indeks": "NTKSQ817-B",
+        "Nazwa artykulu": "Mocowanie rura-szkło 90 st/ 10x20 mm/ nieprzelotowe/ BLACK Series,mosiądz"
+    },
+    {
+        "Indeks": "NTKSQ819-B",
+        "Nazwa artykulu": "Mocowanie regulowane ściana-rura/ 10x20 mm/ BLACK Series,mosiądz"
+    },
+    {
+        "Indeks": "NTKSQ820-B",
+        "Nazwa artykulu": "Mocowanie regulowane szkło-rura/10x20mm/ BLACK Series,mosiądz"
+    },
+    {
+        "Indeks": "NTKSQ821-B",
+        "Nazwa artykulu": "Mocowanie regulowane rura-szkło/ 10x20 mm/ BLACK Series,mosiądz"
+    },
+    {
+        "Indeks": "NTK1020-1500-B",
+        "Nazwa artykulu": "Rura 10x20mm / 1500mm/ BLACK Series,stal nierdzewna"
+    },
+    {
+        "Indeks": "GMTBT-709-US32D(SSS)",
+        "Nazwa artykulu": "Łącznik do kabiny prysznicowej, satyna , mosiądz"
+    },
+    {
+        "Indeks": "NTK1020-2000",
+        "Nazwa artykulu": "Rura10x20/ 2000/ połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTK1020-2000-1",
+        "Nazwa artykulu": "Rura10x20/ 2000/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-KP-2961-B",
+        "Nazwa artykulu": "Profil aluminiowy U/8x2500mm/ BLACK SERIES"
+    },
+    {
+        "Indeks": "NLO-KP-2905S-6-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 180st / H=8mm / 6x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2903-6-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 135st / H=15mm / 6x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-KP-3000-M",
+        "Nazwa artykulu": "Maskownica do profila 3000 / L=2,5m / POŁYSK,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-3000-M-1",
+        "Nazwa artykulu": "Maskownica do profila 3000 / L=2,5m / SATYNA,aluminum"
+    },
+    {
+        "Indeks": "NLO-DP03-S003-300",
+        "Nazwa artykulu": "System przesuwny S003/ profil 10x30mm/3000mm/ połysk, stainless steel"
+    },
+    {
+        "Indeks": "NTKSQ822-1",
+        "Nazwa artykulu": "Mocowanie regulowane reling-szkło/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-3000-B",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=2,5m / CZARNY,aluminum"
+    },
+    {
+        "Indeks": "VER-90-L",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło VERONA / LEWY / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "VER-90-L-B",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło VERONA / LEWY / CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "VER-90-R",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło VERONA / PRAWY / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "VER-90-R-B",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło VERONA / PRAWY / CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "VER-90-R-1",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło VERONA / PRAWY / SATYNA,mosiądz"
+    },
+    {
+        "Indeks": "VER-90-L-1",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło VERONA / LEWY / SATYNA,mosiądz"
+    },
+    {
+        "Indeks": "VER-180-L",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 180st VERONA / LEWY / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "VER-180-L-1",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 180st VERONA / LEWY / SATYNA,mosiądz"
+    },
+    {
+        "Indeks": "VER-180-L-B",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 180st VERONA / LEWY / CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "VER-180-R",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 180st VERONA / PRAWY / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "VER-180-R-1",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 180st VERONA / PRAWY / SATYNA,mosiądz"
+    },
+    {
+        "Indeks": "VER-180-R-B",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 180st VERONA / PRAWY / CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "VER-135-L",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 135st VERONA / LEWY / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "VER-135-L-1",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 135st VERONA / LEWY / SATYNA,mosiądz"
+    },
+    {
+        "Indeks": "VER-135-R-1",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 135st VERONA / PRAWY / SATYNA,mosiądz"
+    },
+    {
+        "Indeks": "VER-135-R",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 135st VERONA / PRAWY / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-3000-8-B",
+        "Nazwa artykulu": "Uszczelka do profila 3000 / szkło 8mm / CZARNA"
+    },
+    {
+        "Indeks": "NLO-KP-2909-8-2,5-B",
+        "Nazwa artykulu": "Uszczelka magnetyczna 90st / 8x2500mm / CZARNY MAGNES PCV"
+    },
+    {
+        "Indeks": "NLO-GŁ-52-B",
+        "Nazwa artykulu": "Gałka 52/mosiądz/CZARNY MAT"
+    },
+    {
+        "Indeks": "NLO-GŁ-51-B",
+        "Nazwa artykulu": "Gałka 51/mosiądz/CZARNY MAT"
+    },
+    {
+        "Indeks": "GMTBT962-450-US32 (PSS)",
+        "Nazwa artykulu": "Stabilizator kwadratowy 15x15 / ściana-szkło regulowany / L=450 / komplet / połysk, mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-3000-Z-B",
+        "Nazwa artykulu": "Zaślepka do profila 3000 / CZARNA,stal nierdzewna"
+    },
+    {
+        "Indeks": "VER-BJ-90-B",
+        "Nazwa artykulu": "Zawias wahadłowy ściana-szkło 90st VERONA / CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "VER-BJ-180-B",
+        "Nazwa artykulu": "Zawias wahadłowy szkło-szkło 180st VERONA / CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-2961-3,0",
+        "Nazwa artykulu": "Profil aluminiowy U/8x3000mm/ połysk"
+    },
+    {
+        "Indeks": "NLO-KP-3000-3,0",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=3,0m / POŁYSK,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-2961-3,0-B",
+        "Nazwa artykulu": "Profil aluminiowy U/8x3000mm/ CZARNY"
+    },
+    {
+        "Indeks": "NLO-KP-3000-M-B",
+        "Nazwa artykulu": "Maskownica do profila 3000 / L=2,5m / CZARNY MAT,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-2909-8-2,5-BB",
+        "Nazwa artykulu": "Uszczelka magnetyczna 90st / 8x2500mm / CAŁA CZARNA PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2900-8-2,5-BB",
+        "Nazwa artykulu": "Uszczelka piórko sztywne 180st / H=13mm / 8x2500mm / CZARNA PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2910-8-2,5-B",
+        "Nazwa artykulu": "Uszczelka bąbel / H=8mm / 8x2500mm / CZARNA PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2913-8-2,5-B",
+        "Nazwa artykulu": "Uszczelka szkło-podłoga / H=12mm / 8x2500 mm / CZARNA PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2902S-6-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 90st / L=20mm / 6x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-PS-2713A",
+        "Nazwa artykulu": "Uchwyt/mosiądz/połysk / maly"
+    },
+    {
+        "Indeks": "NTL4000D1-B",
+        "Nazwa artykulu": "Łącznik ściana-szkło/ 1 otwór/ 45x45mm/ zaokrąglony/ CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "NTL7000D1-B",
+        "Nazwa artykulu": "Łącznik ściana-szkło/ 1 otwór/ prosty/ CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "NTL7090D-B",
+        "Nazwa artykulu": "Łącznik 90st./ ściana-szkło/ 45x45mm/ prosty/ CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "VER-A90-L-B",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA / LEWY / CZARNY / mosiądz"
+    },
+    {
+        "Indeks": "VER-A90-R-B",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA / PRAWY / CZARNY / mosiądz"
+    },
+    {
+        "Indeks": "NTL4090-B",
+        "Nazwa artykulu": "Łącznik 90st./ szkło-szkło/ 45x45mm/ zaokrąglony/ CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "NTKSQ822-B",
+        "Nazwa artykulu": "Mocowanie regulowane reling-szkło/ CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "VER-BJ-180",
+        "Nazwa artykulu": "Zawias wahadłowy szkło-szkło 180st VERONA / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "VER-BJ-90",
+        "Nazwa artykulu": "Zawias wahadłowy ściana-szkło 90st VERONA / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "VER-B90-L-B",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA / LEWY / CZARNY / mosiądz"
+    },
+    {
+        "Indeks": "VER-B90-R-B",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA / PRAWY / CZARNY / mosiądz"
+    },
+    {
+        "Indeks": "NLO-DP03-S003-8-3",
+        "Nazwa artykulu": "System przesuwny S003/ profil 10x30/300/ połysk, stainless steel"
+    },
+    {
+        "Indeks": "NLO-KP-2723B",
+        "Nazwa artykulu": "Mocowanie rura-szkło-sufit/ połysk"
+    },
+    {
+        "Indeks": "NLO-KP-2909P-8-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna 180st - podwójne piórko / 8x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-KP-2747",
+        "Nazwa artykulu": "Mocowanie boczne przelotowe rura-szkło/ 19x19 mm/ połysk, mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-2747-1",
+        "Nazwa artykulu": "Mocowanie boczne przelotowe rura-szkło/ 19x19 mm/ satyna, mosiądz"
+    },
+    {
+        "Indeks": "NLO-GŁ-2803A-1",
+        "Nazwa artykulu": "Gałka 03/ mosiądz/ satyna"
+    },
+    {
+        "Indeks": "NLO-KP-2961-10-3,0",
+        "Nazwa artykulu": "Profil aluminiowy U/ 10x3000mm/ połysk"
+    },
+    {
+        "Indeks": "NLO-DP08/10",
+        "Nazwa artykulu": "Łącznik panela stałego prostopadłego z rurą / POŁYSK, stainless steel"
+    },
+    {
+        "Indeks": "NLO-DP03-S003-B",
+        "Nazwa artykulu": "Wyposażenie do systemu przesuwnego S003 CZARNY / stainless steel"
+    },
+    {
+        "Indeks": "NLO-DP03-S003-8-2-B",
+        "Nazwa artykulu": "System przesuwny S003/ profil 10x30mm/ 2000mm / CZARNY / stainless steel"
+    },
+    {
+        "Indeks": "NPC1213-B",
+        "Nazwa artykulu": "Rotula do sys. S003 do ścianki prostopadłej / CZARNY / mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-3000-3,0-B",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=3,0m / CZARNY,aluminum"
+    },
+    {
+        "Indeks": "VER-A90-L",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA / LEWY / POŁYSK / mosiądz"
+    },
+    {
+        "Indeks": "VER-A90-L-1",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA / LEWY / SATYNA / mosiądz"
+    },
+    {
+        "Indeks": "VER-A90-R",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA / PRAWY / POŁYSK / mosiądz"
+    },
+    {
+        "Indeks": "VER-A90-R-1",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA / PRAWY / SATYNA / mosiądz"
+    },
+    {
+        "Indeks": "VER-B90-L",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA / LEWY / POŁYSK / mosiądz"
+    },
+    {
+        "Indeks": "VER-B90-L-1",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA / LEWY / SATYNA / mosiądz"
+    },
+    {
+        "Indeks": "VER-B90-R",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA / PRAWY / POŁYSK / mosiądz"
+    },
+    {
+        "Indeks": "VER-B90-R-1",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA / PRAWY / SATYNA / mosiądz"
+    },
+    {
+        "Indeks": "VER-BJ-90-1",
+        "Nazwa artykulu": "Zawias wahadłowy ściana-szkło 90st VERONA / SATYNA,mosiądz"
+    },
+    {
+        "Indeks": "NTL7090-B",
+        "Nazwa artykulu": "Łącznik 90st./ szkło-szkło/ 45x45mm/ prosty/ CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "VER-BJ-180-BB",
+        "Nazwa artykulu": "Zawias wahadłowy szkło-szkło 180st VERONA Premium / CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "VER-BJ-90-BB",
+        "Nazwa artykulu": "Zawias wahadłowy ściana-szkło 90st VERONA Premium / CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "VER-BJ-180-1",
+        "Nazwa artykulu": "Zawias wahadłowy szkło-szkło 180st VERONA / SATYNA,mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-2961-5,0-B",
+        "Nazwa artykulu": "Profil aluminiowy U/8x5000mm/ czarna anoda"
+    },
+    {
+        "Indeks": "NLO-KP-2961-5,0-1",
+        "Nazwa artykulu": "Profil aluminiowy U/8x5000mm/ satyna"
+    },
+    {
+        "Indeks": "NLO-DP03-S003-3-B",
+        "Nazwa artykulu": "Łącznik 90st./ rura-rura/ do systemu S003, stal nierdzewna / czarny"
+    },
+    {
+        "Indeks": "VER-135-L-B",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 135st VERONA / LEWY / CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "VER-135-R-B",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 135st VERONA / PRAWY / CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-2961-10-B",
+        "Nazwa artykulu": "Profil aluminiowy U/ 10x2500/ czarny"
+    },
+    {
+        "Indeks": "NLO-KP-2961-10-3,0-B",
+        "Nazwa artykulu": "Profil aluminiowy U/ 10x3000mm/ czarny"
+    },
+    {
+        "Indeks": "NLO-ZD-2798L",
+        "Nazwa artykulu": "Łącznik nakładany ściana-szkło 90st LEWY / szkło 8-12mm / połysk,mosiądz"
+    },
+    {
+        "Indeks": "NLO-ZD-2798R",
+        "Nazwa artykulu": "Łącznik nakładany ściana-szkło 90st PRAWY / szkło 8-12mm / połysk,mosiądz"
+    },
+    {
+        "Indeks": "NLO-DP02-S002-2000",
+        "Nazwa artykulu": "System przesuwny S002/ PROFIL 2M / połysk, aluminium"
+    },
+    {
+        "Indeks": "NLO-DP02-S002",
+        "Nazwa artykulu": "Wyposażenie do systemu przesuwnego S002, stainless steel / połysk"
+    },
+    {
+        "Indeks": "NLO-DP02-S002-3",
+        "Nazwa artykulu": "Łącznik 90st./ profil-profil/ do syst. S002 / połysk"
+    },
+    {
+        "Indeks": "NLO-KP-S012P-1,45-6",
+        "Nazwa artykulu": "Zawias parawanowy listwowy, unoszony, szkło 6mm, L=1,45m, połysk,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-S012P-1,9-6",
+        "Nazwa artykulu": "Zawias parawanowy listwowy, unoszony, szkło 6mm, L=1,9m, połysk,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-S012P-2,1-6",
+        "Nazwa artykulu": "Zawias parawanowy listwowy, unoszony, szkło 6mm, L=2,1m, połysk,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-S012P-2,1-6-B",
+        "Nazwa artykulu": "Zawias parawanowy listwowy, unoszony, szkło 6mm, L=2,1m, czarny ,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-S012P-1,9-8",
+        "Nazwa artykulu": "Zawias parawanowy listwowy, unoszony, szkło 8mm, L=1,9m, połysk,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-S012P-2,1-6-GG",
+        "Nazwa artykulu": "Zawias parawanowy listwowy szkło-szkło, unoszony, szkło 6mm, L=2,1m, połysk,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-2961-2,0-1",
+        "Nazwa artykulu": "Profil aluminiowy U/8x2000mm/ satyna"
+    },
+    {
+        "Indeks": "NLO-KP-2961-2,0-B",
+        "Nazwa artykulu": "Profil aluminiowy U/8x2000mm/ BLACK SERIES"
+    },
+    {
+        "Indeks": "NLO-KP-3000-2,0-B",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=2,0m / CZARNY,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-3000-2,0-1",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=2,0m / SATYNA, aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-3000-3,0-1",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=3,0m /SATYNA,aluminum"
+    },
+    {
+        "Indeks": "NLO-DP03-S003-3-1",
+        "Nazwa artykulu": "Łącznik 90st./ rura-rura/ do systemu S003, stal nierdzewna, SATYNA"
+    },
+    {
+        "Indeks": "NLO-KP-3000-5,0-B",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=5,0m / CZARNY,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-2961-5,0-NA",
+        "Nazwa artykulu": "Profil aluminiowy U/8x5000mm/ srebrna anoda"
+    },
+    {
+        "Indeks": "NLO-KP-3000-5,0-NA",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=5,0m / SREBRNA ANODA,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-2905S-8-2,5-B",
+        "Nazwa artykulu": "Uszczelka piórko 180st / H=8mm / 8x2500mm PCV / CZARNY"
+    },
+    {
+        "Indeks": "NLO-KP-2905-8-2,5-B",
+        "Nazwa artykulu": "Uszczelka piórko 180st / H=16mm / 8x2500mm PCV / CZARNY"
+    },
+    {
+        "Indeks": "NLO-KP-2906-8-2,5-B",
+        "Nazwa artykulu": "Uszczelka szkło-podłoga / H=7mm / 8x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-KP-3000-5,0-1",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=5,0m /SATYNA,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-2961-3,0-1",
+        "Nazwa artykulu": "Profil aluminiowy U/8x3000mm/ satyna"
+    },
+    {
+        "Indeks": "NLO-KP-2961-NA",
+        "Nazwa artykulu": "Profil aluminiowy U/8x2500mm/ srebrna anoda"
+    },
+    {
+        "Indeks": "NLO-KP-3000-NA",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=2,5m / SREBRNA ANODA,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-2961-Z-B",
+        "Nazwa artykulu": "Zaślepka do profila aluminiowego NLO-KP-2961-B /CZARNY,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-SP-2900-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko sztywne 180st / H=10mm / 8x2500mm / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-SP-2905-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 180st / H=17mm / 8x2500mm / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-SP-2902S-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 90st / L=15mm / 8x2500mm / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-SP-2903-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 135st / H=16mm / 8x2500mm / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-SP-2906L-8-2,5",
+        "Nazwa artykulu": "Uszczelka dolna / H=8mm / 8x2500mm / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-SP-2910-8-2,5",
+        "Nazwa artykulu": "Uszczelka bąbel / H=8mm / 8x2500mm / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-SP-2914-8-2,5",
+        "Nazwa artykulu": "Uszczelka dolna / H=12mm / 8x2500mm PCV"
+    },
+    {
+        "Indeks": "NLO-SP-2909-8-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna 90st / 8x2500mm / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-SP-2902-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 90st / L=23mm / 8x2500mm / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-SP-2910M-8-2,5",
+        "Nazwa artykulu": "Uszczelka bąbel / H=8mm / 8x2500mm / płytka / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-SP-2968-6-12",
+        "Nazwa artykulu": "Listwa podłogowa bezbarwna, wys. 6mm, szer.12mm / L=2m / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-SP-2913T-8-2,5",
+        "Nazwa artykulu": "Uszczelka szkło-podłoga przylepna / H=12mm / 8x2500 mm / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-SP-2909T-90-8-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna 90st przylepna / 8x2500mm / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-SP-2909T-180-8-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna 180st przylepna / 8x2500mm / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-SP-2921-8-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna 180st przylepna / kpl=2szt / 8x2500mm / PC SuperClear"
+    },
+    {
+        "Indeks": "GMTBJ-200 US32D",
+        "Nazwa artykulu": "Zawias obrotowy BJ-200, ściana-szkło, faza, mosiądz, satyna"
+    },
+    {
+        "Indeks": "NTKSQ803-B",
+        "Nazwa artykulu": "Trójnik/ 10x20mm/ BLACK series,mosiądz"
+    },
+    {
+        "Indeks": "NTL7090AD",
+        "Nazwa artykulu": "Łącznik 90st z regulacją / ściana-szkło/ 45x45mm/ prosty/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NTL7090AD-1",
+        "Nazwa artykulu": "Łącznik 90st z regulacją / ściana-szkło/ 45x45mm/ prosty/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NTL7090AD-B",
+        "Nazwa artykulu": "Łącznik 90st z regulacją / ściana-szkło/ 45x45mm/ prosty/ czarny,mosiądz"
+    },
+    {
+        "Indeks": "NTK1020-1000-B",
+        "Nazwa artykulu": "Rura 10x20mm / 1000mm/ BLACK Series,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTFALL11-B",
+        "Nazwa artykulu": "Listwa podłogowa/ 2000/aluminium / czarny"
+    },
+    {
+        "Indeks": "NTFA90-B",
+        "Nazwa artykulu": "Łącznik progowy 90st./ PRÓG-PRÓG / ABS czarny"
+    },
+    {
+        "Indeks": "NTFA90L-B",
+        "Nazwa artykulu": "Łącznik progowy 90st./ Lewy/ 8mm/ ABS czarny"
+    },
+    {
+        "Indeks": "NTFA90R-B",
+        "Nazwa artykulu": "Łącznik progowy 90st./ Prawy/ 8mm/ ABS czarny"
+    },
+    {
+        "Indeks": "NTFA180L-B",
+        "Nazwa artykulu": "Łącznik progowy 180st./ Lewy/ ABS czarny"
+    },
+    {
+        "Indeks": "NTFA180R-B",
+        "Nazwa artykulu": "Łącznik progowy 180st./ Prawy/ ABS czarny"
+    },
+    {
+        "Indeks": "NLO-KP-2961-10-Z-B",
+        "Nazwa artykulu": "Zaślepka do profila aluminiowego NLO-KP-2961-10-B / czarny,stal nierdzewna"
+    },
+    {
+        "Indeks": "VER-SLIM-180-L",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 180st VERONA SLIM / LEWY / mosiądz / POŁYSK"
+    },
+    {
+        "Indeks": "VER-SLIM-180-L-B",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 180st VERONA SLIM / LEWY / mosiądz / CZARNY"
+    },
+    {
+        "Indeks": "VER-SLIM-90-L",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA SLIM / LEWY / mosiądz / POŁYSK"
+    },
+    {
+        "Indeks": "VER-SLIM-A90-L-BCH",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA SLIM / LEWY / mosiądz / BLACK CHROME"
+    },
+    {
+        "Indeks": "NLO-KP-2968-10",
+        "Nazwa artykulu": "Listwa podłogowa bezbarwna, wys. 10mm, L=2m, szkło akrylowe"
+    },
+    {
+        "Indeks": "NLO-SP-2905S-8-2,5",
+        "Nazwa artykulu": "Uszczelka piórko 180st / H=8mm / 8x2500mm / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-SP-2913-8-2,5",
+        "Nazwa artykulu": "Uszczelka szkło-podłoga / H=11mm / 8x2500 mm / PC SuperClear"
+    },
+    {
+        "Indeks": "NLO-KP-2961-6,0-B",
+        "Nazwa artykulu": "Profil aluminiowy U/8x6000mm/ czarna anoda"
+    },
+    {
+        "Indeks": "NLO-KP-3500-2,0",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=2,0m / POŁYSK, aluminum"
+    },
+    {
+        "Indeks": "NLO-GŁ-2801-B",
+        "Nazwa artykulu": "Gałka 01/ mosiądz/ czarny"
+    },
+    {
+        "Indeks": "NLO-GŁ-2803-B",
+        "Nazwa artykulu": "Gałka 03/ mosiądz/ czarny"
+    },
+    {
+        "Indeks": "NTL7180-B",
+        "Nazwa artykulu": "Łącznik 180st./ szkło-szkło/ 45x45mm/ prosty/ czarny,mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-3500-2,5",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=2,5m / POŁYSK, aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-3500-5,0-B",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=5,0m / aluminium / czarna anoda"
+    },
+    {
+        "Indeks": "NLO-DP02-S002-2000-B",
+        "Nazwa artykulu": "System przesuwny S002/ PROFIL 2M / CZARNY, aluminium"
+    },
+    {
+        "Indeks": "NLO-KP-S012P-2,1-U",
+        "Nazwa artykulu": "Profil U do zawiasu listwowegoS012P, L=2,1m, połysk,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-3500-Z",
+        "Nazwa artykulu": "Zaślepka do profila 3500 / POŁYSK,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-KP-3500-Z-B",
+        "Nazwa artykulu": "Zaślepka do profila 3500 / CZARNA,stal nierdzewna"
+    },
+    {
+        "Indeks": "GHD-692-SC",
+        "Nazwa artykulu": "Gałka do drzwi prysznicowych - satyna, mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-2902-8-2,5-B",
+        "Nazwa artykulu": "Uszczelka piórko 90st / L=25mm / 8x2500mm PCV / Czarny"
+    },
+    {
+        "Indeks": "NLO-KP-3500-6",
+        "Nazwa artykulu": "Uszczelka do profila 3000 / szkło 6mm / BEZBARWNA"
+    },
+    {
+        "Indeks": "NLO-KP-3500-6-B",
+        "Nazwa artykulu": "Uszczelka do profila 3000 / szkło 6mm / CZARNA"
+    },
+    {
+        "Indeks": "NLO-KP-2909C-8-2,5",
+        "Nazwa artykulu": "Uszczelka magnetyczna"
+    },
+    {
+        "Indeks": "VER-BJ-90T",
+        "Nazwa artykulu": "Zawias wahadłowy ściana-szkło 90st VERONA / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "VER-BJ-90T-1",
+        "Nazwa artykulu": "Zawias wahadłowy ściana-szkło 90st VERONA / SATYNA,mosiądz"
+    },
+    {
+        "Indeks": "VER-BJ-90T-B",
+        "Nazwa artykulu": "Zawias wahadłowy ściana-szkło 90st VERONA Premium / CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "NTL2000D1-SS",
+        "Nazwa artykulu": "Łącznik ściana-szkło/ 1 otwór/ 45x45mm/ satyna, mosiądz"
+    },
+    {
+        "Indeks": "NTL2000D1-B",
+        "Nazwa artykulu": "Łącznik ściana-szkło/ 1 otwór/ 45x45mm/ czarny, mosiądz"
+    },
+    {
+        "Indeks": "VER-BJ-135",
+        "Nazwa artykulu": "Zawias wahadłowy szkło-szkło 135st VERONA / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "VER-BJ-135-1",
+        "Nazwa artykulu": "Zawias wahadłowy szkło-szkło 135st VERONA / SATYNA,mosiądz"
+    },
+    {
+        "Indeks": "VER-BJ-135-B",
+        "Nazwa artykulu": "Zawias wahadłowy szkło-szkło 135st VERONA Premium / CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "NLO-DP02-S002-B",
+        "Nazwa artykulu": "Wyposażenie do systemu przesuwnego S002, stainless steel / czarny"
+    },
+    {
+        "Indeks": "NTK03-25-1",
+        "Nazwa artykulu": "Mocowanie 90st./ rura-rura/ fi 25mm/ do S008,mosiądz/ satyna"
+    },
+    {
+        "Indeks": "NLO-DP02-S002-3-B",
+        "Nazwa artykulu": "Łącznik 90st./ profil-profil/ do syst. S002/ czarny"
+    },
+    {
+        "Indeks": "VER-SLIM-901",
+        "Nazwa artykulu": "Łącznik ściana-szkło 90st VERONA SLIM / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "VER-SLIM-901-1",
+        "Nazwa artykulu": "Łącznik ściana-szkło 90st VERONA SLIM / SATYNA, mosiądz"
+    },
+    {
+        "Indeks": "VER-SLIM-901-B",
+        "Nazwa artykulu": "Łącznik ściana-szkło 90st VERONA SLIM / CZARNY, mosiądz"
+    },
+    {
+        "Indeks": "VER-SLIM-902",
+        "Nazwa artykulu": "Łącznik szkło-szkło 90st VERONA SLIM / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "VER-SLIM-902-1",
+        "Nazwa artykulu": "Łącznik szkło-szkło 90st VERONA SLIM / SATYNA, mosiądz"
+    },
+    {
+        "Indeks": "VER-SLIM-902-B",
+        "Nazwa artykulu": "Łącznik szkło-szkło 90st VERONA SLIM / CZARNY, mosiądz"
+    },
+    {
+        "Indeks": "VER-SLIM-903",
+        "Nazwa artykulu": "Łącznik szkło-szkło 180st VERONA SLIM / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "VER-SLIM-903-B",
+        "Nazwa artykulu": "Łącznik szkło-szkło 180st VERONA SLIM / CZARNY, mosiądz"
+    },
+    {
+        "Indeks": "VER-SLIM-903-1",
+        "Nazwa artykulu": "Łącznik szkło-szkło 180st VERONA SLIM / SATYNA, mosiądz"
+    },
+    {
+        "Indeks": "VER-SLIM-900",
+        "Nazwa artykulu": "Łącznik szkło-podłoga VERONA SLIM / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "VER-SLIM-900-1",
+        "Nazwa artykulu": "Łącznik szkło-podłoga VERONA SLIM / SATYNA, mosiądz"
+    },
+    {
+        "Indeks": "VER-SLIM-900-B",
+        "Nazwa artykulu": "Łącznik szkło-podłoga VERONA SLIM / CZARNY, mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-3000-6,0-NA",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=6,0m / SREBRNA ANODA,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-3000-6,0-B",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=6,0m / CZARNY,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-3000-6,0-1",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=6,0m /SATYNA,aluminum"
+    },
+    {
+        "Indeks": "GMTBT-704-US32D(PSS)",
+        "Nazwa artykulu": "Łącznik do kabiny prysznicowej, satyna, mosiądz"
+    },
+    {
+        "Indeks": "NLO-KP-3000-2,0-NA",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=2,0m / SREBRNA ANODA,aluminum"
+    },
+    {
+        "Indeks": "NLO-KP-3500-B",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=2,5m / aluminium / czarna anoda"
+    },
+    {
+        "Indeks": "VER-SLIM-180-R",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 180st VERONA SLIM / PRAWY / mosiądz / POŁYSK"
+    },
+    {
+        "Indeks": "VER-SLIM-90-L-1",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA SLIM / LEWY / mosiądz / SATYNA"
+    },
+    {
+        "Indeks": "NTKSQ817B",
+        "Nazwa artykulu": "Mocowanie rura-szkło-sufit / 10x20mm / połysk"
+    },
+    {
+        "Indeks": "NTKSQ817B-1",
+        "Nazwa artykulu": "Mocowanie rura-szkło-sufit / 10x20mm / satyna"
+    },
+    {
+        "Indeks": "NTKSQ817B-B",
+        "Nazwa artykulu": "Mocowanie rura-szkło-sufit / 10x20mm / czarny"
+    },
+    {
+        "Indeks": "VER-SLIM-90-R-1",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA SLIM / PRAWY / mosiądz / SATYNA"
+    },
+    {
+        "Indeks": "VER-SLIM-180-L-1",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 180st VERONA SLIM / LEWY / mosiądz / SATYNA"
+    },
+    {
+        "Indeks": "VER-SLIM-180-R-1",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 180st VERONA SLIM / PRAWY / mosiądz / SATYNA"
+    },
+    {
+        "Indeks": "VER-SLIM-180-R-B",
+        "Nazwa artykulu": "Zawias unoszony szkło-szkło 180st VERONA SLIM / PRAWY / mosiądz / CZARNY"
+    },
+    {
+        "Indeks": "VER-SLIM-90-L-B",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA SLIM / LEWY / mosiądz / CZARNY"
+    },
+    {
+        "Indeks": "VER-SLIM-90-R-B",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA SLIM / PRAWY / mosiądz / CZARNY"
+    },
+    {
+        "Indeks": "VER-SLIM-90-R",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA SLIM / PRAWY / mosiądz / POŁYSK"
+    },
+    {
+        "Indeks": "VER-SLIM-B90-R",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA SLIM / PRAWY / mosiądz / POŁYSK"
+    },
+    {
+        "Indeks": "VER-SLIM-B90-R-1",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA SLIM / PRAWY / mosiądz / SATYNA"
+    },
+    {
+        "Indeks": "VER-SLIM-B90-R-B",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA SLIM / PRAWY / mosiądz / CZARNY"
+    },
+    {
+        "Indeks": "VER-SLIM-B90-L",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA SLIM / LEWY / mosiądz / POŁYSK"
+    },
+    {
+        "Indeks": "VER-SLIM-B90-L-1",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA SLIM / LEWY / mosiądz / SATYNA"
+    },
+    {
+        "Indeks": "VER-SLIM-B90-L-B",
+        "Nazwa artykulu": "Zawias unoszony ściana-szkło 90st VERONA SLIM / LEWY / mosiądz / CZARNY"
+    },
+    {
+        "Indeks": "NLO-KP-2961-6,0-1",
+        "Nazwa artykulu": "Profil aluminiowy U/8x6000mm/ satyna"
+    },
+    {
+        "Indeks": "NLO-KP-S012-2,5-6",
+        "Nazwa artykulu": "Zawias parawanowy listwowy, unoszony, szkło 6mm, L=2,5m, połysk,aluminum"
+    },
+    {
+        "Indeks": "VER-BJ-90GG",
+        "Nazwa artykulu": "Zawias wahadłowy szkło-szkło 90st VERONA / POŁYSK,mosiądz"
+    },
+    {
+        "Indeks": "VER-BJ-90GG-1",
+        "Nazwa artykulu": "Zawias wahadłowy szkło-szkło 90st VERONA / SATYNA,mosiądz"
+    },
+    {
+        "Indeks": "VER-BJ-90GG-B",
+        "Nazwa artykulu": "Zawias wahadłowy szkło-szkło 90st VERONA Premium / CZARNY,mosiądz"
+    },
+    {
+        "Indeks": "NG-NFK-B",
+        "Nazwa artykulu": "Listwa przyścienna pod uszczelkę magn. L=220cm/ CZARNA/aluminium"
+    },
+    {
+        "Indeks": "NTK1020-1300",
+        "Nazwa artykulu": "Rura 10x20mm / 1300mm/ połysk ,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-KP-2961-10-3,0-1",
+        "Nazwa artykulu": "Profil aluminiowy U/ 10x3000mm/ satyna"
+    },
+    {
+        "Indeks": "NLO-KP-3500-2,5-1",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=2,5m / aluminium / satyna"
+    },
+    {
+        "Indeks": "NLO-KP-3500-5,0-1",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=5,0m / aluminium / satyna"
+    },
+    {
+        "Indeks": "NLO-KP-3500-2,5-B",
+        "Nazwa artykulu": "Profil U / uszczelkowy / L=2,5m /aluminium/czarna anoda"
+    },
+    {
+        "Indeks": "GHD-100-4",
+        "Nazwa artykulu": "Gniazdo z oslonką przeciwpyłową dł. 70, szer. 25,mosiądz"
+    },
+    {
+        "Indeks": "GHD-110A-PSS",
+        "Nazwa artykulu": "Okucie, połysk, dł. 140, szer. 32, wys. 45,mosiądz"
+    },
+    {
+        "Indeks": "GHD-110A-SSS",
+        "Nazwa artykulu": "Okucie, satyna, dł. 140, szer. 32, wys. 45, mosiądz"
+    },
+    {
+        "Indeks": "GHD-110D-PSS",
+        "Nazwa artykulu": "Okucie dolne/161x51/gr.10-12/połysk,mosiądz"
+    },
+    {
+        "Indeks": "GHD-110D-SSS",
+        "Nazwa artykulu": "Okucie dolne/161x51/gr.10-12mm/satyna,mosiądz"
+    },
+    {
+        "Indeks": "GHD-120D-PSS",
+        "Nazwa artykulu": "Okucie górne/161x51/gr.10-12mm/połysk,mosiądz"
+    },
+    {
+        "Indeks": "GHD-120D-SSS",
+        "Nazwa artykulu": "Okucie górne/ 161x51/ gr.10-12mm/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "GHD-122A-PSS",
+        "Nazwa artykulu": "Łącznik czterech paneli, wym. 106x106x32mm, szkło 8-12mm, Połysk, mosiądz"
+    },
+    {
+        "Indeks": "GHD-122A-SSS",
+        "Nazwa artykulu": "Łącznik czterech paneli, wym. 106x106x32mm, szkło 8-12mm, Satyna,mosiądz"
+    },
+    {
+        "Indeks": "GHD-130P-PSS",
+        "Nazwa artykulu": "Okucie górne/ płytka montażowa/ 161x51/ gr. 10-12/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "GHD-130S-PSS",
+        "Nazwa artykulu": "Okucie górne/trzpień mocujący/ 161x51/ gr. 10-12/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "GHD-130S-SSS",
+        "Nazwa artykulu": "Okucie górne/trzpień mocujący/ 161x51/ gr. 10-12/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "GHD-133-1",
+        "Nazwa artykulu": "Trzpień do okucia górnego/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "GHD-140-PSS",
+        "Nazwa artykulu": "Okucie L/ 161x51/ gr. 10-12mm/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "GHD-140B-SSS",
+        "Nazwa artykulu": "Okucie L/ 161x51/ gr. 10-12mm/ satyna /stoper,mosiądz"
+    },
+    {
+        "Indeks": "GHD-150RD-PSS",
+        "Nazwa artykulu": "Okucie z zamkiem/ 161x51/ gr. 10-12mm/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "GHD-150RD-SSS",
+        "Nazwa artykulu": "Okucie z zamkiem/ 161x51/ gr. 10-12mm/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "GHD-150S-SSS",
+        "Nazwa artykulu": "Okucie, satyna, dł. 140, szer. 32, wys. 45 z zamkiem,mosiądz"
+    },
+    {
+        "Indeks": "GHD-160A-PSS",
+        "Nazwa artykulu": "Okucie L/105x106/ gr. 10-12mm/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "GHD-160A-SSS",
+        "Nazwa artykulu": "Okucie L/ 106x106/ gr. 10-12mm/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "GHD-191P-PSS",
+        "Nazwa artykulu": "Okucie, połysk, dł. 70, szer. 32, wys. 52, prostokąt,mosiądz"
+    },
+    {
+        "Indeks": "GHD-191S-PSS",
+        "Nazwa artykulu": "Okucie Kostka/ 70x52/ gr. 10-12mm/ połysk, mosiądz"
+    },
+    {
+        "Indeks": "GHD-191S-SSS",
+        "Nazwa artykulu": "Okucie Kostka/ 70x52/ gr. 10-12mm/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "GMT-G800-US32D L1000",
+        "Nazwa artykulu": "Pochwyt typ H dł. 1000, SS304, stal nierdzewna"
+    },
+    {
+        "Indeks": "GMT-G800-US32D L1200",
+        "Nazwa artykulu": "Pochwyt typ H dł. 1200, SS304,stal nierdzewna"
+    },
+    {
+        "Indeks": "GMT-G800-US32D L1800",
+        "Nazwa artykulu": "Pochwyt typ H dł. 1800, SS304,stal nierdzewna"
+    },
+    {
+        "Indeks": "GMT-G800-US32D L800",
+        "Nazwa artykulu": "Pochwyt typ H dł. 800, SS304,stal nierdzewna"
+    },
+    {
+        "Indeks": "GMT-G800-US32D-L450",
+        "Nazwa artykulu": "Pochwyt typ H, dł. 450mm, SS304,stal nierdzewna"
+    },
+    {
+        "Indeks": "GMT-G800-US32D-L600",
+        "Nazwa artykulu": "Pochwyt typ H, dł. 600mm, SS304,stal nierdzewna"
+    },
+    {
+        "Indeks": "GMT-G850-US32D-L450",
+        "Nazwa artykulu": "Pochwyt typ C, dł. 450mm, SS304,stal nierdzewna"
+    },
+    {
+        "Indeks": "GMT-G850-US32D-L600",
+        "Nazwa artykulu": "Pochwyt typ C, dł. 600mm, SS304,stal nierdzewna"
+    },
+    {
+        "Indeks": "GMTG926-US32D-2 L600",
+        "Nazwa artykulu": "pochwyt/304/satyna L600"
+    },
+    {
+        "Indeks": "GMTG926-US32D-2 L800",
+        "Nazwa artykulu": "Pochwyt kwadratowy dł. 800mm/satyna"
+    },
+    {
+        "Indeks": "GMTH555D",
+        "Nazwa artykulu": "Samozamykacz podłogowy- z pełną regulacją połeżenia osi,stal nierdzewna"
+    },
+    {
+        "Indeks": "GMTPCS-446A-US15",
+        "Nazwa artykulu": "Zamek drzwiowy z gałką szkło-podłoga/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "GMTPCS-446B-US15",
+        "Nazwa artykulu": "Zamek drzwiowy z gałką szkło-szkło + przeciwkaseta/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NJY-DP-P",
+        "Nazwa artykulu": "Pochwyt do drzwi przesuwnych,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-1301",
+        "Nazwa artykulu": "Trzpień do okucia górnego,mosiądz"
+    },
+    {
+        "Indeks": "NLO-ZD-1302",
+        "Nazwa artykulu": "Łożysko dolne mosiądz"
+    },
+    {
+        "Indeks": "NLO-ZD-2850",
+        "Nazwa artykulu": "Pochwyt do kabiny pryszn./ 19x19/ L200/400mm/ połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2855",
+        "Nazwa artykulu": "Pochwyt C z gałką 19x19x305mm/ połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2856",
+        "Nazwa artykulu": "Pochwyt C / 19x19x203mm/ połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2856-610-1",
+        "Nazwa artykulu": "Pochwyt C/ 19x19x610mm/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2857",
+        "Nazwa artykulu": "Pochwyt C / 13x25x203mm/ połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2857-1",
+        "Nazwa artykulu": "Pochwyt C/ 13x25x203mm/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2857-457-1",
+        "Nazwa artykulu": "Pochwyt C/ 13x25x457mm/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2857-610-1",
+        "Nazwa artykulu": "Pochwyt C/ 13x25x610mm/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2858",
+        "Nazwa artykulu": "Pochwyt typ \"H\" 13x25x203/połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2858-1",
+        "Nazwa artykulu": "Pochwyt typ \"H\" 13x25x203/satyna/stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2858-610",
+        "Nazwa artykulu": "Pochwyt typ \"H\" 13x25x610/satyna, stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2858-610/P",
+        "Nazwa artykulu": "Pochwyt typ \"H\" 13x25x610/połysk, stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-3221-1",
+        "Nazwa artykulu": "Zamek drzwiowy z gałką / satyna"
+    },
+    {
+        "Indeks": "NLO-ZD-98A-113",
+        "Nazwa artykulu": "Pochwyt typ H/fi35x1500/z zamkiem/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-98A-115",
+        "Nazwa artykulu": "Gniazdo przeciwkurzowe do pochwytu 98A-121,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-98A-116",
+        "Nazwa artykulu": "Pochwyt typ \"H\"25x38x1500/z zamkiem/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "N0302109",
+        "Nazwa artykulu": "Samozamykacz w okuciu /satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "N0302110",
+        "Nazwa artykulu": "Samozamykacz w okuciu /połysk/stal nierdzewna"
+    },
+    {
+        "Indeks": "N0302121",
+        "Nazwa artykulu": "Samozamykacz w okuciu do drzwi drewnianych,stal nierdzewna"
+    },
+    {
+        "Indeks": "NPR-PSDK-104",
+        "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 65mm,stal nierdzewna"
+    },
+    {
+        "Indeks": "NPR-PSDK-104-1",
+        "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 65 mm/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT501-NA",
+        "Nazwa artykulu": "Zamek pod wkładkę /160/ anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT501-SS",
+        "Nazwa artykulu": "Zamek pod wkładkę/160/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT502-NA",
+        "Nazwa artykulu": "Zamek pod wkładkę/ 160/ anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT503-SS",
+        "Nazwa artykulu": "Zamek pod wkładkę/160/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT503M-SS",
+        "Nazwa artykulu": "Zamek magnetyczny pod wkładkę/160/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT503WL-SS",
+        "Nazwa artykulu": "Zamek/160/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT801M-SS",
+        "Nazwa artykulu": "Zamek magnetyczny/ 110/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT801WC-SS",
+        "Nazwa artykulu": "Zamek łazienkowy/ 110/ satyna, stal nierdzewna"
+    },
+    {
+        "Indeks": "NT802-SS",
+        "Nazwa artykulu": "Zamek/ 110/ satyna, stal nierdzewna"
+    },
+    {
+        "Indeks": "NTDL55",
+        "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/faza/połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTDL55-1",
+        "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/faza/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTDL55R",
+        "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/prosty/połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTDL55R-1",
+        "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/ prosty/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTH01-NA",
+        "Nazwa artykulu": "Klamka - anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTH02-NA",
+        "Nazwa artykulu": "Klamka - anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTH02-SS",
+        "Nazwa artykulu": "Klamka- satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTH04-SS",
+        "Nazwa artykulu": "Klamka- satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTH06-SS",
+        "Nazwa artykulu": "Klamka- satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTP00M-SS",
+        "Nazwa artykulu": "Płytka magnetyczna do zamków 501M/503M/801M / satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTP01-SS",
+        "Nazwa artykulu": "Przeciwkaseta do zamka 501/801,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTP01M-SS",
+        "Nazwa artykulu": "Przeciwkaseta do zamka magnetycznego 501M/801M / satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTW01KG-NA",
+        "Nazwa artykulu": "Wkładka do zamka/18/Gałka-klucz/anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTW01KG-SS",
+        "Nazwa artykulu": "Wkładka do zamka/18/Gałka-klucz/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTW01WC-SS",
+        "Nazwa artykulu": "Wkładka do zamka/18/Gałka/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTW02KG-NA",
+        "Nazwa artykulu": "Wkładka do zamka/25/Gałka-klucz/anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTW02KG-SS",
+        "Nazwa artykulu": "Wkładka do zamka/25/Gałka-klucz/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTW02WC-SS",
+        "Nazwa artykulu": "Wkładka do zamka/25/Gałka/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "ST-110E",
+        "Nazwa artykulu": "Samozamykacz podłogowy Typ spłaszczony/ 110kg, stal nierdzewna"
+    },
+    {
+        "Indeks": "ST-120",
+        "Nazwa artykulu": "Samozamykacz podłogowy Typ wąski/ 120kg,stal nierdzewna"
+    },
+    {
+        "Indeks": "GHD-110-12D",
+        "Nazwa artykulu": "Łożysko podłogowe do okucia dolnego / połysk"
+    },
+    {
+        "Indeks": "GHD-181A-SSS",
+        "Nazwa artykulu": "Okucie szkło-szkło/ 10-12mm/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NTW03KK-SS",
+        "Nazwa artykulu": "Wkładka do zamka ; Typ 12/28,mosiadz, satyna"
+    },
+    {
+        "Indeks": "GHD-140-SSS",
+        "Nazwa artykulu": "Okucie L/ 161x51/ gr. 10-12mm/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NLO-ZD-1302-1",
+        "Nazwa artykulu": "Łożysko dolne do okucia dolnego/ satyna,Łożysko dolne mosiądz"
+    },
+    {
+        "Indeks": "GHD-100-6",
+        "Nazwa artykulu": "Gniazdo przeciwkurzowe Okrągłe, mosiądz"
+    },
+    {
+        "Indeks": "GHD-130P-SSS",
+        "Nazwa artykulu": "Okucie górne/ płytka montażowa/ 161x51/ gr. 10-12/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NLO-ZD-98A-W",
+        "Nazwa artykulu": "Wkładka do pochwytów 98A-113/116,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTP02-SS",
+        "Nazwa artykulu": "Przeciwkaseta do zamka, okrągła, stal nierdzewna"
+    },
+    {
+        "Indeks": "NTP03-SS",
+        "Nazwa artykulu": "Płytka do zamka, stal nierdzewna"
+    },
+    {
+        "Indeks": "GHD-150B-SSS",
+        "Nazwa artykulu": "Okucie z zamkiem/ 161x51/ gr. 10-12mm/ satyna,mosiądz"
+    },
+    {
+        "Indeks": "NLO-ZD-2850-1",
+        "Nazwa artykulu": "Pochwyt do kabiny pryszn./ 19x19/ L200/400mm/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2856-1",
+        "Nazwa artykulu": "Pochwyt C / 19x19x203mm/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2855-1",
+        "Nazwa artykulu": "Pochwyt C z gałką 19x19x305mm/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT501M-SS",
+        "Nazwa artykulu": "Zamek magnetyczny pod wkładkę/160/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTP04M-SS",
+        "Nazwa artykulu": "Przeciwkaseta do zamka magnetycznego 503M,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTP04-SS",
+        "Nazwa artykulu": "Przeciwkaseta do zamka 503,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2856-610",
+        "Nazwa artykulu": "Pochwyt C/ 19x19x610mm/ połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTH05-SS",
+        "Nazwa artykulu": "Klamka- satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTH07-SS",
+        "Nazwa artykulu": "Klamko-gałka - satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "GHD-120-T",
+        "Nazwa artykulu": "Łożysko do okucia górnego GHD-120D, mosiądz"
+    },
+    {
+        "Indeks": "GHD-140B-PSS",
+        "Nazwa artykulu": "Okucie L/ 161x51/ gr. 10-12mm/ połysk /stoper,mosiądz"
+    },
+    {
+        "Indeks": "GMTPCS-446B-US26",
+        "Nazwa artykulu": "Zamek drzwiowy z gałką szkło-szkło + przeciwkaseta/ POŁYSK,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT501M-NA",
+        "Nazwa artykulu": "Zamek magnetyczny pod wkładkę/160/ anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT503M-NA",
+        "Nazwa artykulu": "Zamek magnetyczny pod wkładkę/160/ anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT801M-NA",
+        "Nazwa artykulu": "Zamek magnetyczny/ 110/ anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT801WC-NA",
+        "Nazwa artykulu": "Zamek łazienkowy/ 110/ anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTP01M-NA",
+        "Nazwa artykulu": "Przeciwkaseta do zamka magnetycznego 501M/801M / anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTP00M-NA",
+        "Nazwa artykulu": "Płytka magnetyczna do zamków 501M/503M/801M / anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTW01WC-NA",
+        "Nazwa artykulu": "Wkładka do zamka/18/Gałka/anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTW02WC-NA",
+        "Nazwa artykulu": "Wkładka do zamka/25/Gałka/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTZ380-NA",
+        "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / anoda, aluminium"
+    },
+    {
+        "Indeks": "NTZ380-SS",
+        "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / satyna,mosiądz"
+    },
+    {
+        "Indeks": "NTH01-SS",
+        "Nazwa artykulu": "Klamka - satyna, stal nierdzewna"
+    },
+    {
+        "Indeks": "GHD-191P-SSS",
+        "Nazwa artykulu": "Okucie, satyna, dł. 70, szer. 32, wys. 52, prostokąt,mosiądz"
+    },
+    {
+        "Indeks": "GHD-110-12D-1",
+        "Nazwa artykulu": "Łożysko podłogowe do okucia dolnego / satyna,mosiądz"
+    },
+    {
+        "Indeks": "GMT-G800-US32-L450 PSS",
+        "Nazwa artykulu": "Pochwyt typ H, dł. 450mm, SS304 / POŁYSK,stal nierdzewna"
+    },
+    {
+        "Indeks": "GMT-G800-US32-L600 PSS",
+        "Nazwa artykulu": "Pochwyt typ H, dł. 600mm, SS304 / POŁYSK,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTZ380-T",
+        "Nazwa artykulu": "Trzpień do zawiasu NTZ-380 do ościeznicy drewnianej ,mosiądz"
+    },
+    {
+        "Indeks": "NTDL55R-2",
+        "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/ prosty/ anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "GHD-181A-PSS",
+        "Nazwa artykulu": "Okucie szkło-szkło/ 10-12mm/ połysk,mosiądz"
+    },
+    {
+        "Indeks": "NTZ380-PSS",
+        "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / Połysk,aluminium"
+    },
+    {
+        "Indeks": "N0302209",
+        "Nazwa artykulu": "Okucie górne do samozamykacza w okuciu / satyna/stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2856-B",
+        "Nazwa artykulu": "Pochwyt C / 19x19x203mm/ CZARNY,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT501M-PSS",
+        "Nazwa artykulu": "Zamek magnetyczny pod wkładkę/160/ połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTH06-PSS",
+        "Nazwa artykulu": "Klamka- połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTZ390-SS",
+        "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / satyna,mosiądz"
+    },
+    {
+        "Indeks": "NTZ390-NA",
+        "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / anoda,mosiądz"
+    },
+    {
+        "Indeks": "NT502-SS",
+        "Nazwa artykulu": "Zamek pod wkładkę/ 160/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT502WL-NA",
+        "Nazwa artykulu": "Zamek oszczędnościowy/160/anoda,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT502WL-SS",
+        "Nazwa artykulu": "Zamek oszczędnościowy/160/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTP01-NA",
+        "Nazwa artykulu": "Przeciwkaseta do zamka 501/801,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTZ-380-TP",
+        "Nazwa artykulu": "Trzpień z płytką do zawiasu NTZ-380 do ościeznicy,mosiądz"
+    },
+    {
+        "Indeks": "NTZ-500-SS",
+        "Nazwa artykulu": "Zawias do ościeznicy aluminiowej OFC / aluminium / anoda INOX"
+    },
+    {
+        "Indeks": "NTZ-500-NA",
+        "Nazwa artykulu": "Zawias do ościeznicy aluminiowej OFC / aluminium / anoda Srebrna"
+    },
+    {
+        "Indeks": "NTZ-500-B",
+        "Nazwa artykulu": "Zawias do ościeznicy aluminiowej OFC / aluminium / anoda Czarna"
+    },
+    {
+        "Indeks": "NT801M-WC-NA",
+        "Nazwa artykulu": "Zamek magnetyczny łazienkowy/ 110/ stal nierdzewna / srebrna anoda"
+    },
+    {
+        "Indeks": "NT801M-WC-SS",
+        "Nazwa artykulu": "Zamek magnetyczny łazienkowy/ 110/ stal nierdzewna / satyna"
+    },
+    {
+        "Indeks": "NT801M-WC-PSS",
+        "Nazwa artykulu": "Zamek magnetyczny łazienkowy/ 110/ stal nierdzewna / połysk"
+    },
+    {
+        "Indeks": "NT501-WC-NA",
+        "Nazwa artykulu": "Zamek łazienkowy/ 160/ stal nierdzewna / srebrna anoda"
+    },
+    {
+        "Indeks": "NT501-WC-SS",
+        "Nazwa artykulu": "Zamek łazienkowy/ 160/ stal nierdzewna / satyna"
+    },
+    {
+        "Indeks": "NT501M-WC-NA",
+        "Nazwa artykulu": "Zamek magnetyczny łazienkowy/ 160/ stal nierdzewna / srebrna anoda"
+    },
+    {
+        "Indeks": "NT501M-WC-SS",
+        "Nazwa artykulu": "Zamek magnetyczny łazienkowy/ 160/ stal nierdzewna / satyna"
+    },
+    {
+        "Indeks": "NTP00M-PSS",
+        "Nazwa artykulu": "Płytka magnetyczna do zamków 501M/503M/801M / stal nierdzewna / połysk"
+    },
+    {
+        "Indeks": "NT501-B",
+        "Nazwa artykulu": "Zamek pod wkładkę /160/ stal nierdzewna / Czarna Anoda"
+    },
+    {
+        "Indeks": "NTH01-B",
+        "Nazwa artykulu": "Klamka / aluminium / Czarna Anoda"
+    },
+    {
+        "Indeks": "N0302109-125",
+        "Nazwa artykulu": "Samozamykacz w okuciu do szerokoch drzwi 1250mm /satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "N0302209-125",
+        "Nazwa artykulu": "Okucie górne do samozamykacza w okuciu typ 125 / satyna/stal nierdzewna"
+    },
+    {
+        "Indeks": "N0302222",
+        "Nazwa artykulu": "Samozamykacz w okuciu górnym do drzwi szklanych,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2815-400",
+        "Nazwa artykulu": "Pochwyt C z gałką / fi 19x400mm/ połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2816",
+        "Nazwa artykulu": "Pochwyt C / fi 19x176mm/ połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2816-1",
+        "Nazwa artykulu": "Pochwyt C / fi 19x176mm/ satyna, stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2816-B",
+        "Nazwa artykulu": "Pochwyt C / fi 19x176mm/ czarny, stal nierdzewna"
+    },
+    {
+        "Indeks": "NT501WL-NA",
+        "Nazwa artykulu": "Zamek oszczędnościowy/160/aluminium,srebrna anoda"
+    },
+    {
+        "Indeks": "NT501WL-SS",
+        "Nazwa artykulu": "Zamek oszczędnościowy/160/stal nierdzewna"
+    },
+    {
+        "Indeks": "NT501M-WL-NA",
+        "Nazwa artykulu": "Zamek magnetyczny oszczędnościowy/160/aluminium,srebrna anoda"
+    },
+    {
+        "Indeks": "NT501M-WL-SS",
+        "Nazwa artykulu": "Zamek magnetyczny oszczędnościowy/160/stal nierdzewna"
+    },
+    {
+        "Indeks": "NTDL70-1",
+        "Nazwa artykulu": "Pochwyt do drzwi przesuwnych 120x70mm/ prosty/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTDL55-B",
+        "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/faza/czarny,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-3231-1",
+        "Nazwa artykulu": "Zamek drzwiowy z wkadką na klucz / satyna"
+    },
+    {
+        "Indeks": "NLO-ZD-3231K-1",
+        "Nazwa artykulu": "Przeciwkaseta do zamka NLO-ZD-3231-1 / satyna"
+    },
+    {
+        "Indeks": "NTW03KK-28-SS",
+        "Nazwa artykulu": "Wkładka do zamka ; Typ 28/28,stal nierdzewna"
+    },
+    {
+        "Indeks": "N0302109-SET",
+        "Nazwa artykulu": "ZESTAW Samozamykacz+okucie górne duże+oś /N0302109+N0302209+NLO-ZD-1301 /satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NT501M-B",
+        "Nazwa artykulu": "Zamek magnetyczny pod wkładkę/160/ aluminium / Czarna anoda"
+    },
+    {
+        "Indeks": "NTH02-B",
+        "Nazwa artykulu": "Klamka - aluminium / Czarna anoda"
+    },
+    {
+        "Indeks": "NTP01M-B",
+        "Nazwa artykulu": "Przeciwkaseta do zamka magnetycznego 501M / aluminium / Czarna anoda"
+    },
+    {
+        "Indeks": "NTP01-B",
+        "Nazwa artykulu": "Przeciwkaseta do zamka 501/ aluminium / Czarna anoda"
+    },
+    {
+        "Indeks": "NT501WL-B",
+        "Nazwa artykulu": "Zamek oszczędnościowy/160/aluminium / Czarna anoda"
+    },
+    {
+        "Indeks": "N0302109-GHD-120-SET",
+        "Nazwa artykulu": "ZESTAW Samozamykacz+okucie górne+oś /N0302109+GHD-120+NLO-ZD-1301 /satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "N0302109-GHD-120-SET-B",
+        "Nazwa artykulu": "ZESTAW Samozamykacz+okucie górne+oś /N0302109+GHD-120+NLO-ZD-1301 /czarmy,stal nierdzewna"
+    },
+    {
+        "Indeks": "GHD-140-B",
+        "Nazwa artykulu": "Okucie L/ 161x51/ gr. 10-12mm/ stal nierdzewna / czarny"
+    },
+    {
+        "Indeks": "GHD-160A-B",
+        "Nazwa artykulu": "Okucie L/ 106x106/ gr. 10-12mm/ stal nierdzewna / czarny"
+    },
+    {
+        "Indeks": "GMT-G800-US32D-L450-B",
+        "Nazwa artykulu": "Pochwyt typ H, dł. 450mm, SS304,stal nierdzewna/czarny"
+    },
+    {
+        "Indeks": "NTW03KK-B",
+        "Nazwa artykulu": "Wkładka do zamka ; Typ 12/28,mosiądz, czarny chrom"
+    },
+    {
+        "Indeks": "NT801-NA",
+        "Nazwa artykulu": "Zamek/ 110/ anoda, stal nierdzewna"
+    },
+    {
+        "Indeks": "NT801-SS",
+        "Nazwa artykulu": "Zamek/ 110/ satyna, stal nierdzewna"
+    },
+    {
+        "Indeks": "GHD-140B-B",
+        "Nazwa artykulu": "Okucie L/ 161x51/ gr. 10-12mm/ CZARNY /stoper, mosiądz"
+    },
+    {
+        "Indeks": "NLO-ZD-2857-B",
+        "Nazwa artykulu": "Pochwyt C / 13x25x203mm/ CZARNY,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTP02-NA",
+        "Nazwa artykulu": "Przeciwkaseta do zamka, okrągła, anoda,"
+    },
+    {
+        "Indeks": "NTZ-200-SS",
+        "Nazwa artykulu": "Zawias szkło-szkło do drzwi szklanych - SATYNA, mosiądz"
+    },
+    {
+        "Indeks": "NTZ-200-B",
+        "Nazwa artykulu": "Zawias szkło-szkło do drzwi szklanych - CZARNY, mosiądz"
+    },
+    {
+        "Indeks": "NTZ-1000-SET-NA",
+        "Nazwa artykulu": "Zawiasy hydrauliczne OFFICE / KOMPLET 2szt / srebrna anoda"
+    },
+    {
+        "Indeks": "NTZ-1000-SET-SS",
+        "Nazwa artykulu": "Zawiasy hydrauliczne OFFICE / KOMPLET 2szt / anoda INOX"
+    },
+    {
+        "Indeks": "NTZ-1000-SET-B",
+        "Nazwa artykulu": "Zawiasy hydrauliczne OFFICE / KOMPLET 2szt / czarna anoda"
+    },
+    {
+        "Indeks": "NT801-B",
+        "Nazwa artykulu": "Zamek/ 110/ czarny, stal nierdzewna"
+    },
+    {
+        "Indeks": "NT801WC-B",
+        "Nazwa artykulu": "Zamek łazienkowy/ 110/ czarny,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTZ380-B",
+        "Nazwa artykulu": "Zawias do drzwi szklanych do ościeznicy drewnianej / czarny, aluminium"
+    },
+    {
+        "Indeks": "NT501-WC-B",
+        "Nazwa artykulu": "Zamek łazienkowy/ 160/ stal nierdzewna / czarna anoda"
+    },
+    {
+        "Indeks": "NT501M-WL-B",
+        "Nazwa artykulu": "Zamek magnetyczny oszczędnościowy/160/czarna anoda"
+    },
+    {
+        "Indeks": "NT501M-WC-B",
+        "Nazwa artykulu": "Zamek magnetyczny łazienkowy/ 160/ stal nierdzewna / czarna anoda"
+    },
+    {
+        "Indeks": "NT801M-B",
+        "Nazwa artykulu": "Zamek magnetyczny/ 110/stal nierdzewna/czarna anoda"
+    },
+    {
+        "Indeks": "NT801M-WC-B",
+        "Nazwa artykulu": "Zamek magnetyczny łazienkowy/ 110/ stal nierdzewna / czarna anoda"
+    },
+    {
+        "Indeks": "NTDL-70-B",
+        "Nazwa artykulu": "Pochwyt do drzwi przesuwnych 120x70mm/ prosty/ CZARNY/stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-1301-B",
+        "Nazwa artykulu": "Trzpień do okucia górneg / stal nierdzewna / czarny"
+    },
+    {
+        "Indeks": "GMTPCS-446A-B",
+        "Nazwa artykulu": "Zamek drzwiowy z gałką szkło-podłoga/stal nierdzewna / CZARNY"
+    },
+    {
+        "Indeks": "N0302109-B",
+        "Nazwa artykulu": "Samozamykacz w okuciu /CZARNY/stal nierdzewna"
+    },
+    {
+        "Indeks": "GHD-110D-B",
+        "Nazwa artykulu": "Okucie dolne/161x51/gr.10-12mm/stal nierdzewna/czarny"
+    },
+    {
+        "Indeks": "GHD-120D-B",
+        "Nazwa artykulu": "Okucie górne/ 161x51/ gr.10-12mm/ stal nierdzewna / czarny"
+    },
+    {
+        "Indeks": "GHD-130P-B",
+        "Nazwa artykulu": "Okucie górne/ płytka montażowa/ 161x51/ gr. 10-12/ stal nierdzewna / czarny"
+    },
+    {
+        "Indeks": "GHD-150RD-B",
+        "Nazwa artykulu": "Okucie z zamkiem/ 161x51/ gr. 10-12mm/ stal nierdzewna / czarny"
+    },
+    {
+        "Indeks": "NTDL55R-B",
+        "Nazwa artykulu": "Pochwyt do drzwi przesuwnych fi 55mm/ prosty/ czarny,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-ZD-2855-B",
+        "Nazwa artykulu": "Pochwyt C z gałką 19x19x305mm/ CZARNY / stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DP-262-1",
+        "Nazwa artykulu": "Mocowanie do sufitu/ rura fi 25mm,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DP-LS-220-1",
+        "Nazwa artykulu": "Prowadnica do drzwi przesuwnych/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DP2-017",
+        "Nazwa artykulu": "Rura fi25x2000x1, 0/304/satyna, stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DP2-018",
+        "Nazwa artykulu": "Rura fi25x3000x1, 0/304/satyna, stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DP2-203",
+        "Nazwa artykulu": "Rolki jezdne typ\"2\"/304/satyna, stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DP2-206-1",
+        "Nazwa artykulu": "Wspornik szkło na otwór prosty /304/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DP2-215-1",
+        "Nazwa artykulu": "Odbój typ \"2\"/304/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DP2-221-1",
+        "Nazwa artykulu": "Mocowanie końcowe -satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DP3-216-1",
+        "Nazwa artykulu": "Odbój typ \"3\"/304/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DP3-220-1",
+        "Nazwa artykulu": "Zaślepka (satyna),stal nierdzewna"
+    },
+    {
+        "Indeks": "NTMON00W1-NA",
+        "Nazwa artykulu": "Wyposażenie do systemu MONACO - pojedyncze drzwi / anoda,aluminum"
+    },
+    {
+        "Indeks": "NTMON00W2",
+        "Nazwa artykulu": "Wyposażenie do systemu przesuwnego MONACO - podwójne drzwi,aluminum"
+    },
+    {
+        "Indeks": "NTMON1300NA",
+        "Nazwa artykulu": "Profil górny panelu stałego do systemu MONACO L=1300/ srebrna anoda,aluminum"
+    },
+    {
+        "Indeks": "NTMON1300SS",
+        "Nazwa artykulu": "Profil górny panelu stałego do systemu MONACO L=1300/ Alinox,aluminum"
+    },
+    {
+        "Indeks": "NTMON2200NA",
+        "Nazwa artykulu": "Profil jezdny do systemu MONACO L=2200/ srebrna anoda,aluminum"
+    },
+    {
+        "Indeks": "NTMON2200SS",
+        "Nazwa artykulu": "Profil jezdny do systemu MONACO L=2200/ Alinox,aluminum"
+    },
+    {
+        "Indeks": "NTMON4000NA",
+        "Nazwa artykulu": "Profil jezdny do systemu MONACO L=4000/ srebrna anoda,aluminum"
+    },
+    {
+        "Indeks": "NTMON4000SS",
+        "Nazwa artykulu": "Profil jezdny do systemu MONACO L=4000/ Alinox,aluminum"
+    },
+    {
+        "Indeks": "NLO-DP2-215L-1",
+        "Nazwa artykulu": "Odbój typ \"2\"/304/lewy/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DP2-215R-1",
+        "Nazwa artykulu": "Odbój typ \"2\"/304/prawy/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTMON-H-NA",
+        "Nazwa artykulu": "Pochwyt do drzwi przesuwnych, aluminum, srebrna anoda"
+    },
+    {
+        "Indeks": "NTMON-H-SS",
+        "Nazwa artykulu": "Pochwyt do drzwi przesuwnych, aluminum, satyna"
+    },
+    {
+        "Indeks": "NTMON3000-NA",
+        "Nazwa artykulu": "Profil jezdny do systemu Monaco L=3m / Anoda,aluminum"
+    },
+    {
+        "Indeks": "NTMON3000-SS",
+        "Nazwa artykulu": "Profil jezdny do systemu Monaco L=3m / Satyna,aluminum"
+    },
+    {
+        "Indeks": "NLO-DP-LS-220",
+        "Nazwa artykulu": "Prowadnica do drzwi przesuwnych/ połysk,stal nierdzewna"
+    },
+    {
+        "Indeks": "NTMON00W1-SS",
+        "Nazwa artykulu": "Wyposażenie do systemu MONACO - pojedyncze drzwi / satyna,aluminum"
+    },
+    {
+        "Indeks": "NTMON-SYNCH-W2-NA",
+        "Nazwa artykulu": "Wyposażenie do systemu MONACO SYNCHRO - podwójne drzwi / anoda"
+    },
+    {
+        "Indeks": "CLM-3638-ZD-SS",
+        "Nazwa artykulu": "Zaślepka czołowa dolna do listwy montażowej CLM3638/ stal nierdzewna / Satyna"
+    },
+    {
+        "Indeks": "CLM-3638-ZG-SS",
+        "Nazwa artykulu": "Zaślepka czołowa górna do listwy montażowej CLM3638-3 / stal nierdzewna / Satyna"
+    },
+    {
+        "Indeks": "CLM-3638-AL",
+        "Nazwa artykulu": "Listwa montażowa wys.36mm / profil bazowy + maskownica / L=3000mm / Aluminium / Surowe aluminium"
+    },
+    {
+        "Indeks": "CLM-3638-G-AL",
+        "Nazwa artykulu": "Listwa montażowa wys.36mm / profil U górny / L=3000mm / Aluminium / Surowe aluminium"
+    },
+    {
+        "Indeks": "CLM-3638-NA",
+        "Nazwa artykulu": "Listwa montażowa wys.36mm / profil bazowy + maskownica / L=3000mm / Aluminium / Srebrna Anoda"
+    },
+    {
+        "Indeks": "CLM-3638-G-NA",
+        "Nazwa artykulu": "Listwa montażowa wys.36mm / profil U górny / L=3000mm / Aluminium / Srebrna Anoda"
+    },
+    {
+        "Indeks": "CLM-3638-SS",
+        "Nazwa artykulu": "Listwa montażowa wys.36mm / profil bazowy + maskownica / L=3000mm / Aluminium / Anoda INOX"
+    },
+    {
+        "Indeks": "CLM-3638-G-SS",
+        "Nazwa artykulu": "Listwa montażowa wys.36mm / profil U górny / L=3000mm / Aluminium / Anoda INOX"
+    },
+    {
+        "Indeks": "CLM-P3",
+        "Nazwa artykulu": "Podkładka do szkla / ABS / wys. 3mm - zestaw 10 szt."
+    },
+    {
+        "Indeks": "CLM-P4",
+        "Nazwa artykulu": "Podkładka do szkla / wys. 4mm - zestaw 10 szt."
+    },
+    {
+        "Indeks": "CLM-P5",
+        "Nazwa artykulu": "Podkładka do szkla / ABS / wys. 5mm - zestaw 10 szt."
+    },
+    {
+        "Indeks": "CLM-P6",
+        "Nazwa artykulu": "Podkładka do szkla / ABS / wys. 6mm - zestaw 10 szt."
+    },
+    {
+        "Indeks": "CLM-3638-ZD-NA",
+        "Nazwa artykulu": "Zaślepka czołowa dolna do listwy montażowej CLM3638/ stal nierdzewna / Szary"
+    },
+    {
+        "Indeks": "CLM-3638-ZG-NA",
+        "Nazwa artykulu": "Zaślepka czołowa górna do listwy montażowej CLM3638-3 / stal nierdzewna / Szary"
+    },
+    {
+        "Indeks": "E518A-G",
+        "Nazwa artykulu": "Uszczelka / PVC / Szary"
+    },
+    {
+        "Indeks": "E518A-B",
+        "Nazwa artykulu": "Uszczelka / PVC / Czarny"
+    },
+    {
+        "Indeks": "H565A-B",
+        "Nazwa artykulu": "Uszczelka / PVC / Czarny"
+    },
+    {
+        "Indeks": "E560A-B",
+        "Nazwa artykulu": "Uszczelka / PVC / Czarny"
+    },
+    {
+        "Indeks": "H569A-B",
+        "Nazwa artykulu": "Uszczelka / PVC / Czarny"
+    },
+    {
+        "Indeks": "H565A-G",
+        "Nazwa artykulu": "Uszczelka / PVC / Szary"
+    },
+    {
+        "Indeks": "E560A-G",
+        "Nazwa artykulu": "Uszczelka / PVC / Szary"
+    },
+    {
+        "Indeks": "H569A-G",
+        "Nazwa artykulu": "Uszczelka / PVC / Szary"
+    },
+    {
+        "Indeks": "CLM41-12-Z-SS",
+        "Nazwa artykulu": "Zaślepka czołowa listwy montażowej CLM41 / szkło 12mm / stal nierdzewna / Satyna"
+    },
+    {
+        "Indeks": "OFC-2-NA",
+        "Nazwa artykulu": "Profil ościeżnicowy typ \"L\" OFC-2 aluminum, L=600cm , srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-2-B",
+        "Nazwa artykulu": "Profil ościeżnicowy typ \"L\" OFC-2 aluminum, L=600cm , czarna anoda"
+    },
+    {
+        "Indeks": "OFC-2-SS",
+        "Nazwa artykulu": "Profil ościeżnicowy typ \"L\" OFC-2 aluminum, L=600cm , anoda INOX"
+    },
+    {
+        "Indeks": "OFC-3-SS",
+        "Nazwa artykulu": "Profil ościeżnicowy typ \"Z\" OFC-3 aluminum, L=600cm , anoda INOX"
+    },
+    {
+        "Indeks": "OFC-3-NA",
+        "Nazwa artykulu": "Profil ościeżnicowy typ \"Z\" OFC-3 aluminum, L=600cm , srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-3-B",
+        "Nazwa artykulu": "Profil ościeżnicowy typ \"Z\" OFC-3 aluminum, L=600cm , czarna anoda"
+    },
+    {
+        "Indeks": "OFC-M-SS",
+        "Nazwa artykulu": "Maskownica do profili ościeżnicowych / OFC-M, L=600cm / aluminium / anoda INOX"
+    },
+    {
+        "Indeks": "OFC-M-NA",
+        "Nazwa artykulu": "Maskownica do profili ościeżnicowych / OFC-M, L=600cm , srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-M-B",
+        "Nazwa artykulu": "Maskownica do profili ościeżnicowych / OFC-M, L=600cm / aluminium / czarna anoda"
+    },
+    {
+        "Indeks": "OFC-2/3-KIT",
+        "Nazwa artykulu": "Zestaw kątowników na 1kpl drzwi do OFC-2 / OFC-3 / stal nierdzewna"
+    },
+    {
+        "Indeks": "OFC-4-K",
+        "Nazwa artykulu": "Kątownik do łączenia OFC-4 z profilem montażowym przy podłodze / stal nierdzewna"
+    },
+    {
+        "Indeks": "OFC-00-M-SS",
+        "Nazwa artykulu": "Płytka magnetyczna do zamków MAGNETO dla ościeznic OFC / stal nierdzewna"
+    },
+    {
+        "Indeks": "CLM-3638-K",
+        "Nazwa artykulu": "Kątownik 90 stopni do łączenia CLM-3638-G / stal nierdzewna"
+    },
+    {
+        "Indeks": "OFC-V-8-B",
+        "Nazwa artykulu": "Uszczelka drzwiowa do szkła 8mm do systemu CGLASS OFFICE / Czarny"
+    },
+    {
+        "Indeks": "OFC-V-8-G",
+        "Nazwa artykulu": "Uszczelka drzwiowa do szkła 8mm do systemu CGLASS OFFICE / PVC / Szary"
+    },
+    {
+        "Indeks": "OFC-V-10-G",
+        "Nazwa artykulu": "Uszczelka drzwiowa do szkła 10mm do systemu CGLASS OFFICE / Szary"
+    },
+    {
+        "Indeks": "OFC-V-10-B",
+        "Nazwa artykulu": "Uszczelka drzwiowa do szkła 10mm do systemu CGLASS OFFICE / PVC / Czarny"
+    },
+    {
+        "Indeks": "CLM-3638-G-B",
+        "Nazwa artykulu": "Listwa montażowa wys.36mm / profil U górny / L=3000mm / Aluminium / Czarna anoda"
+    },
+    {
+        "Indeks": "CLM-3638-B",
+        "Nazwa artykulu": "Listwa montażowa wys.36mm / profil bazowy + maskownica / L=3000mm / Aluminium / Czarna Anoda"
+    },
+    {
+        "Indeks": "OFC-ES-ST",
+        "Nazwa artykulu": "Elektrozaczep wąski, standardowy, aluminium"
+    },
+    {
+        "Indeks": "OFC-ES-REV",
+        "Nazwa artykulu": "Elektrozaczep wąski, rewersyjny, aluminium"
+    },
+    {
+        "Indeks": "CLM-109-10/12-5000-NA",
+        "Nazwa artykulu": "Listwa montażowa zaciskowa wys.109mm / profil U górny / L=5000mm / aluminium / srebrna anoda"
+    },
+    {
+        "Indeks": "CLM-109-10/12-5000-SS",
+        "Nazwa artykulu": "Listwa montażowa zaciskowa wys.109mm / profil U górny / L=5000mm / aluminium / anoda INOX"
+    },
+    {
+        "Indeks": "CLM-Ł",
+        "Nazwa artykulu": "Zacisk do listwy montażowa zaciskowej CLM-41/109 / aluminium"
+    },
+    {
+        "Indeks": "CLM-109-M-5000-SS",
+        "Nazwa artykulu": "Maskownica listwy montażowej zaciskowa wys.109mm L=5000mm / aluminium / anoda INOX"
+    },
+    {
+        "Indeks": "CLM-B-2500",
+        "Nazwa artykulu": "Profil bazowy / L=2500mm / aluminium"
+    },
+    {
+        "Indeks": "CLM-B-5000",
+        "Nazwa artykulu": "Profil bazowy / L=5000mm / aluminium"
+    },
+    {
+        "Indeks": "CLM-109-Z-SS",
+        "Nazwa artykulu": "Zaślepka czołowa listwy montażowej CLM109 / stal nierdzewna / Satyna"
+    },
+    {
+        "Indeks": "OFC-DS-L-835-NA",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / lewe drzwi / L=835mm / aluminium / srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-DS-L-635-NA",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / lewe drzwi / L=635mm / aluminium / srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-DS-L-935-NA",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / lewe drzwi / L=935mm / aluminium / srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-DS-R-935-NA",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / prawe drzwi / L=935mm / aluminium / srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-DS-L-1035-NA",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / lewe drzwi / L=1035mm / aluminium / srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-DS-R-1035-NA",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / prawe drzwi / L=1035mm / aluminium / srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-DS-L-935-SS",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / lewe drzwi / L=935mm / aluminium / anoda inox"
+    },
+    {
+        "Indeks": "OFC-DS-R-935-SS",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / prawe drzwi / L=935mm / aluminium / anoda inox"
+    },
+    {
+        "Indeks": "OFC-DS-L-1035-SS",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / lewe drzwi / L=1035mm / aluminium / anoda inox"
+    },
+    {
+        "Indeks": "OFC-DS-R-1035-SS",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / prawe drzwi / L=1035mm / aluminium / anoda inox"
+    },
+    {
+        "Indeks": "NTMON00W1-150-SS",
+        "Nazwa artykulu": "Wyposażenie do systemu MONACO - pojedyncze drzwi 150kg / anoda,aluminum"
+    },
+    {
+        "Indeks": "OFC-ES-P-SS",
+        "Nazwa artykulu": "Płytka do montazu elektrozaczepu dla ościeznic OFC / stal nierdzewna"
+    },
+    {
+        "Indeks": "CLM-109-10/12-2500-SS",
+        "Nazwa artykulu": "Listwa montażowa zaciskowa wys.109mm / profil U górny / L=2500mm / aluminium / anoda INOX"
+    },
+    {
+        "Indeks": "CLM-109-10/12-2500-NA",
+        "Nazwa artykulu": "Listwa montażowa zaciskowa wys.109mm / profil U górny / L=2500mm / aluminium / srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-DS-R-835-NA",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / prawe drzwi / L=835mm / aluminium / srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-DS-L-835-SS",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / lewe drzwi / L=835mm / aluminium / anoda inox"
+    },
+    {
+        "Indeks": "OFC-DS-R-835-SS",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / prawe drzwi / L=835mm / aluminium /anoda inox"
+    },
+    {
+        "Indeks": "CLM-41-M-2500-SS",
+        "Nazwa artykulu": "Maskownica listwy montażowej zaciskowa wys.41mm L=2500mm / aluminium / anoda INOX"
+    },
+    {
+        "Indeks": "CLM-3638-ZD-B",
+        "Nazwa artykulu": "Zaślepka czołowa dolna do listwy montażowej CLM3638/ stal nierdzewna / CZARNY"
+    },
+    {
+        "Indeks": "CLM-3638-ZG-B",
+        "Nazwa artykulu": "Zaślepka czołowa górna do listwy montażowej CLM3638-3 / stal nierdzewna / CZARNY"
+    },
+    {
+        "Indeks": "CLM-41-M-2500-NA",
+        "Nazwa artykulu": "Maskownica listwy montażowej zaciskowa wys.41mm L=2500mm / aluminium / anoda srebrna"
+    },
+    {
+        "Indeks": "NTMON6000-SS",
+        "Nazwa artykulu": "Profil jezdny / maskownica / zaślepki do systemu Monaco L=6,0m / satyna ,aluminum"
+    },
+    {
+        "Indeks": "NTMON6000-NA",
+        "Nazwa artykulu": "Profil jezdny / maskownica / zaślepki do systemu Monaco L=6,0m / anoda srebrna ,aluminum"
+    },
+    {
+        "Indeks": "NTMON6000-B",
+        "Nazwa artykulu": "Profil jezdny / maskownica / zaślepki do systemu Monaco L=6,0m / czarna anoda ,aluminum"
+    },
+    {
+        "Indeks": "NTMON4000-B",
+        "Nazwa artykulu": "Profil jezdny / maskownica / zaślepki do systemu Monaco L=4,0m / czarna anoda ,aluminum"
+    },
+    {
+        "Indeks": "NTMON3000-B",
+        "Nazwa artykulu": "Profil jezdny / maskownica / zaślepki do systemu Monaco L=3,0m / czarna anoda ,aluminum"
+    },
+    {
+        "Indeks": "NTMON2200-B",
+        "Nazwa artykulu": "Profil jezdny / maskownica / zaślepki do systemu Monaco L=2,2m / czarna anoda ,aluminum"
+    },
+    {
+        "Indeks": "OFC-DS-L-1135-SS",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / lewe drzwi / L=1135mm / aluminium / anoda inox"
+    },
+    {
+        "Indeks": "OFC-DS-R-1135-SS",
+        "Nazwa artykulu": "Listwa z uszczelką opadającą / prawe drzwi / L=1135mm / aluminium / anoda inox"
+    },
+    {
+        "Indeks": "CLM-41-M-5000-NA",
+        "Nazwa artykulu": "Maskownica listwy montażowej zaciskowa wys.41mm L=5000mm / aluminium / anoda srebrna"
+    },
+    {
+        "Indeks": "CLM-41-M-5000-SS",
+        "Nazwa artykulu": "Maskownica listwy montażowej zaciskowa wys.41mm L=5000mm / aluminium / anoda INOX"
+    },
+    {
+        "Indeks": "CLM-41-M-5000-B",
+        "Nazwa artykulu": "Maskownica listwy montażowej zaciskowa wys.41mm L=5000mm / aluminium / anoda CZARNA"
+    },
+    {
+        "Indeks": "C-ACX-1-19-25",
+        "Nazwa artykulu": "Taśma montażowa nie ma jej"
+    },
+    {
+        "Indeks": "OFC-4S-B",
+        "Nazwa artykulu": "Profil ościeżnicowy 45x45mm typ \"szkło-szkło\" OFC-4 aluminum, L=600cm , czarna anoda"
+    },
+    {
+        "Indeks": "OFC-4S-SS",
+        "Nazwa artykulu": "Profil ościeżnicowy 45x45mm typ \"szkło-szkło\" OFC-4 aluminum, L=600cm , anoda INOX"
+    },
+    {
+        "Indeks": "OFC-4S-NA",
+        "Nazwa artykulu": "Profil ościeżnicowy 45x45mm typ \"szkło-szkło\" OFC-4 aluminum, L=600cm , srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-4S-KIT",
+        "Nazwa artykulu": "Zestaw kątowników na 1kpl drzwi do OFC-4S / stal nierdzewna"
+    },
+    {
+        "Indeks": "H581A-G",
+        "Nazwa artykulu": "Uszczelka / PVC / Szary"
+    },
+    {
+        "Indeks": "H581A-B",
+        "Nazwa artykulu": "Uszczelka / PVC / Czarny"
+    },
+    {
+        "Indeks": "E533A-B",
+        "Nazwa artykulu": "Uszczelka / PVC / Czarny"
+    },
+    {
+        "Indeks": "H582A-B",
+        "Nazwa artykulu": "Uszczelka / PVC / Czarny"
+    },
+    {
+        "Indeks": "E534A-B",
+        "Nazwa artykulu": "Uszczelka / PVC / Czarny"
+    },
+    {
+        "Indeks": "E535A-B",
+        "Nazwa artykulu": "Uszczelka / PVC / Czarny"
+    },
+    {
+        "Indeks": "E533A-G",
+        "Nazwa artykulu": "Uszczelka / PVC / Szary"
+    },
+    {
+        "Indeks": "H582A-G",
+        "Nazwa artykulu": "Uszczelka / PVC / Szary"
+    },
+    {
+        "Indeks": "E534A-G",
+        "Nazwa artykulu": "Uszczelka / PVC / Szary"
+    },
+    {
+        "Indeks": "E535A-G",
+        "Nazwa artykulu": "Uszczelka / PVC / Szary"
+    },
+    {
+        "Indeks": "CLM2628-Z-SS",
+        "Nazwa artykulu": "Zaślepka czołowa listwy montażowej CLM2628 / stal nierdzewna / Satyna"
+    },
+    {
+        "Indeks": "CLM-2628-AL",
+        "Nazwa artykulu": "Listwa montażowa wys.26mm / profil bazowy + maskownica / L=3000mm / Aluminium / Surowe aluminium"
+    },
+    {
+        "Indeks": "CLM-2628-NA",
+        "Nazwa artykulu": "Listwa montażowa wys.26mm / profil bazowy + maskownica / L=3000mm / Aluminium / Srebrna Anoda"
+    },
+    {
+        "Indeks": "CLM-2628-SS",
+        "Nazwa artykulu": "Listwa montażowa wys.26mm / profil bazowy + maskownica / L=3000mm / Aluminium / Satyna"
+    },
+    {
+        "Indeks": "CLM-2628-B",
+        "Nazwa artykulu": "Listwa montażowa wys.26mm / profil bazowy + maskownica / L=3000mm / Aluminium / Czarna Anoda"
+    },
+    {
+        "Indeks": "CLM-2628-G-AL",
+        "Nazwa artykulu": "Listwa montażowa wys.26mm / profil U górny / L=3000mm / Aluminium / Surowe aluminium"
+    },
+    {
+        "Indeks": "CLM-2628-G-NA",
+        "Nazwa artykulu": "Listwa montażowa wys.26mm / profil U górny / L=3000mm / Aluminium / Srebrna Anoda"
+    },
+    {
+        "Indeks": "CLM-2628-G-SS",
+        "Nazwa artykulu": "Listwa montażowa wys.26mm / profil U górny / L=3000mm / Aluminium / Satyna"
+    },
+    {
+        "Indeks": "CLM-2628-G-B",
+        "Nazwa artykulu": "Listwa montażowa wys.26mm / profil U górny / L=3000mm / Aluminium / Czarna Anoda"
+    },
+    {
+        "Indeks": "CLM41-10-Z-SS",
+        "Nazwa artykulu": "Zaślepka czołowa listwy montażowej CLM41 / szkło 10mm / stal nierdzewna / Satyna"
+    },
+    {
+        "Indeks": "CLM41-10-Z-B",
+        "Nazwa artykulu": "Zaślepka czołowa listwy montażowej CLM41 / szkło 10mm / stal nierdzewna / CZARNY"
+    },
+    {
+        "Indeks": "CLM41-10-Z-NA",
+        "Nazwa artykulu": "Zaślepka czołowa listwy montażowej CLM41 / szkło 10mm / stal nierdzewna / SZARY"
+    },
+    {
+        "Indeks": "CLM41-12-Z-NA",
+        "Nazwa artykulu": "Zaślepka czołowa listwy montażowej CLM41 / szkło 12mm / stal nierdzewna / SZARY"
+    },
+    {
+        "Indeks": "CLM41-12-Z-B",
+        "Nazwa artykulu": "Zaślepka czołowa listwy montażowej CLM41 / szkło 12mm / stal nierdzewna / CZARNY"
+    },
+    {
+        "Indeks": "NLO-DP2-205",
+        "Nazwa artykulu": "Wspornik do ściany do rury fi 25 mm, stal nierdzewna"
+    },
+    {
+        "Indeks": "NTMON1300-B",
+        "Nazwa artykulu": "Profil górny panelu stałego do systemu MONACO L=1300/ Czarna anoda, aluminum"
+    },
+    {
+        "Indeks": "ND-980-SS",
+        "Nazwa artykulu": "Samozamykacz górny do ościeżnicy z szyną i obejmą na szkło, SATNYA"
+    },
+    {
+        "Indeks": "CLM2628-Z-NA",
+        "Nazwa artykulu": "Zaślepka czołowa listwy montażowej CLM2628 / stal nierdzewna / Szara"
+    },
+    {
+        "Indeks": "CLM2628-Z-B",
+        "Nazwa artykulu": "Zaślepka czołowa listwy montażowej CLM2628 / stal nierdzewna / Czarna"
+    },
+    {
+        "Indeks": "NLO-DP2-207-1",
+        "Nazwa artykulu": "Wspornik szkło na otwór stożkowy /304/satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "OFC-4S-LED-B",
+        "Nazwa artykulu": "Profil ościeżnicowy LED \"szkło-szkło\" OFC-4S aluminum, L=600cm , czarna anoda"
+    },
+    {
+        "Indeks": "CLM-55-LED-M-5000-B",
+        "Nazwa artykulu": "Maskownica LED listwy montażowej zaciskowa wys.55mm L=5000mm / aluminium / anoda CZARNA"
+    },
+    {
+        "Indeks": "OFC-M-LED",
+        "Nazwa artykulu": "Zaślepka komory LED / L=3000 cm / PVC/mleczny"
+    },
+    {
+        "Indeks": "OFC-4S-LED-KIT",
+        "Nazwa artykulu": "Zestaw kątowników na 1kpl drzwi do OFC-4S-LED / stal nierdzewna"
+    },
+    {
+        "Indeks": "CS-1902-3000-B",
+        "Nazwa artykulu": "SZPROS 19x2mm / L=3000mm / aluminium / Anoda CZARNA"
+    },
+    {
+        "Indeks": "CLM55-Z-B",
+        "Nazwa artykulu": "Zaślepka czołowa listwy montażowej CLM55 / stal nierdzewna / Czarny"
+    },
+    {
+        "Indeks": "CLM-55-M-5000-B",
+        "Nazwa artykulu": "Maskownica listwy montażowej zaciskowa wys.55mm L=5000mm / aluminium / anoda CZARNA"
+    },
+    {
+        "Indeks": "C-ACX-1-19-60",
+        "Nazwa artykulu": "Taśma montażowa do szprosów ACX Plus, 1x19 mm, L=60 mb"
+    },
+    {
+        "Indeks": "C-ACX-0,5-9-50",
+        "Nazwa artykulu": "Taśma montażowa do szprosów ACX Plus, 0,5x9 mm, L=50 mb"
+    },
+    {
+        "Indeks": "OFC-02-SS",
+        "Nazwa artykulu": "Płytka do zamków ze zwykłym językiem dla ościeznic OFC / stal nierdzewna"
+    },
+    {
+        "Indeks": "OFC-4S-AL",
+        "Nazwa artykulu": "Profil ościeżnicowy 45x45mm typ \"szkło-szkło\" OFC-4 aluminum, L=600cm , surowe aluminium"
+    },
+    {
+        "Indeks": "CS-1902-3000-AL",
+        "Nazwa artykulu": "SZPROS 19x2mm / L=3000mm / aluminium / surowy"
+    },
+    {
+        "Indeks": "OFC-1-130-160-Z-6000-AL",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 zapinający 130-160 / aluminum / L=600cm / surowy"
+    },
+    {
+        "Indeks": "OFC-1-130-160-Z-6000-NA",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 zapinający 130-160 / aluminum / L=600cm / srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-1-130-160-Z-6000-B",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 zapinający 130-160 / aluminum / L=600cm / czarna anoda"
+    },
+    {
+        "Indeks": "OFC-1-130-160-Z-6000-SS",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 zapinający 130-160 / aluminum / L=600cm / anoda INOX"
+    },
+    {
+        "Indeks": "OFC-1-KIT",
+        "Nazwa artykulu": "Zestaw kątowników na 1kpl drzwi do OFC-1 / stal nierdzewna"
+    },
+    {
+        "Indeks": "OFC-1-B-AL",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 bazowy / aluminum / L=600cm / surowy"
+    },
+    {
+        "Indeks": "OFC-1-B-NA",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 bazowy / aluminum / L=600cm / srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-1-B-B",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 bazowy / aluminum / L=600cm / anoda czarna"
+    },
+    {
+        "Indeks": "OFC-1-B-SS",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 bazowy / aluminum / L=600cm / satyna"
+    },
+    {
+        "Indeks": "NT-220-1",
+        "Nazwa artykulu": "Prowadnica do drzwi przesuwnych do sys. MONACO / stal. nierdz./ SATYNA"
+    },
+    {
+        "Indeks": "NT-220-B",
+        "Nazwa artykulu": "Prowadnica do drzwi przesuwnych do sys. MONACO / stal. nierdz./ CZARNY"
+    },
+    {
+        "Indeks": "OFC-1-K",
+        "Nazwa artykulu": "Zestaw kątowników na 1kpl drzwi do mocowania OFC-1 do ściany / 7szt / stal nierdzewna"
+    },
+    {
+        "Indeks": "OFC-4S-DOUBLE-KIT",
+        "Nazwa artykulu": "Zestaw kątowników na 1kpl drzwi do OFC-4S-DOUBLE / stal nierdzewna"
+    },
+    {
+        "Indeks": "CLM-3410-K",
+        "Nazwa artykulu": "Kątownik 90st do łączenia OFC-4S-DOUBLE z profilem montażowym przy podłodze / stal nierdzewna"
+    },
+    {
+        "Indeks": "CLM-134",
+        "Nazwa artykulu": "Mocowanie rozporowe słupa instalacyjnego / stal nierdzewna"
+    },
+    {
+        "Indeks": "OFC-1-100-130-Z-6000-AL",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 zapinający 100-130 / aluminum / L=600cm / surowy"
+    },
+    {
+        "Indeks": "OFC-1-160-195-Z-6000-AL",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 zapinający 160-195 / aluminum / L=600cm / surowy"
+    },
+    {
+        "Indeks": "OFC-1-160-195-Z-6000-NA",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 zapinający 160-195 / aluminum / L=600cm / srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-1-160-195-Z-6000-SS",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 zapinający 160-195 / aluminum / L=600cm / anoda INOX"
+    },
+    {
+        "Indeks": "OFC-1-160-195-Z-6000-B",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 zapinający 160-195 / aluminum / L=600cm / czarna anoda"
+    },
+    {
+        "Indeks": "OFC-1-100-130-Z-6000-NA",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 zapinający 100-130 / aluminum / L=600cm / srebrna anoda"
+    },
+    {
+        "Indeks": "OFC-1-100-130-Z-6000-SS",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 zapinający 100-130 / aluminum / L=600cm / anoda INOX"
+    },
+    {
+        "Indeks": "OFC-1-100-130-Z-6000-B",
+        "Nazwa artykulu": "Profil ościeżnicowy OFC-1 zapinający 100-130 / aluminum / L=600cm / czarna anoda"
+    },
+    {
+        "Indeks": "NTMON00W1-B",
+        "Nazwa artykulu": "Wyposażenie do systemu MONACO - pojedyncze drzwi / czarny,aluminum"
+    },
+    {
+        "Indeks": "OFC-4-LED-K",
+        "Nazwa artykulu": "Kątownik do łączenia OFC-4S-LED z profilem montażowym przy podłodze / stal nierdzewna"
+    },
+    {
+        "Indeks": "CLM-55-LED-5000-B",
+        "Nazwa artykulu": "Listwa montażowa OFFICE LEDON / L=5000mm / aluminium / anoda CZARNA"
+    },
+    {
+        "Indeks": "CLM-55-5000-B",
+        "Nazwa artykulu": "Listwa montażowa OFFICE LEDON / bez LED / L=5000mm / aluminium / anoda CZARNA"
+    },
+    {
+        "Indeks": "CS-ACX-0,7-9-33",
+        "Nazwa artykulu": "Taśma do szprosów 0,7x9mm L=33mb"
+    },
+    {
+        "Indeks": "CLM-41-M-2500-B",
+        "Nazwa artykulu": "Maskownica listwy montażowej zaciskowa wys.41mm L=2500mm / aluminium / anoda CZARNA"
+    },
+    {
+        "Indeks": "NTMON2000NA",
+        "Nazwa artykulu": "Profil jezdny do systemu MONACO L=2000/ srebrna anoda,aluminum"
+    },
+    {
+        "Indeks": "NTMON2000-B",
+        "Nazwa artykulu": "Profil jezdny / maskownica / zaślepki do systemu Monaco L=2,0m / czarna anoda ,aluminum"
+    },
+    {
+        "Indeks": "NTMON2000SS",
+        "Nazwa artykulu": "Profil jezdny do systemu MONACO L=2000/ Alinox,aluminum"
+    },
+    {
+        "Indeks": "CLM-109-M-5000-NA",
+        "Nazwa artykulu": "Maskownica listwy montażowej zaciskowa wys.109mm L=5000mm / aluminium / anoda srebrna"
+    },
+    {
+        "Indeks": "NT-220-NA",
+        "Nazwa artykulu": "Prowadnica do drzwi przesuwnych do sys. MONACO / stal. nierdz./ Anoda"
+    },
+    {
+        "Indeks": "NJ-J110348",
+        "Nazwa artykulu": "Balustrady - 48,3mm łącznik rura-rura, stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-0030",
+        "Nazwa artykulu": "Rotula płaska fi 30mm / dystans 10mm,stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-0052",
+        "Nazwa artykulu": "Rotula płaska fi 52mm / dystans 10mm,stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-0072",
+        "Nazwa artykulu": "Rotula płaska fi 72mm / dystans 10mm,stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J110148",
+        "Nazwa artykulu": "Balustrady - 48,3mm narożnik pionowy, stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J110248",
+        "Nazwa artykulu": "Balustrady - 48,3mm narożnik poziomy, stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J110548",
+        "Nazwa artykulu": "Balustrady - 48,3mm łącznik dolny regulowany 25-55, stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J110648",
+        "Nazwa artykulu": "Balustrady - 48,3mm łącznik górny regulowany 25-55, stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J120148",
+        "Nazwa artykulu": "Balustrady - 48,3mm mocowanie do ściany, stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J140148",
+        "Nazwa artykulu": "Balustrady - 48,3mm zaślepka do poręczy, stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J545348",
+        "Nazwa artykulu": "Poręcz okrągła 48, 3mm, L=2,5m / stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J545348-5",
+        "Nazwa artykulu": "Poręcz okrągła 48,3 mm, L=5m / stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J549211",
+        "Nazwa artykulu": "Balustrady - 48, 3mm uszczelka do szkła 11, 5 - 13, 5mm,"
+    },
+    {
+        "Indeks": "NJ-J549216",
+        "Nazwa artykulu": "Balustrady - 48,3mm uszczelka do szkła 16 - 17,5mm,"
+    },
+    {
+        "Indeks": "NLO-DA-003-195",
+        "Nazwa artykulu": "Cięgno L=195cm / 304"
+    },
+    {
+        "Indeks": "NLO-DA-003-100",
+        "Nazwa artykulu": "Cięgno L=1, 0m / stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DA-003-120",
+        "Nazwa artykulu": "Cięgno L=1,2m / stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DA-003-150",
+        "Nazwa artykulu": "Cięgno / 1,5m / stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DA-634",
+        "Nazwa artykulu": "Łącznik ściana-szkło/stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DA-634-316",
+        "Nazwa artykulu": "Łącznik ściana-szkło/ stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DA-634-DOUBLE",
+        "Nazwa artykulu": "Podwójny łącznik ściana- szkło /stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DA-635-316",
+        "Nazwa artykulu": "Łącznik szkło-cięgno/stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DA-635-DOUBLE",
+        "Nazwa artykulu": "Podwójny łącznik szkło- cięgno /stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DA-636-316",
+        "Nazwa artykulu": "Łącznik ściana-cięgno/stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DA-636-DOUBLE",
+        "Nazwa artykulu": "Podwójny łącznik ściana- cięgno /stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-S-11404-75-1",
+        "Nazwa artykulu": "Rotula fi 55mm/ 8-17, 52mm/ 75mm/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-S640268",
+        "Nazwa artykulu": "Poręcz kwadratowa 40x40 mm, L=2,5 m, stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J549111",
+        "Nazwa artykulu": "Uszczelka do poręczy 40x40 ; 42,4, do szkła 11,5-13,5 ; L=2,5 m,"
+    },
+    {
+        "Indeks": "NJ-J549116",
+        "Nazwa artykulu": "Uszczelka do poręczy 40x40 ; 42,4, do szkła 16-17,5mm ; L=2,5 m,"
+    },
+    {
+        "Indeks": "NJ-S340168",
+        "Nazwa artykulu": "Zaślepka do poręczy 40x40 mm, stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ0016",
+        "Nazwa artykulu": "Rotula płaska fi 16mm / dystans 10mm"
+    },
+    {
+        "Indeks": "NJ-J545342",
+        "Nazwa artykulu": "Poręcz okrągła 42,5 mm, L=2,5 m /stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-S310168",
+        "Nazwa artykulu": "Łącznik poziomy 90 st., stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-S310368",
+        "Nazwa artykulu": "Łącznik prosty 180 st. do poręczy 40x40 mm, stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J110242",
+        "Nazwa artykulu": "Łącznik poziomy 90st. do poręczy 42,4 mm,stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J110342",
+        "Nazwa artykulu": "Łącznik prosty 180 st. do poręczy 42,4 mm, stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J140142",
+        "Nazwa artykulu": "Zaślepka poręczy 42,4 mm, stal nierdzewna"
+    },
+    {
+        "Indeks": "NB-6100M",
+        "Nazwa artykulu": "Balustrady - maskownica do NB-6100P L=6m,aluminium"
+    },
+    {
+        "Indeks": "NB-6100P",
+        "Nazwa artykulu": "Balustrady - profil aluminiowy / montaż do czoła, L=6000mm"
+    },
+    {
+        "Indeks": "NB-6200P",
+        "Nazwa artykulu": "Balustrada- profil aluminiowy/ przesunięta stopa, L=6000mm"
+    },
+    {
+        "Indeks": "NB-6200M",
+        "Nazwa artykulu": "Maskownica stopy montażowej profilu NB-6200P L=6000mm,aluminum"
+    },
+    {
+        "Indeks": "NJ-S640268-5",
+        "Nazwa artykulu": "Poręcz kwadratowa 40x40mm L=5m, stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J549122",
+        "Nazwa artykulu": "Uszczelka do poręczy 40x40 ; 42,4 ; do szkła 20-21,5mm ; L=2,5m,"
+    },
+    {
+        "Indeks": "NJ-J545342-5",
+        "Nazwa artykulu": "Poręcz okrągła 42,5 mm, L=5 m /stal nierdzewna"
+    },
+    {
+        "Indeks": "NB6400PZ",
+        "Nazwa artykulu": "Balustrada - zaślepka profila NB-6200P- prawa,stal nierdzewna"
+    },
+    {
+        "Indeks": "NB6400LZ",
+        "Nazwa artykulu": "Balustarada - zaślepka profila NB-6200P- lewa,stal nierdzewna"
+    },
+    {
+        "Indeks": "NB-M1250125",
+        "Nazwa artykulu": "Kotwa stalowa fi12 L=125mm, stal nierdzewna"
+    },
+    {
+        "Indeks": "NB-6000P",
+        "Nazwa artykulu": "Balustrada - profil aluminiowy / montaż do podłogi , L=6000mm"
+    },
+    {
+        "Indeks": "NB-6500",
+        "Nazwa artykulu": "Balustrada - łącznik profila,stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J549222",
+        "Nazwa artykulu": "Balustrady - 48, 3mm uszczelka do szkła 20,76 - 21,52mm,"
+    },
+    {
+        "Indeks": "NB6400-1",
+        "Nazwa artykulu": "Balustrada - zaślepka profilu NB-6000P / stal nierdzewna"
+    },
+    {
+        "Indeks": "NB6400-1-LZ",
+        "Nazwa artykulu": "Balustrada - zaślepka profiluNB-6100P / lewa,stal nierdzewna"
+    },
+    {
+        "Indeks": "NB6400-1-PZ",
+        "Nazwa artykulu": "Balustrada - zaślepka profilu NB-6100P / prawa,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DA-635",
+        "Nazwa artykulu": "Łącznik szkło-cięgno/stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DA-636",
+        "Nazwa artykulu": "Łącznik ściana-cięgno/stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-DA-634/635-DOUBLE",
+        "Nazwa artykulu": "Talerzyki do elementów DOUBLE,stal nierdzewna"
+    },
+    {
+        "Indeks": "NPC1814",
+        "Nazwa artykulu": "Pochwyt typ C do szkła 17, 52mm L=6,0m 18x14mm, aluminium"
+    },
+    {
+        "Indeks": "NLO-DA-003-300",
+        "Nazwa artykulu": "Cięgno L=3,0m / stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J545342-5-316L",
+        "Nazwa artykulu": "Poręcz okrągła 42,5 mm, L=5 m / stal nierdzewna"
+    },
+    {
+        "Indeks": "NB-6300P",
+        "Nazwa artykulu": "Balustrady - profil aluminiowy typ \"Y\" / montaż do czoła, L=6000mm"
+    },
+    {
+        "Indeks": "NB-6300M",
+        "Nazwa artykulu": "Balustrady - maskownica aluminiowa do NB-6300M , L=6m"
+    },
+    {
+        "Indeks": "NJ-J120642",
+        "Nazwa artykulu": "Balustrady - mocowanie poręczy fi42,4mm do szkła, stal 304"
+    },
+    {
+        "Indeks": "NJ-J120742",
+        "Nazwa artykulu": "Balustrady - mocowanie poręczy fi42,4mm do ściany, stal 304"
+    },
+    {
+        "Indeks": "NJ-J549108",
+        "Nazwa artykulu": "Uszczelka do poręczy 40x40 ; 42,4, do szkła 8-11mm; L=2,5 m,"
+    },
+    {
+        "Indeks": "NJ-J5050182",
+        "Nazwa artykulu": "Uchwyt kwadratowy do szkła 12-17,52mm / mocowanie do ziemi + maskownica / Satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NPR-030AD/10-13,52/304",
+        "Nazwa artykulu": "Łącznik tafli do balustrad fi 30mm/10-13,52/ 304 / Satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NPR-030AD/16-17,52/304",
+        "Nazwa artykulu": "Łącznik tafli do balustrad fi 30mm/16-17,52/ stal nierdzewna/ Satyna"
+    },
+    {
+        "Indeks": "NPR-030AD/19-21,52/304",
+        "Nazwa artykulu": "Łącznik tafli do balustrad fi 30mm/19-21,52/ stal nierdzewna/ Satyna"
+    },
+    {
+        "Indeks": "NPR-101-52,5-SSS",
+        "Nazwa artykulu": "Mocowanie punktowe szkło-szkło regulowane L=52,5mm / stal nierdzewna"
+    },
+    {
+        "Indeks": "NPR-102-52,5-SSS",
+        "Nazwa artykulu": "Mocowanie punktowe ściana-szkło regulowane L=52,5mm / stal nierdzewna"
+    },
+    {
+        "Indeks": "NPR-103-75-SSS",
+        "Nazwa artykulu": "Mocowanie punktowe ściana-szkło regulowane L=75mm / stal nierdzewna"
+    },
+    {
+        "Indeks": "NPR-104-52,5-SSS",
+        "Nazwa artykulu": "Mocowanie punktowe podwójne szkło-szkło regulowane L=52,5mm / stal nierdzewna"
+    },
+    {
+        "Indeks": "NPR-105-75-SSS",
+        "Nazwa artykulu": "Mocowanie punktowe ściana-szkło 90st / L=75mm / stal nierdzewna"
+    },
+    {
+        "Indeks": "NPR-106-103-SSS",
+        "Nazwa artykulu": "Mocowanie punktowe ściana-szkło-szkło regulowane / L=103mm / stal nierdzewna"
+    },
+    {
+        "Indeks": "NPC1410",
+        "Nazwa artykulu": "Pochwyt typ C do szkła 12,52 -13,52mm L=6,0m 14x10mm, aluminium"
+    },
+    {
+        "Indeks": "NB-6300Z-SS",
+        "Nazwa artykulu": "Zaslepka do profilu NB-6300M / satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NB-6300Z",
+        "Nazwa artykulu": "Zaslepka do profilu NB-6300M / szara,stal nierdzewna"
+    },
+    {
+        "Indeks": "NLO-S-11404-45-1",
+        "Nazwa artykulu": "Rotula fi 55mm/ 8-17, 52mm/ 45mm/ satyna,stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-0050",
+        "Nazwa artykulu": "Rotula płaska fi 52mm / dystans 50mm"
+    },
+    {
+        "Indeks": "NPC2218",
+        "Nazwa artykulu": "Pochwyt typ C do szkła 20,76 -21,52mm L=6,0m 22x18mm / aluminium"
+    },
+    {
+        "Indeks": "NLO-DA-M20/M10",
+        "Nazwa artykulu": "Szpilka do daszków M20/M10 L=330mm,stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J545342-POLER",
+        "Nazwa artykulu": "Poręcz okrągła 42,5 mm, L=2,5 m /stal nierdzewna / POLER"
+    },
+    {
+        "Indeks": "NB-6000W",
+        "Nazwa artykulu": "Profil odwadniający / aluminiowy / montaż do podłogi, L=6000mm"
+    },
+    {
+        "Indeks": "NB-6100W",
+        "Nazwa artykulu": "Profil odwadniający / aluminiowy / montaż do czoła, L=6000mm"
+    },
+    {
+        "Indeks": "NB-6300W",
+        "Nazwa artykulu": "Profil odwadniający / aluminiowy / montaż do czoła z przesunięciem, L=6000mm"
+    },
+    {
+        "Indeks": "COS-4830-304",
+        "Nazwa artykulu": "COSMO - Rotula reg. fi 48mm / dys. 30mm / 12-21,52mm / stal nierdzewna 304"
+    },
+    {
+        "Indeks": "COS-4830-304-B",
+        "Nazwa artykulu": "COSMO - Rotula reg. fi 48mm / dys. 30mm / 12-21,52mm / stal nierdzewna 304 / BLACK CHROME"
+    },
+    {
+        "Indeks": "COS-4840-304",
+        "Nazwa artykulu": "COSMO - Rotula reg. fi 48mm / dys. 40mm / 12-21,52mm / stal nierdzewna 304"
+    },
+    {
+        "Indeks": "COS-4850-304",
+        "Nazwa artykulu": "COSMO - Rotula reg. fi 48mm / dys. 50mm / 12-21,52mm / stal nierdzewna 304"
+    },
+    {
+        "Indeks": "COS-4840-304-B",
+        "Nazwa artykulu": "COSMO - Rotula reg. fi 48mm / dys. 40mm / 12-21,52mm / stal nierdzewna 304 / BLACK CHROME"
+    },
+    {
+        "Indeks": "COS-4850-304-B",
+        "Nazwa artykulu": "COSMO - Rotula reg. fi 48mm / dys. 50mm / 12-21,52mm / stal nierdzewna 304 / BLACK CHROME"
+    },
+    {
+        "Indeks": "COS-3430-304",
+        "Nazwa artykulu": "COSMO - Rotula reg. fi 34mm / dys. 30mm / 12-21,52mm / stal nierdzewna 304"
+    },
+    {
+        "Indeks": "COS-3430-304-B",
+        "Nazwa artykulu": "COSMO - Rotula reg. fi 34mm / dys. 30mm / 12-21,52mm / stal nierdzewna 304 / BLACK CHROME"
+    },
+    {
+        "Indeks": "NPF-1200-SET-RAL7016",
+        "Nazwa artykulu": "Profile do portfenetrów ZESTAW 1200mm / aluminium / RAL7016"
+    },
+    {
+        "Indeks": "NPF-1200-SET-AL",
+        "Nazwa artykulu": "Profile do portfenetrów ZESTAW 1200mm / surowe aluminiu"
+    },
+    {
+        "Indeks": "NPF-1200-SET-NA",
+        "Nazwa artykulu": "Profile do portfenetrów ZESTAW 1200mm / aluminium / srebrna anoda"
+    },
+    {
+        "Indeks": "NJ-J110542",
+        "Nazwa artykulu": "Balustrady - 42,4 mm łącznik dolny regulowany 25-55, stal nierdzewna"
+    },
+    {
+        "Indeks": "NJ-J110642",
+        "Nazwa artykulu": "Balustrady - 42,4 mm łącznik górny regulowany 25-55, stal nierdzewna"
+    },
+    {
+        "Indeks": "TR-2422-6000-AL",
+        "Nazwa artykulu": "TROFEO - Profil zapinający szklenia górnego / L=6000mm / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-3125-6000-AL",
+        "Nazwa artykulu": "TROFEO - Profil szklenia / L=6000mm / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-H115-AL",
+        "Nazwa artykulu": "TROFEO - Mocowanie H wysokie / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-H74-AL",
+        "Nazwa artykulu": "TROFEO - Mocowanie H wysokie / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-MP",
+        "Nazwa artykulu": "TROFEO - Mocowanie poręczy do słupka / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-6338-5600-AL",
+        "Nazwa artykulu": "TROFEO - Słupek balustradowy / L=5600mm / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-6338-5600-RAL",
+        "Nazwa artykulu": "TROFEO - Słupek balustradowy / L=5600mm / RAL7016"
+    },
+    {
+        "Indeks": "TR-6338-B-150-AL",
+        "Nazwa artykulu": "TROFEO - Profil wzmacniający słupek / L=150mm / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-3125-6000-RAL",
+        "Nazwa artykulu": "TROFEO - Profil szklenia / L=6000mm / RAL7016"
+    },
+    {
+        "Indeks": "TR-3125-M-6000-AL",
+        "Nazwa artykulu": "TROFEO - Maskownica profilu szklenia / L=6000mm / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-3125-M-6000-RAL",
+        "Nazwa artykulu": "TROFEO - Maskownica profilu szklenia / L=6000mm / RAL"
+    },
+    {
+        "Indeks": "TR-9530-6000-AL",
+        "Nazwa artykulu": "TROFEO - Poręcz ze szkleniem / L=6000mm / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-9530-6000-RAL",
+        "Nazwa artykulu": "TROFEO - Poręcz ze szkleniem / L=6000mm / RAL7016"
+    },
+    {
+        "Indeks": "TR-9530-B-6000-AL",
+        "Nazwa artykulu": "TROFEO - Profil bazowy poręczy ze szkleniem / L=6000mm / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-9530-B-6000-RAL",
+        "Nazwa artykulu": "TROFEO - Profil bazowy poręczy ze szkleniem / L=6000mm / RAL"
+    },
+    {
+        "Indeks": "TR-2422-6000-RAL",
+        "Nazwa artykulu": "TROFEO - Profil zapinający szklenia górnego / L=6000mm / RAL"
+    },
+    {
+        "Indeks": "TR-7030-6000-AL",
+        "Nazwa artykulu": "TROFEO - Poręcz bez szklenia / L=6000mm / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-7030-6000-RAL",
+        "Nazwa artykulu": "TROFEO - Poręcz bez szklenia / L=6000mm / RAL7016"
+    },
+    {
+        "Indeks": "TR-7030-B-6000-AL",
+        "Nazwa artykulu": "TROFEO - Profil bazowy poręczy bez szklenia / L=6000mm / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-7030-B-6000-RAL",
+        "Nazwa artykulu": "TROFEO - Profil bazowy poręczy bez szklenia / L=6000mm / RAL"
+    },
+    {
+        "Indeks": "TR-243-6000-AL",
+        "Nazwa artykulu": "TROFEO - Maskownica czołowa płyty / L=6000mm / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-243-6000-RAL",
+        "Nazwa artykulu": "TROFEO - Maskownica czołowa płyty / L=6000mm / RAL"
+    },
+    {
+        "Indeks": "TR-H115-RAL",
+        "Nazwa artykulu": "TROFEO - Mocowanie H wysokie / RAL"
+    },
+    {
+        "Indeks": "TR-H74-RAL",
+        "Nazwa artykulu": "TROFEO - Mocowanie H wysokie / RAL"
+    },
+    {
+        "Indeks": "TR-P102-AL",
+        "Nazwa artykulu": "TROFEO - Stopa podłogowa / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-P102-RAL",
+        "Nazwa artykulu": "TROFEO - Stopa podłogowa / RAL"
+    },
+    {
+        "Indeks": "TR-9530-Z-L-AL",
+        "Nazwa artykulu": "TROFEO - Zaślepka poręczy TR-9530 / LEWA / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-9530-Z-L-RAL",
+        "Nazwa artykulu": "TROFEO - Zaślepka poręczy TR-9530 / LEWA / RAL"
+    },
+    {
+        "Indeks": "TR-9530-Z-R-AL",
+        "Nazwa artykulu": "TROFEO - Zaślepka poręczy TR-9530 / PRAWA / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-9530-Z-R-RAL",
+        "Nazwa artykulu": "TROFEO - Zaślepka poręczy TR-9530 / PRAWA / RAL"
+    },
+    {
+        "Indeks": "TR-7030-Z-L-AL",
+        "Nazwa artykulu": "TROFEO - Zaślepka poręczy TR-7030 / LEWA / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-7030-Z-R-AL",
+        "Nazwa artykulu": "TROFEO - Zaślepka poręczy TR-7030 / PRAWA / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-7030-Z-R-RAL",
+        "Nazwa artykulu": "TROFEO - Zaślepka poręczy TR-7030 / PRAWA / RAL"
+    },
+    {
+        "Indeks": "TR-7030-Z-L-RAL",
+        "Nazwa artykulu": "TROFEO - Zaślepka poręczy TR-7030 / LEWA / RAL"
+    },
+    {
+        "Indeks": "TR-3125-Z-L-AL",
+        "Nazwa artykulu": "TROFEO - Zaślepka profilu szklenia TR-3125 / LEWA / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-3125-Z-R-AL",
+        "Nazwa artykulu": "TROFEO - Zaślepka profilu szklenia TR-3125 / PRAWA / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-3125-Z-L-RAL",
+        "Nazwa artykulu": "TROFEO - Zaślepka profilu szklenia TR-3125 / LEWA / RAL"
+    },
+    {
+        "Indeks": "TR-3125-Z-R-RAL",
+        "Nazwa artykulu": "TROFEO - Zaślepka profilu szklenia TR-3125 / PRAWA / RAL"
+    },
+    {
+        "Indeks": "TR-243-Z-L-AL",
+        "Nazwa artykulu": "TROFEO - Zaślepka maskownicy TR-243 / LEWA / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-243-Z-R-AL",
+        "Nazwa artykulu": "TROFEO - Zaślepka maskownicy TR-243 / PRAWA / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-243-Z-L-RAL",
+        "Nazwa artykulu": "TROFEO - Zaślepka maskownicy TR-243 / LEWA / RAL"
+    },
+    {
+        "Indeks": "TR-243-Z-R-RAL",
+        "Nazwa artykulu": "TROFEO - Zaślepka maskownicy TR-243 / PRAWA / RAL"
+    },
+    {
+        "Indeks": "TR-90-K",
+        "Nazwa artykulu": "TROFEO - Łącznik poręczy 90st / stal nierdzewna"
+    },
+    {
+        "Indeks": "TR-135-K",
+        "Nazwa artykulu": "TROFEO - Łącznik poręczy 135st / stal nierdzewna"
+    },
+    {
+        "Indeks": "TR-180-K",
+        "Nazwa artykulu": "TROFEO - Łącznik poręczy 180st / stal nierdzewna"
+    },
+    {
+        "Indeks": "TR-K",
+        "Nazwa artykulu": "TROFEO - Mocowanie poręczy do ściany / stal nierdzewna"
+    },
+    {
+        "Indeks": "TR-90-3",
+        "Nazwa artykulu": "TROFEO - Łącznik profilu szklenia 90st / stal nierdzewna"
+    },
+    {
+        "Indeks": "TR-180-3",
+        "Nazwa artykulu": "TROFEO - Łącznik profilu szklenia 180st / stal nierdzewna"
+    },
+    {
+        "Indeks": "TR-M6",
+        "Nazwa artykulu": "TROFEO - Zestaw do mocowania profilu szklenia do słupka / stal nierdzewna"
+    },
+    {
+        "Indeks": "TR-M8-M12",
+        "Nazwa artykulu": "TROFEO - Zestaw śrub mocujących słupek do stopy podłogowej / stal nierdzewna"
+    },
+    {
+        "Indeks": "TR-M8",
+        "Nazwa artykulu": "TROFEO - śruby mocujące słupek do mocowania bocznego / stal nierdzewna - komplet"
+    },
+    {
+        "Indeks": "TR-M16",
+        "Nazwa artykulu": "TROFEO - Szpilka M16 do mocowania profilu wzmacniającego do podłogi / 300mm / stal nierdzewna"
+    },
+    {
+        "Indeks": "TR-M10-M6",
+        "Nazwa artykulu": "TROFEO - Szpilka M10/M6 do mocowaniaporęczy do ściany / 300mm / stal nierdzewna"
+    },
+    {
+        "Indeks": "TR-P",
+        "Nazwa artykulu": "TROFEO - Płytka do mocowania słupka do profilu wzmacniającego / stal nierdzewna"
+    },
+    {
+        "Indeks": "NB-6200W",
+        "Nazwa artykulu": "Profil odwadniający / aluminiowy / montaż z przesunięciem 100x10x91mm, L=6000mm"
+    },
+    {
+        "Indeks": "TR-6338-B-6000-AL",
+        "Nazwa artykulu": "TROFEO - Profil wzmacniający słupek / L=6000mm / surowe aluminium"
+    },
+    {
+        "Indeks": "NJ-J140155",
+        "Nazwa artykulu": "Zaślepka rury 48,3mm wypukła soczewkowa Szlif"
+    },
+    {
+        "Indeks": "TR-6338-Z-AL",
+        "Nazwa artykulu": "TROFEO - Zaślepka słupka TR-6338 / stal nierdzewna"
+    },
+    {
+        "Indeks": "NPC3730-AL",
+        "Nazwa artykulu": "Pochwyt typ C do szkła 12-21,52mm L=6,0m 37x30mm, surowe aluminium"
+    },
+    {
+        "Indeks": "NPC3730-NA",
+        "Nazwa artykulu": "Pochwyt typ C do szkła 12-21,52mm L=6,0m 37x30mm, srebrna anoda"
+    },
+    {
+        "Indeks": "NJ-J549121",
+        "Nazwa artykulu": "Uszczelka do poręczy 40x40 ; 42,4 ; do szkła 20,76mm L=2,5m"
+    },
+    {
+        "Indeks": "NPC-3730-Z-AL",
+        "Nazwa artykulu": "Zaślepka do pochwtu NPC-3730 / surowe aluminium"
+    },
+    {
+        "Indeks": "NPC-3730-Z-NA",
+        "Nazwa artykulu": "Zaślepka do pochwtu NPC-3730 / srebrna anoda"
+    },
+    {
+        "Indeks": "NPC-3730-180-K",
+        "Nazwa artykulu": "Łącznik 180st do pochwtu NPC-3730 / stal nierdzewna"
+    },
+    {
+        "Indeks": "NPC-3730-90-K",
+        "Nazwa artykulu": "Łącznik 90st do pochwtu NPC-3730 / stal nierdzewna"
+    },
+    {
+        "Indeks": "NPC-3730-AD-K",
+        "Nazwa artykulu": "Łącznik regulowany do pochwtu NPC-3730 / stal nierdzewna"
+    },
+    {
+        "Indeks": "NB-B",
+        "Nazwa artykulu": "Uszczelka BAZOWA do profili balustradowych / EPDP / Czarna"
+    },
+    {
+        "Indeks": "NB-15",
+        "Nazwa artykulu": "Uszczelka klinująca do do szkła 12,76-13,52 mm / EPDM / Czarna"
+    },
+    {
+        "Indeks": "NB-11",
+        "Nazwa artykulu": "Uszczelka klinująca do do szkła 16,76-17,52 mm / EPDM / Czarna"
+    },
+    {
+        "Indeks": "NB-7",
+        "Nazwa artykulu": "Uszczelka klinująca do do szkła 20,76-21,52 mm / EPDM / Czarna"
+    },
+    {
+        "Indeks": "NB-P",
+        "Nazwa artykulu": "Podkładka do szkła profili balustradowych / Czarna"
+    },
+    {
+        "Indeks": "NB-1276K",
+        "Nazwa artykulu": "Klin do szkła 12,76mm"
+    },
+    {
+        "Indeks": "NB-1352K",
+        "Nazwa artykulu": "Klin do szkła 13,52mm"
+    },
+    {
+        "Indeks": "NB-1676K",
+        "Nazwa artykulu": "Klin do szkła 16,76mm"
+    },
+    {
+        "Indeks": "NB-1752K",
+        "Nazwa artykulu": "Klin do szkła 17,52mm"
+    },
+    {
+        "Indeks": "NB-2076K",
+        "Nazwa artykulu": "Klin do szkła 20,76mm"
+    },
+    {
+        "Indeks": "NB-2152K",
+        "Nazwa artykulu": "Klin do szkła 21,52mm"
+    },
+    {
+        "Indeks": "TR-2422-6000-RAL9003",
+        "Nazwa artykulu": "TROFEO - Profil zapinający szklenia górnego / L=6000mm / RAL9003"
+    },
+    {
+        "Indeks": "TR-9530-6000-RAL9003",
+        "Nazwa artykulu": "TROFEO - Poręcz ze szkleniem / L=6000mm / RAL9003"
+    },
+    {
+        "Indeks": "TR-3125-6000-RAL9003",
+        "Nazwa artykulu": "TROFEO - Profil szklenia / L=6000mm / RAL9003"
+    },
+    {
+        "Indeks": "TR-6338-6000-AL",
+        "Nazwa artykulu": "TROFEO - Słupek balustradowy / L=6000mm / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-9530-B-6000-RAL9003",
+        "Nazwa artykulu": "TROFEO - Profil bazowy poręczy ze szkleniem / L=6000mm / RAL9003"
+    },
+    {
+        "Indeks": "TR-6338-6000-RAL9003",
+        "Nazwa artykulu": "TROFEO - Słupek balustradowy / L=6000mm / RAL9003"
+    },
+    {
+        "Indeks": "TR-3125-M-6000-RAL9003",
+        "Nazwa artykulu": "TROFEO - Maskownica profilu szklenia / L=6000mm / RAL9003"
+    },
+    {
+        "Indeks": "TR-6338-6000-RAL",
+        "Nazwa artykulu": "TROFEO - Słupek balustradowy / L=6000mm / RAL7016"
+    },
+    {
+        "Indeks": "NPC3730-RAL",
+        "Nazwa artykulu": "Pochwyt typ C do szkła 12-21,52mm L=6,0m 37x30mm, RAL"
+    },
+    {
+        "Indeks": "TR-H100-RAL",
+        "Nazwa artykulu": "TROFEO - Mocowanie H pod wersje z ociepleniem / RAL"
+    },
+    {
+        "Indeks": "TR-H100-AL",
+        "Nazwa artykulu": "TROFEO - Mocowanie H pod wersje z ociepleniem / surowe aluminium"
+    },
+    {
+        "Indeks": "TR-6338-Z-RAL",
+        "Nazwa artykulu": "TROFEO - Zaślepka słupka TR-6338 / stal nierdzewna/ RAL7016"
+    },
+    {
+        "Indeks": "NJ-J549211M",
+        "Nazwa artykulu": "Balustrady - 48, 3mm uszczelka do szkła 11, 5 - 13, 5mm, METR"
+    },
+    {
+        "Indeks": "NJ-J549216M",
+        "Nazwa artykulu": "Balustrady - 48,3mm uszczelka do szkła 16 - 17,5mm, METR"
+    },
+    {
+        "Indeks": "NJ-J549122M",
+        "Nazwa artykulu": "Uszczelka do poręczy 40x40 ; 42,4 ; do szkła 20-21,5mm ; METR"
+    },
+    {
+        "Indeks": "TR-6338-5600-RAL9003",
+        "Nazwa artykulu": "TROFEO - Słupek balustradowy / L=5600mm / RAL9003"
     }
   ]
 }
