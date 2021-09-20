@@ -13,6 +13,7 @@ const App = () => {
             <StoreProvider>
                 <Nav />
                 <ShopList />
+                <img src={require('./img/main.jpg')} alt="" />
                 <Route path='/' exact component={Products} />
                 <Route path='/about' exact component={About} />
             </StoreProvider>
