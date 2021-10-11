@@ -10,16 +10,15 @@ export const ShopItem = () => {
 
 	return currentItems.map((item, index) => {
 		return (
-			//TODO Create input with numbers to add quantity
 			<ShopItemWrapper key={index}>
 				<div className="shop-item-name">
 					<ShopIcon
 						className="fas fa-times"
 						onClick={() => deleteItem(item, index)}
-					></ShopIcon>
+					/>
 					&nbsp; {item.position}
 				</div>
-				<ShopItemQuantity type="text" defaultValue={1} />
+				<span>{item.quantity}</span>
 			</ShopItemWrapper>
 		);
 	});
@@ -36,8 +35,4 @@ const ShopIcon = styled.i`
 	&:hover {
 		color: rgb(185, 0, 0);
 	}
-`;
-
-const ShopItemQuantity = styled.input`
-	width: 70px;
 `;

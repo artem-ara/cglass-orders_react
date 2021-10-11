@@ -31,9 +31,7 @@ export const Products = props => {
 			));
 
 		if (!value || value.length < 3) return newView.slice(0, 0);
-		else {
-			return newView.slice(0, 100);
-		}
+		else return newView.slice(0, 100);
 	};
 
 	return (

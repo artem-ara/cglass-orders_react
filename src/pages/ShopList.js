@@ -1,41 +1,36 @@
-import download from "downloadjs";
-import "../css/BasketPage.scss";
 import React, { useState } from "react";
-import { ShopItem } from "../components/ShopItem";
-import { useStore } from "../StoreContext";
+import download from "downloadjs";
 import styled from "styled-components";
 
+import { ShopItem } from "../components/ShopItem";
+import { useStore } from "../StoreContext";
+
 export const ShopList = () => {
-	const { shopClass, shopClassToggle } = useStore();
 	const store = useStore();
-	const emptyOrder = store.list.length;
+	const isOrder = store.list.length;
 	const orderItems = store.list;
+	const { isBasketOpen, toggleBasket } = useStore();
 
-	const [btnClass, setBtnClass] = useState("btn btn-secondary unavailable");
-	const [valid, setValid] = useState("form-control");
 	const [nip, setNip] = useState("");
-	const [companyName, setCompanyName] = useState("default");
-    const [isOrderReady, setIsOrderReady] = useState(false)
+	const [companyName, setCompanyName] = useState("");
+	const [isOrderReady, setIsOrderReady] = useState(true);
+	const [isPending, setPending] = useState(false);
 
-	const nipVerify = e => {
-		if (e.length >= 7 && emptyOrder > 0) {
-			setBtnClass("btn btn-success");
-			setValid("form-control");
-            setIsOrderReady(true)
-		} else {
-			setBtnClass("btn btn-secondary unavailable");
-			setValid("form-control is-invalid");
-		}
+	const verifyOrder = () => {
+		if (nip.length >= 7 && isOrder > 0 && companyName !== "")
+			setIsOrderReady(true);
+		else setIsOrderReady(false);
 	};
 
-	const handleNipOnChange = value => {
-		if (value.match(/^[1-9]*[1-9]$/g)) {
-			nipVerify(value);
-			setNip(value);
-		}
+	const handleNipChange = value => {
+		verifyOrder(value);
+		if (value.match(/^[0-9]+$/))
+            setNip(value.replaceAll(/[\ \-]/g, ""))
 	};
 
 	const sendOrder = async () => {
+		setIsOrderReady(false);
+		setPending(true);
 		const url = "https://dbf-order-lite-backend.herokuapp.com/dbf";
 		const requestBody = {
 			nip,
@@ -50,60 +45,84 @@ export const ShopList = () => {
 			body: JSON.stringify(requestBody),
 		});
 		const data = await response.blob();
-		download(data, `${companyName || "noname"}-CGlassOrder.dbf`);
+		if (data) setPending(false);
+		download(data, `${companyName}-CGlassOrder.dbf`);
 	};
 
 	return (
-		<div className={shopClass}>
-			<div className="card">
-				<h5 className="card-header">
-					Twoje zamówienie{" "}
-					<i className="fas fa-times" onClick={shopClassToggle}></i>
-				</h5>
-				<div className="card-body">
-					<ul>
-						<ShopItemLabel>
-							Artykuł:<ShopItemQuantity>Ilość:</ShopItemQuantity>{" "}
-						</ShopItemLabel>
-						<ShopItem />
-					</ul>
+		<>
+			<ShopItemWrapper active={isBasketOpen}>
+				<div className="card">
+					<ShopItemTitleWrapper className="card-header">
+						Twoje zamówienie{" "}
+						<i className="fas fa-times" onClick={() => toggleBasket()} />
+					</ShopItemTitleWrapper>
+					<div className="card-body text-center">
+						<ul>
+							<ShopItemLabel>
+								Artykuł:<ShopItemQuantity>Ilość:</ShopItemQuantity>{" "}
+							</ShopItemLabel>
+
+							<ShopItem />
+						</ul>
 
 						<div className="mb-3">
 							<input
 								type="text"
 								className="form-control"
 								placeholder="Nazwa firmy"
-								onChange={event => setCompanyName(event.target.value)}
+								onChange={event => {
+									setCompanyName(event.target.value);
+									verifyOrder();
+								}}
+								value={companyName}
 							/>
 						</div>
 
-						<div className="input-group mb-3">
+						<div className="mb-3">
 							<input
 								type="text"
-								className={valid}
+								className="form-control"
 								placeholder="Wpisz NIP"
 								minLength="7"
-								onChange={event =>
-									handleNipOnChange(event.target.value)
-								}
+								onChange={event => handleNipChange(event.target.value)}
 								value={nip}
-                                required
 							/>
-							<div className="invalid-tooltip">
-								NIP musi zawierać 10 symbolów
-							</div>
-							<div className="input-group-append">
-								<button
-									className={btnClass}
-									onClick={isOrderReady? sendOrder : null}
-								>
-									Wyślij
-								</button>
-							</div>
 						</div>
+
+						<div className="d-flex justify-content-around">
+							<button
+								className="btn btn-outline-danger"
+								onClick={() => {
+									store.clearOrder();
+									setIsOrderReady(false);
+								}}
+							>
+								Usuń wszystko
+							</button>
+
+							<button
+								className={
+									!isOrderReady
+										? "btn btn-secondary"
+										: "btn btn-success"
+								}
+								onClick={isOrderReady ? sendOrder : null}
+								disabled={!isOrderReady}
+							>
+								Wyślij
+							</button>
+						</div>
+
+						{isPending ? (
+							<div className="spinner-border text-dark" role="status">
+								<span className="sr-only">Загрузка...</span>
+							</div>
+						) : null}
+					</div>
 				</div>
-			</div>
-		</div>
+			</ShopItemWrapper>
+		</>
 	);
 };
 
@@ -114,3 +133,41 @@ const ShopItemLabel = styled.li`
 `;
 
 const ShopItemQuantity = styled.span(ShopItemLabel);
+
+const ShopItemWrapper = styled.div`
+	display: ${props => (props.active ? "block" : "none")};
+	position: fixed;
+	top: 3.5rem;
+	right: 0rem;
+	z-index: 1;
+	width: 20rem;
+	height: 40rem;
+	border-radius: 5%;
+
+	@media (max-width: 991px) {
+		top: 6rem;
+	}
+
+	ul {
+		padding: 0;
+	}
+
+	.card-header {
+		i {
+			margin-left: 10px;
+			color: rgba(107, 94, 94, 0.692);
+
+			&:hover {
+				color: rgb(185, 0, 0);
+			}
+		}
+	}
+`;
+
+const ShopItemTitleWrapper = styled.h5`
+	.cardHeader {
+	}
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+`;

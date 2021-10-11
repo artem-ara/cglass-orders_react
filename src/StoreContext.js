@@ -8,13 +8,22 @@ export const useStore = () => {
 
 export const StoreProvider = ({ children }) => {
 	const [count, setCount] = useState(0);
-	const addCount = () => {
-		setCount(count => count + 1);
+	const [orderList, setOrderList] = useState([]);
+	const [isOrderReady, setIsOrderReady] = useState(false);
+    const [isBasketOpen, setBasketOpen] = useState(false);
+
+    const toggleBasket = () => setBasketOpen(prev => !prev)
+
+	const clearOrder = () => {
+		setOrderList([]);
+        setCount(0)
 	};
 
-	const [orderList, setOrderList] = useState([]);
+	const addCount = value => {
+		setCount(count => count + +value);
+	};
 
-	const addItem = name => {
+	const addItem = (name, quantityValue) => {
 		const currentItems = [];
 
 		orderList.forEach((e, i) => {
@@ -23,18 +32,14 @@ export const StoreProvider = ({ children }) => {
 
 		if (currentItems.includes(name)) {
 			const i = currentItems.findIndex(item => item === name);
-			orderList[i].quantity++;
+			let newOrderList = [...orderList];
+			newOrderList[i].quantity += +quantityValue;
+			setOrderList(newOrderList);
 		} else
 			setOrderList(orderList => [
 				...orderList,
-				{ position: name, quantity: 1 },
+				{ position: name, quantity: +quantityValue },
 			]);
-	};
-
-	const [shopClass, setShopCLass] = useState("shop");
-	const shopClassToggle = () => {
-		if (shopClass === "shop") setShopCLass("shop shop-active");
-		else setShopCLass("shop");
 	};
 
 	const deleteItem = (item, index) => {
@@ -53,9 +58,12 @@ export const StoreProvider = ({ children }) => {
 				addCount,
 				list: orderList,
 				addItem,
-				shopClass,
-				shopClassToggle,
 				deleteItem,
+				clearOrder,
+				isOrderReady,
+				setIsOrderReady,
+                isBasketOpen,
+                toggleBasket
 			}}
 		>
 			{children}
